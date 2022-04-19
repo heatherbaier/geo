@@ -11,6 +11,9 @@ nig_ef = nig_ef.rename(columns = {"facility_name": "school_name"})
 nig_ef = pd.merge(nig_ef, ids, on = "school_name")
 nig_ef = nig_ef[["geo_id", "longitude", "latitude"]]
 
+nig_ef = nig_ef[nig_ef["longitude"] != 0]
+nig_ef = nig_ef[nig_ef["latitude"] != 0]
+
 print(nig_ef.head())
 
 nig_ef.to_csv("../../files_for_db/coordinates/nig_coordinates.csv", index = False)

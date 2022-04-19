@@ -15,6 +15,9 @@ bhr_ef = pd.merge(bhr_ef, ids, on = "deped_id").rename(columns = {"POINT_X_Longi
 
 bhr_ef = bhr_ef[["geo_id", "longitude", "latitude"]]
 
+bhr_ef = bhr_ef[bhr_ef["longitude"] != 0]
+bhr_ef = bhr_ef[bhr_ef["latitude"] != 0]
+
 print(bhr_ef.head())
 
 bhr_ef.to_csv("../../files_for_db/coordinates/bhr_coordinates.csv", index = False)
