@@ -1,0 +1,3 @@
+educational-facilities-in-nigeria.csv:
+    School_coordinate_year: Inventory of geo-referenced baseline educational facilities across Nigeria. Collected in 2010 (113 LGAs), 2012 (661 LGAs), and 2014.
+    Source: https://africaopendata.org/dataset/educational-facilities-in-nigeria
