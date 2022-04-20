@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info version="1.1">
+  <general>
+    <createDate>2012-06-14T16:12:34</createDate>
+    <changeDate>2017-10-24T19:44:24</changeDate>
+    <schema>iso19139</schema>
+    <isTemplate>n</isTemplate>
+    <localId>209</localId>
+    <format>full</format>
+    <rating>0</rating>
+    <popularity>1722</popularity>
+    <uuid>5fac6233-54d6-451f-9cba-0c8dfa4d2159</uuid>
+    <siteId>e76c6fd9-d8fb-4c68-8614-922a2b790ce8</siteId>
+    <siteName>Catálogo GeoBolivia</siteName>
+  </general>
+  <categories />
+  <privileges>
+    <group name="all">
+      <operation name="dynamic" />
+      <operation name="featured" />
+      <operation name="view" />
+      <operation name="download" />
+    </group>
+  </privileges>
+  <public>
+    <file name="educacin_s.png" changeDate="2019-05-13T22:35:28" />
+    <file name="educacin.png" changeDate="2019-05-13T22:35:28" />
+  </public>
+  <private />
+</info>
+
