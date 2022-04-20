@@ -1,2 +1,4 @@
 export-full-1650468035139
     https://geo.gob.bo/geonetwork/srv/eng/catalog.search;jsessionid=node012yd6amyg6jle1ipsd3sv6ee06145.node0#/metadata/5fac6233-54d6-451f-9cba-0c8dfa4d2159
+shp
+    http://geo.gob.bo/download/?w=mde&l=EstabEducativos
