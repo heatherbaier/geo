@@ -1,0 +1,14 @@
+import pandas as pd
+
+
+sle_ef = pd.read_csv("../../data/SLE/sleeducptstewardschools.csv")
+sle_ef = sle_ef[["Educ_Code", "Educ_Name"]]
+sle_ef = sle_ef.reset_index()
+sle_ef['geo_id'] = sle_ef['index'].apply(lambda x: 'SLE-{0:0>6}'.format(x))
+sle_ef = sle_ef[["geo_id", "Educ_Code", "Educ_Name"]].rename(columns = {"Educ_Code": "deped_id", "Educ_Name": "school_name"})
+
+print(sle_ef.head())
+
+sle_ef.to_csv("../../files_for_db/ids/sle_ids.csv", index = False)
+
+
