@@ -11,4 +11,9 @@ for i, (file) in enumerate(os.listdir(IDS_DIR)):
     else:
         df = df.append(pd.read_csv(file))
 
+
+for col in df.columns:
+    df[col] = df[col].str.encode('ascii', 'ignore').str.decode('ascii')
+
+
 df.to_csv("../../files_for_db/db/ids.csv", index = False)
