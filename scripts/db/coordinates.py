@@ -11,4 +11,7 @@ for i, (file) in enumerate(os.listdir(IDS_DIR)):
     else:
         df = df.append(pd.read_csv(file))
 
+df["index"] = [_ for _ in range(0, len(df))]
+df = df[["index", "geo_id", "longitude", "latitude"]]
+
 df.to_csv("../../files_for_db/db/coordinates.csv", index = False)
