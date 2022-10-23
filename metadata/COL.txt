@@ -1,0 +1,2 @@
+escuelas.txt
+    https://www.datos.gov.co/Educaci-n/escuelas/takn-ph3n
