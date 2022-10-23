@@ -1,0 +1,4 @@
+establecimientos_20221020.csv
+    https://datos.mec.gov.py/data/establecimientos
+pry_coords.csv
+    generated using QGIS tools on the establecimientos_20221020.csv file
