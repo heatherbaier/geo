@@ -14,4 +14,8 @@ for i, (file) in enumerate(os.listdir(IDS_DIR)):
 df["index"] = [_ for _ in range(0, len(df))]
 df = df[["index", "geo_id", "longitude", "latitude"]]
 
+df = df.drop_duplicates(subset = ["geo_id"])
+
+print(df.shape)
+
 df.to_csv("../../files_for_db/db/coordinates.csv", index = False)
