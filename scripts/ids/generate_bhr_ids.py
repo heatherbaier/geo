@@ -8,6 +8,11 @@ from utils import *
 bhr_ef = pd.read_csv("../../data/BHR/bahrain_school_locations.csv")
 bhr_ef = bhr_ef[bhr_ef["SUBTYPE EN"].isin(["KINDERGARTEN", "PUBLIC SCHOOLS - BOYS", "PUBLIC SCHOOLS - GIRLS"])]
 bhr_ef = bhr_ef[["NAME", "#", "POINT_X_Longitude", "POINT_Y_Latitude"]]
+print(bhr_ef.shape)
+
+bhr_ef = bhr_ef.drop_duplicates(subset = ["POINT_X_Longitude", "POINT_Y_Latitude"])
+print(bhr_ef.shape)
+
 bhr_ef = bhr_ef.reset_index()
 bhr_ef['geo_id'] = bhr_ef['index'].apply(lambda x: 'BHR-{0:0>6}'.format(x))
 bhr_ef = bhr_ef.drop(["index"], axis = 1)
@@ -15,6 +20,8 @@ bhr_ef = bhr_ef[["geo_id", "#", "NAME", "POINT_X_Longitude", "POINT_Y_Latitude"]
 bhr_ef["address"] = None
 bhr_ef["adm0"] = "BHR"
 print(bhr_ef.head())
+
+# dgad
 
 # Geocode to ADM levels
 cols = ["geo_id", "deped_id", "school_name", "longitude", "latitude", "address", "adm0"]
@@ -35,5 +42,7 @@ for adm in range(1, 4):
         print(e)
 
 bhr_ef = bhr_ef[cols].drop(["longitude", "latitude"], axis = 1)
+
+print(bhr_ef.head())
 
 bhr_ef.to_csv("../../files_for_db/ids/bhr_ids.csv", index = False)

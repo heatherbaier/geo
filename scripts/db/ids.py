@@ -15,5 +15,6 @@ for i, (file) in enumerate(os.listdir(IDS_DIR)):
 for col in df.columns:
     df[col] = df[col].str.encode('ascii', 'ignore').str.decode('ascii')
 
+print(df.shape)
 
 df.to_csv("../../files_for_db/db/ids.csv", index = False)
