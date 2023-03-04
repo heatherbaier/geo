@@ -1,2 +1,6 @@
 *_MINEDUC_*
     https://educacion.gob.ec/base-de-datos/#
+
+MINEDUC_RegistrosAdministrativos_2021-2022-Fin.csv
+    https://educacion.gob.ec/base-de-datos/
+    03/04/2023
