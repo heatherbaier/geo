@@ -2,3 +2,9 @@ kenya_primary_schools.csv
     https://africaopendata.org/dataset/kenya-primary-schools-2013
 kenya_secondary_schools.csv
     https://newsblaze.co.ke/full-list-of-all-county-secondary-schools-in-kenya-school-code-name-location-and-other-details/
+schools.zip
+    https://energydata.info/dataset/kenya-schools
+    03/10/2023
+schools.json
+    https://energydata.info/dataset/kenya-schools
+    03/10/2023
