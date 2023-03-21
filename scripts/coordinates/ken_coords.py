@@ -21,4 +21,4 @@ ken_table_coordinates = pd.merge(ken_table, ken_id_table, how="inner")
 ken_table_coordinates = ken_table_coordinates[["geo_id", "longitude", "latitude"]]
 
 #export as csv
-ken_table_coordinates.to_csv("ken_coordinates.csv", index=False)
+ken_table_coordinates.to_csv("../../files_for_db/coordinates/ken_coordinates.csv", index=False)
