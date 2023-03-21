@@ -75,4 +75,4 @@ ken_table_ids["country_id"] = ken_table_ids["id"]
 ken_table_ids = ken_table_ids[["geo_id", "country_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3"]]
 
 #export as csv
-ken_table_ids.to_csv("../../files_for_db/personnel/ken_ids.csv", index=False)
+ken_table_ids.to_csv("../../files_for_db/ids/ken_ids.csv", index=False)
