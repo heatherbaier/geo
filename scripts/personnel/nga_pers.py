@@ -13,10 +13,10 @@ nga_table["st_ratio"] = nga_table["num_students_total"] / nga_table["num_tchr_fu
 nga_table["st_ratio"] = nga_table["st_ratio"].replace([np.inf, 0], np.nan)
 
 #keep only necessary columns
-nga_table_personnel = nga_table[["facility_name", "year", "num_students_total", "num_students_female", "num_students_male", "num_tchr_full_time", "st_ratio"]]
+nga_table_personnel = nga_table[["facility_id", "year", "num_students_total", "num_students_female", "num_students_male", "num_tchr_full_time", "st_ratio"]]
 
 #merge with ID table to get geoIDs
-nga_table_personnel["school_name"] = nga_table_personnel["facility_name"]
+nga_table_personnel["deped_id"] = nga_table_personnel["facility_id"]
 nga_table_personnel = pd.merge(nga_table_personnel, nga_id_table, how="inner")
 
 #final formatting
