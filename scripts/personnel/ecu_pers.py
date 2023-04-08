@@ -4,7 +4,7 @@ from utils import *
 
 #import necessary data from github
 ecu_table = pd.read_csv("../../data/ECU/MINEDUC_RegistrosAdministrativos_2021-2022-Fin.csv")
-ecu_id_table = pd.read_csv("ecu_ids.csv")
+ecu_id_table = pd.read_csv("../../files_for_db/ids/ecu_ids.csv")
 
 #data cleaning for original data source
 ecu_table.columns = ecu_table.iloc[11]
