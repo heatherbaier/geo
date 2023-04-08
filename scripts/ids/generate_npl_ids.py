@@ -3,8 +3,8 @@ import numpy as np
 from utils import *
 
 #import data and combine into one file
-npl_table_raw1 = pd.read_csv("School Performance for the year 2062 BS.csv")
-npl_table_raw2 = pd.read_csv("School Performance for the year 2063 BS.csv")
+npl_table_raw1 = pd.read_csv("../../data/NPL/School Performance for the year 2062 BS.csv")
+npl_table_raw2 = pd.read_csv("../../data/NPL/School Performance for the year 2063 BS.csv")
 
 npl_table_raw1 = npl_table_raw1[["District", "Zone", "School Code", "Name of School"]]
 npl_table_raw2 = npl_table_raw2[["District", "Zone", "School Code", "Name of School"]]
@@ -26,4 +26,4 @@ npl_table["adm3"] = None
 npl_table = npl_table[["geo_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3"]]
 
 #export as csv
-npl_table.to_csv("npl_ids.csv", index = False)
+npl_table.to_csv("../../files_for_db/ids/npl_ids.csv", index = False)
