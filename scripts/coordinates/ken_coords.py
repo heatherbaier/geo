@@ -12,8 +12,8 @@ ken_id_table = pd.read_csv("../../files_for_db/ids/ken_ids.csv")
 ken_table["longitude"] = None
 ken_table["latitude"] = None
 for i in range(len(ken_table)):
-    ken_table["longitude"].iloc[i] = ken_table["properties"].iloc[i]["Y_Coord"]
-    ken_table["latitude"].iloc[i] = ken_table["properties"].iloc[i]["X_Coord"]
+    ken_table["longitude"].iloc[i] = ken_table["properties"].iloc[i]["X_Coord"]
+    ken_table["latitude"].iloc[i] = ken_table["properties"].iloc[i]["Y_Coord"]
 
 #merge tables to get geoid
 ken_table["country_id"] = ken_table["id"]
