@@ -1,0 +1,15 @@
+2018 Base Usuaria 2.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+
+2018 Base Usuaria 3.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+  
+2018 Base Usuaria 4.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+  
+mae_actualizado_2019-09-16_envios.csv (uploaded as zip to fit GitHub's limits)
+  https://datos.gob.ar/dataset/educacion-padron-oficial-establecimientos-educativos/archivo/educacion_18.1
+  04/14/2023
