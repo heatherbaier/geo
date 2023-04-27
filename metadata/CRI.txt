@@ -1,0 +1,7 @@
+MATRICULA_INICIAL_COLEGIOS_2014-2021_POR_AÑO_CURSADO_Y_SEXO.xlsx
+  https://www.mep.go.cr/indicadores_edu/autotabulaciones.html
+  04/26/2023
+  
+MATRICULA_INICIAL_ESCUELAS_DIURNAS_2014-2021_POR_AÑO_CURSADO_Y_SEXO.xlsx
+  https://www.mep.go.cr/indicadores_edu/autotabulaciones.html
+  04/26/2023
