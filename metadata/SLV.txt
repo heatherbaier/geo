@@ -1,0 +1,3 @@
+datos_sedes_educativas.csv
+  https://ckan.siges.sv/es/dataset/sedes-educativas
+  05/04/2023
