@@ -5,3 +5,7 @@ datos_sedes_educativas.csv
 el_salv_coordinates.xlsx
   Generated with GeoCoding by Elias and Jane
   03/10/2022
+  
+Base de datos de Censo Final 2018.xlsx
+  https://dataverse.harvard.edu/file.xhtml?fileId=4570380&version=1.0
+  05/04/2023
