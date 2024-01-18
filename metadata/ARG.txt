@@ -1,0 +1,7 @@
+Mae actualizado 2019-09-16_Envios 2.xls
+    https://datos.gob.ar/dataset/educacion-padron-oficial-establecimientos-educativos
+
+2014 BASE 4 Usuario.xlsx
+    https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2014
+    Tuition basis. Common Education. Total enrollment and by gender, Repeaters, Overage Students and Sections, by Establishment, Jurisdiction, Management Sector, Scope and Offer Information.
+
