@@ -1,0 +1,23 @@
+meduca-estadisticas-educativas-de-primaria-2019.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2019
+  05/05/2023
+  
+meduca-estadisticas-educativas-de-premedia-2019.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2019
+  05/05/2023
+  
+meduca-estadisticas-educativas-de-media-2019.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2019
+  05/05/2023
+
+meduca-estadisticas-educativas-de-primaria-2020.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2020
+  05/05/2023
+  
+meduca-estadisticas-educativas-de-premedia-2020.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2020
+  05/05/2023
+  
+meduca-estadisticas-educativas-de-media-2020.csv
+  https://www.datosabiertos.gob.pa/dataset/meduca-estadisticas-educativas-2020
+  05/05/2023

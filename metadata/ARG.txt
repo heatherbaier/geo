@@ -1,7 +1,22 @@
+2018 Base Usuaria 2.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+
+2018 Base Usuaria 3.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+  
+2018 Base Usuaria 4.csv
+  https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2018/archivo/educacion_4.1
+  04/14/2023
+  
+mae_actualizado_2019-09-16_envios.csv (uploaded as zip to fit GitHub's limits)
+  https://datos.gob.ar/dataset/educacion-padron-oficial-establecimientos-educativos/archivo/educacion_18.1
+  04/14/2023
+
 Mae actualizado 2019-09-16_Envios 2.xls
     https://datos.gob.ar/dataset/educacion-padron-oficial-establecimientos-educativos
 
 2014 BASE 4 Usuario.xlsx
     https://datos.gob.ar/dataset/educacion-base-datos-por-escuela-2014
     Tuition basis. Common Education. Total enrollment and by gender, Repeaters, Overage Students and Sections, by Establishment, Jurisdiction, Management Sector, Scope and Offer Information.
-

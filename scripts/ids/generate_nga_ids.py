@@ -5,10 +5,10 @@ from utils import *
 
 
 nig_ef = pd.read_csv("../../data/NGA/educational-facilities-in-nigeria.csv")
-nig_ef = nig_ef[["facility_name", "longitude", "latitude"]]
+nig_ef = nig_ef[["facility_name", "facility_id", "longitude", "latitude"]]
 
 print(nig_ef.shape)
-nig_ef = nig_ef.drop_duplicates(subset = ["longitude", "latitude"])
+nig_ef = nig_ef.drop_duplicates("facility_id")
 print(nig_ef.shape)
 
 
@@ -17,7 +17,7 @@ print(nig_ef.shape)
 
 nig_ef = nig_ef.reset_index()
 nig_ef['geo_id'] = nig_ef['index'].apply(lambda x: 'NIG-{0:0>6}'.format(x))
-nig_ef["deped_id"] = None
+nig_ef["deped_id"] = nig_ef["facility_id"]
 nig_ef = nig_ef[["geo_id", "deped_id", "facility_name", "longitude", "latitude"]]
 nig_ef = nig_ef.rename(columns = {"facility_name":"school_name"})
 nig_ef["address"] = None
