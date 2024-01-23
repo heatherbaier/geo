@@ -4,13 +4,16 @@ import os
 
 IDS_DIR = "../../files_for_db/coordinates/"
 
+dfs = []
 for i, (file) in enumerate(os.listdir(IDS_DIR)):
     file = os.path.join(IDS_DIR, file)
-    if i == 0:
-        df = pd.read_csv(file)
-    else:
-        df = df.append(pd.read_csv(file))
+    # if i == 0:
+        # df = pd.read_csv(file)
+    # else:
+        # df = df.concat(pd.read_csv(file))
+    dfs.append(pd.read_csv(file))
 
+df = pd.concat(dfs)
 df["index"] = [_ for _ in range(0, len(df))]
 df = df[["index", "geo_id", "longitude", "latitude"]]
 
