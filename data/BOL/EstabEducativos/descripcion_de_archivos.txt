@@ -1,0 +1,21 @@
+DESCRIPCIÓN DE ARCHIVO DESCARGADOS
+
+Considerando que la información en formato shapefile, contempla varios archivos que conforman el archivo vectorial, a continuación se da un descripción breve de cada uno de estos archivos y sus funcionalidades: 
+
+Archivo.sld:Es un descriptor del estilo cartográfico que esta desarrollado en formato XML, lo que permite que las capas vectoriales (punto, linea y polígono) ya tengan definido los colores, tamaño, grosor, etiqueta, etc. Dicho archivo puede ser soportado en diferentes SIG de licencia libre como Qgis, Udig y otros.
+
+Archivo.shp.xml:Permite almacenar el metadato geográfico de un capa, bajo un estándar establecido (ISO 19139, 19115, FGDC, etc.), permitiendo al usuario tener un criterio claro del linaje de la información, dicho archivo puede ser visualizado en sistemas de información geográfica libre (QGIS) y privativa (ArcGis).
+
+Archivo.shp:Almacena las entidades geométricas de los objetos geográficos como puntos, lineas y polígonos.
+
+Archivo.shx:Almacena el índice de las entidades geométricas.
+
+Archivo.dbf:Base de datos del archivo vectorial, en formato dBASE, donde se almacena la información de los atributos de los objetos
+
+Archivo.prj:Identifica la información referida al sistema de coordenadas del archivo vectorial.
+
+Archivo.sbx:Almacena el índice espacial de las entidades
+
+Archivo.pdf:Es una copia en formato pdf del metadato geográfico, correspondiente a la entidad vectorial descargada
+
+Archivo.xml:Corresponde al metadato geográfico de la entidad vectorial que puede ser visualizado o cargado en Geonetwork (editor de metadatos)
