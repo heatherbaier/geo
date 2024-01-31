@@ -28,16 +28,16 @@ def makeGBdir(iso, base_dir):
 def downloadGB(iso, adm, base_dir):
 
     # Create the request URL
-    url = "https://www.geoboundaries.org/gbRequest.html?ISO=" + iso + "&ADM=ADM" + adm
+    url = "https://www.geoboundaries.org/api/current/gbOpen/" + iso + "/ADM" + adm
     print("Making request to: ", url)
 
     # Make the request to the URL
     r = requests.get(url)
-    dlPath = r.json()[0]['downloadURL']
+    dlPath = r.json()['staticDownloadLink']
     print("Downloading data from: ", dlPath)
     
     # Get the download URL
-    r = requests.get(r.json()[0]['downloadURL'], allow_redirects=True)
+    r = requests.get(dlPath, allow_redirects=True)
 
     # Make directory for downloaded zipfolder
     tmp_dir = makeGBdir(iso, base_dir)
