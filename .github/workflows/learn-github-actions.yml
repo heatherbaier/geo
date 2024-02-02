@@ -11,4 +11,4 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
-      - run: ssh globaled@globaleducationobservatory.com
+      - run: ssh globaled@us16.acugis-dns.com
