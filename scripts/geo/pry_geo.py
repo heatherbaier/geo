@@ -13,7 +13,16 @@ pry_raw = pry_raw[["codigo_est", "direccion", "ycoord", "xcoord"]]
 pry_raw.columns = ["deped_id", "address", "latitude", "longitude"]
 pry_raw = pry_raw.drop_duplicates(subset = ["deped_id"])
 pry_raw = pry_raw.reset_index()
+pry_raw = pry_raw[pry_raw["longitude"] != 0]
+pry_raw = pry_raw[pry_raw["latitude"] != 0]
+pry_raw = pry_raw.dropna(subset = ["latitude", "longitude"])
+pry_raw['index'] = [i for i in range(len(pry_raw))]
 pry_raw['geo_id'] = pry_raw['index'].apply(lambda x: 'PRY-{0:0>6}'.format(x))
+
+print(pry_raw)
+
+# dasga
+
 pry_raw = pry_raw.drop(["index"], axis = 1)
 # pry_raw = pry_raw[["geo_id", "CODE", "NAME"]].rename(columns = {"CODE": "deped_id", "NAME": "school_name"})
 # pry_raw = pry_raw[["geo_id", "CODE", "NAME", "LONGITUDE", "LATITUDE"]]
@@ -22,10 +31,8 @@ pry_raw["school_name"] = None
 print(pry_raw.head())
 print(pry_raw.columns)
 
-pry_raw = pry_raw[pry_raw["longitude"] != 0]
-pry_raw = pry_raw[pry_raw["latitude"] != 0]
 
-pry_raw = pry_raw.dropna(subset = ["latitude", "longitude"])
+
 
 
 print(pry_raw)
