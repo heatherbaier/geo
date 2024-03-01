@@ -8,10 +8,15 @@ from utils import *
 
 # import all data
 gua_1314 = pd.read_excel("../../data/GUA/establecimientos_2013-2014.xlsx")
+print("1")
 gua_1516 = pd.read_excel("../../data/GUA/establecimientos_2015-2016.xlsx")
+print("2")
 gua_1718 = pd.read_excel("../../data/GUA/establecimientos_2017-2018.xlsx")
+print("3")
 gua_1920 = pd.read_excel("../../data/GUA/establecimientos_2019-2020.xlsx")
+print("4")
 gua_2122 = pd.read_excel("../../data/GUA/establecimientos_2021-2022.xlsx")
+print("5")
 
 # combine into one dataframe
 gua_all = pd.concat([gua_1314, gua_1516, gua_1718, gua_1920, gua_2122])
@@ -28,10 +33,10 @@ gua_all.columns = ["adm1_temp", "adm2_temp", "deped_id", "school_name", "address
 
 # create geo_ids
 gua_all.reset_index(inplace=True)
-gua_all["geo_id"] = gua_all['index'].apply(lambda x: 'GUA-{0:0>6}'.format(x))
+gua_all["geo_id"] = gua_all['index'].apply(lambda x: 'GTM-{0:0>6}'.format(x))
 
 # add adm0
-gua_all["adm0"] = "GUA"
+gua_all["adm0"] = "GTM"
 
 # add other adms
 longs = gua_all["longitude"].values
