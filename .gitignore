@@ -4,3 +4,4 @@ gb
 *__pycache__
 data/COL/MEN_MATRICULA_EN_EDUCACION_EN_PREESCOLAR__B_SICA_Y_MEDIA_2010_A_2017.csv
 archive
+*.idea*
