@@ -38,5 +38,9 @@ pers_pry["total_teachers"] = None
 # reorder columns
 pers_pry = pers_pry[["geo_id", "year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers", "total_student_male", "total_student_female", "total_student_enrollment"]]
 
+pers_pry = pers_pry[~pers_pry["year"].isna()]
+
+pers_pry["year"] = pers_pry["year"].astype(int)
+
 # export final personnel file
 pers_pry.to_csv("../../files_for_db/personnel/pry_personnel.csv", index = False)
