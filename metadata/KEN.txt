@@ -8,3 +8,6 @@ schools.zip
 schools.json
     https://energydata.info/dataset/kenya-schools
     03/10/2023
+Kenya MOE Schools - Schools.csv
+    https://data.humdata.org/dataset/kenya-schools
+    https://docs.google.com/spreadsheets/d/1t8S_POnyZnSJWMtgutAdKYnhQXu4L6nS_XKPcryImso/edit#gid=762738232
