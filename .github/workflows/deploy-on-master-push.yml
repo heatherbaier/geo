@@ -1,4 +1,4 @@
-name: Deploy on Master Push v2
+name: Deploy on Master Push v4
 
 on:
   push:
