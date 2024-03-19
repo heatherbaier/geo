@@ -21,7 +21,7 @@ jobs:
       
       - name: Connect to EC2 and run script
         run: |
-            ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com 'run_commands.sh'
+            ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com '/home/ubuntu/run_commands.sh'
             # ls;
             # psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb;
             # # echo "Another command";
