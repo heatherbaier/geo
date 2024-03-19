@@ -24,6 +24,20 @@ jobs:
           ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com '
             ls;
             psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb;
-            echo "Another command";
+            # echo "Another command";
             # Add more commands as needed
+
+            CREATE TABLE khm_geo (
+                    geo_id VARCHAR NOT NULL, 
+                    deped_id VARCHAR,
+                    school_name VARCHAR,
+                    address VARCHAR, 
+                    adm0 VARCHAR,
+                    adm1 VARCHAR,
+                    adm2 VARCHAR,
+                    adm3 VARCHAR,
+                    longitude VARCHAR,
+                    latitude VARCHAR
+            );
+            
           '
