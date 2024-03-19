@@ -20,9 +20,5 @@ jobs:
     - name: Identify changed directories and files
       id: dir_changes
       run: |
-        CHANGED_DIRS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^files_for_db/' | awk -F'/' '{print $2}' | sort -u)
-        echo "Changed directories: $CHANGED_DIRS"
-        for dir in $CHANGED_DIRS; do
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^files_for_db/$dir/")
-          echo "::set-output name=${dir}_changed_files::$CHANGED_FILES"
-        done
+        ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com '/home/ubuntu/run_commands.sh'
+
