@@ -25,19 +25,8 @@ jobs:
             ls;
             psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb;
             # echo "Another command";
+            
             # Add more commands as needed
-
-            TABLE_PREFIX=khm  # This is your dynamic part that you want to inject
-            
-            # Use sed to replace a placeholder in the SQL file with the desired table prefix
-            sed "s/:table_prefix/$TABLE_PREFIX/" create_table_template.sql > create_table.sql
-            
-            # Now run the modified SQL script
-            psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb -f create_table.sql
-
-            # \copy khm_geo FROM /home/ubuntu/data/khm_geo.csv WITH (FORMAT CSV, HEADER true, DELIMITER ',')
-
-            # Copy data from CSV file to the table
-            psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb -c "\copy ${TABLE_PREFIX}_geo FROM '/home/ubuntu/data/${TABLE_PREFIX}_geo.csv' WITH (FORMAT CSV, HEADER true, DELIMITER ',')"
+            ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com 'run_commands.sh'
 
           '
