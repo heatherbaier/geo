@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-ids = pd.read_csv("../../files_for_db/geo/nig_geo.csv")
+ids = pd.read_csv("../../archive/nig_geo.csv")
 
 data = pd.read_csv("../../data/NGA/educational-facilities-in-nigeria.csv")
 
