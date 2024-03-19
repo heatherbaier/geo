@@ -27,17 +27,13 @@ jobs:
             # echo "Another command";
             # Add more commands as needed
 
-            CREATE TABLE khm_geo (
-                    geo_id VARCHAR NOT NULL, 
-                    deped_id VARCHAR,
-                    school_name VARCHAR,
-                    address VARCHAR, 
-                    adm0 VARCHAR,
-                    adm1 VARCHAR,
-                    adm2 VARCHAR,
-                    adm3 VARCHAR,
-                    longitude VARCHAR,
-                    latitude VARCHAR
-            );
+            TABLE_PREFIX=khm  # This is your dynamic part that you want to inject
             
+            # Use sed to replace a placeholder in the SQL file with the desired table prefix
+            sed "s/:table_prefix/$TABLE_PREFIX/" create_table_template.sql > create_table.sql
+            
+            # Now run the modified SQL script
+            psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb -f create_table.sql
+            
+                        
           '
