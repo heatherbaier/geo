@@ -34,6 +34,7 @@ jobs:
             
             # Now run the modified SQL script
             psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb -f create_table.sql
-            
-                        
+
+            \copy khm_geo FROM /home/ubuntu/data/khm_geo.csv WITH (FORMAT CSV, HEADER true, DELIMITER ',')
+
           '
