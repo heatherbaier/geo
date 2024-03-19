@@ -1,32 +1,28 @@
-name: Deploy on Master Push v5
+name: Dynamic Database Update from Changed Folders
 
-on:
-  push:
-    branches:
-      - master
+on: push
 
 jobs:
-  deploy:
+  update-database:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
       
-      - name: Setting up SSH key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.AWS_KEY }}" > ~/.ssh/id_aws.pem
-          chmod 600 ~/.ssh/id_aws.pem
-          ssh-keyscan -H ec2-34-224-89-239.compute-1.amazonaws.com >> ~/.ssh/known_hosts
-      
-      - name: Connect to EC2 and run script
-        run: |
-            ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com '/home/ubuntu/run_commands.sh'
-            # ls;
-            # psql --host=geodb.cfhjsivstphy.us-east-1.rds.amazonaws.com --port=5432 --username=postgres --dbname=geodb;
-            # # echo "Another command";
-            
-            # # Add more commands as needed
-            # ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com 'run_commands.sh'
+    - name: Setting up SSH key
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.AWS_KEY }}" > ~/.ssh/id_aws.pem
+        chmod 600 ~/.ssh/id_aws.pem
+        ssh-keyscan -H ec2-34-224-89-239.compute-1.amazonaws.com >> ~/.ssh/known_hosts
 
-          # '
+    - name: Identify changed directories and files
+      id: dir_changes
+      run: |
+        CHANGED_DIRS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^files_for_db/' | awk -F'/' '{print $2}' | sort -u)
+        echo "Changed directories: $CHANGED_DIRS"
+        for dir in $CHANGED_DIRS; do
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^files_for_db/$dir/")
+          echo "::set-output name=${dir}_changed_files::$CHANGED_FILES"
+        done
