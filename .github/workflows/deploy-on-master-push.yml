@@ -1,4 +1,4 @@
-name: Deploy on Master Push
+name: Deploy on Master Push v2
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
       - name: Setting up SSH key
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_aws.pem
+          echo "${{ secrets.AWS_KEY }}" > ~/.ssh/id_aws.pem
           chmod 600 ~/.ssh/id_aws.pem
           ssh-keyscan -H ec2-34-224-89-239.compute-1.amazonaws.com >> ~/.ssh/known_hosts
       
