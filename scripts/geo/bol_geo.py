@@ -68,5 +68,3 @@ if not os.path.exists("/Users/heatherbaier/Documents/geo_git/files_for_db/shps/b
 gdf.to_file("/Users/heatherbaier/Documents/geo_git/files_for_db/shps/bol/bol.shp", index = False)
 
 shutil.make_archive("/Users/heatherbaier/Documents/geo_git/files_for_db/shps/bol", 'zip', "/Users/heatherbaier/Documents/geo_git/files_for_db/shps/bol")
-
-
