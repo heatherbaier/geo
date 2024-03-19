@@ -20,4 +20,4 @@ jobs:
           ssh-keyscan -H ec2-34-224-89-239.compute-1.amazonaws.com >> ~/.ssh/known_hosts
       
       - name: Connect to EC2 and run script
-        run: ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com 'pwd'
+        run: ssh -i "~/.ssh/id_aws.pem" ubuntu@ec2-34-224-89-239.compute-1.amazonaws.com
