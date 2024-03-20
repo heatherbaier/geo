@@ -29,7 +29,10 @@ deped_id_ls = ["Lycee G10-12" + f".{idx}" for idx in range(1,sec10_12.shape[0]+1
 sec10_12["deped_id"] = deped_id_ls
 
 # Combine secondary schools
-sec_schools = sec7_12.append(sec10_12, ignore_index=True)
+# sec_schools = sec7_12.append(sec10_12, ignore_index=True)
+
+sec_schools = pd.concat([sec7_12, sec10_12], ignore_index=True)
+
 
 # Update CRS and create lat/long for all schools
 
@@ -62,8 +65,13 @@ schools2014 = schools2014[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE
 schools2012 = schools2012[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE","longitude","latitude","deped_id"]]
 sec_schools = sec_schools[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE","longitude","latitude","deped_id"]]
 
-khm_schools = schools2014.append(schools2012, ignore_index=True)
-khm_schools = khm_schools.append(sec_schools, ignore_index=True)
+# khm_schools = schools2014.append(schools2012, ignore_index=True)
+# khm_schools = khm_schools.append(sec_schools, ignore_index=True)
+
+
+khm_schools = pd.concat([schools2014, schools2012], ignore_index=True)
+khm_schools = pd.concat([khm_schools, sec_schools], ignore_index=True)
+
 
 # Generate GEO ID's
 khm_schools['geo_id'] = pd.Series(range(0,len(khm_schools)+1)).apply(lambda x: 'KHM-{0:0>6}'.format(x))

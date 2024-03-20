@@ -1,4 +1,24 @@
 geo_id,deped_id,school_name,address,adm0,adm1,adm2,adm3,longitude,latitude
+KHM-000000,basic_information_of_school_2014.1,O Thom,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.03069845785991,13.515280683601715
+KHM-000001,basic_information_of_school_2014.2,Banteay Neang,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.01544201116597,13.51284667261378
+KHM-000002,basic_information_of_school_2014.3,Trang,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.0079455315561,13.505792141110023
+KHM-000003,basic_information_of_school_2014.4,Pongror,,KHM,Bantey Meanchey,Mongkol Borei,Ou Prasat,102.9987791305384,13.498588556974575
+KHM-000004,basic_information_of_school_2014.5,Kauk Tunloap,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.01423976974498,13.489583510676969
+KHM-000005,basic_information_of_school_2014.6,Khilek,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.02543593860247,13.488072196416702
+KHM-000006,basic_information_of_school_2014.7,Dang Run,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.04333765832138,13.498922078572535
+KHM-000007,basic_information_of_school_2014.8,Prey Changhar,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.03309104507473,13.467842748326515
+KHM-000008,basic_information_of_school_2014.9,O Andaung,,KHM,Bantey Meanchey,Mongkol Borei,Banteay Neang,103.05681215207427,13.470395171215085
+KHM-000009,basic_information_of_school_2014.10,Anlung Thngann,,KHM,Bantey Meanchey,Mongkol Borei,Bat Trang,102.98569674818995,13.51460657067061
+KHM-000010,basic_information_of_school_2014.11,Bat Trang,,KHM,Bantey Meanchey,Mongkol Borei,Bat Trang,102.99076822567855,13.531023116790307
+KHM-000011,basic_information_of_school_2014.12,Samaki,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.94732511745761,13.452570786799091
+KHM-000012,basic_information_of_school_2014.13,Chamnom,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.93645536118882,13.445270177923977
+KHM-000013,basic_information_of_school_2014.14,Raung Ko,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.93138191667484,13.423177801936596
+KHM-000014,basic_information_of_school_2014.15,Chor Khchas,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.95880560127485,13.408489741323098
+KHM-000015,basic_information_of_school_2014.16,Boeung Troh,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.96830565516777,13.412813978404708
+KHM-000016,basic_information_of_school_2014.17,Dang Trong,,KHM,Bantey Meanchey,Mongkol Borei,Phnum Touch,102.98088972546766,13.417126460962502
+KHM-000017,basic_information_of_school_2014.18,Kauk Ponley,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.96652102067293,13.438375353352777
+KHM-000018,basic_information_of_school_2014.19,Say Samon,,KHM,Bantey Meanchey,Mongkol Borei,Chamnaom,102.8597823239312,13.436334131803374
+KHM-000019,basic_information_of_school_2014.20,Ta An,,KHM,Bantey Meanchey,Mongkol Borei,Kouk Ballangk,103.08808557087914,13.47210824368186
 KHM-000020,basic_information_of_school_2014.21,Cheung Chab,,KHM,Bantey Meanchey,Mongkol Borei,Kouk Ballangk,103.09687098895887,13.470548105357611
 KHM-000021,basic_information_of_school_2014.22,Char Thmei,,KHM,Bantey Meanchey,Mongkol Borei,Kouk Ballangk,103.1172307436279,13.474479387029984
 KHM-000022,basic_information_of_school_2014.23,Ta Sal,,KHM,Bantey Meanchey,Mongkol Borei,Kouk Ballangk,103.15945039034914,13.483369557587949
