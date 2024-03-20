@@ -1,6 +1,6 @@
 import pandas as pd
 
-ids = pd.read_csv("../../archive/tan_geo.csv")
+ids = pd.read_csv("../../files_for_db/geo/tan_geo.csv")
 
 prim = pd.read_csv("/Users/heatherbaier/Documents/geo_git/data/TAN/Consolidated_Primary_EnrolmentbyGrade_PTR_2022_PSLE2021.csv")
 prim = prim.rename(columns = {"SCHOOL REG. NUMBER": "deped_id"})
