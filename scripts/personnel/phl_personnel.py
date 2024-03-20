@@ -1,6 +1,6 @@
 import pandas as pd
 
-ids = pd.read_csv("../../files_for_db/geo/phl_geo.csv")
+ids = pd.read_csv("../../archive/phl_geo.csv")
 
 data = pd.read_csv("../../data/PHL/this_one.csv")
 data = data[['school_year', 'school_id', 'total_teachers',

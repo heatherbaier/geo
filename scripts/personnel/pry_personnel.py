@@ -1,7 +1,7 @@
 import pandas as pd
 
 # import ids
-ids_pry = pd.read_csv("../../files_for_db/geo/pry_geo.csv")
+ids_pry = pd.read_csv("../../archive/pry_geo.csv")
 
 # import all raw personnel data
 pers_2012 = pd.read_csv("../../data/PRY/matriculaciones_educacion_escolar_basica_2012.csv")

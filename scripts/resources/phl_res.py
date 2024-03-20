@@ -11,7 +11,7 @@ Proportion of schools with access to:
 (g) basic handwashing facilities (as per the WASH indicator definitions)
 """
 
-ids = pd.read_csv("../../files_for_db/geo/phl_geo.csv")
+ids = pd.read_csv("../../archive/phl_geo.csv")
 
 data = pd.read_csv("../../data/PHL/this_one.csv")
 data = data.rename(columns = {"school_id": "deped_id"})
