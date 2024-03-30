@@ -6,7 +6,7 @@ import os
 from utils import *
 
 # read in excel file
-data = pd.read_excel("reach_lby_nationalschoolsassessment_complete_db_reliable__not_reliable_18oct2012.xlsx")
+data = pd.read_excel("../../data/LBY/reach_lby_nationalschoolsassessment_complete_db_reliable__not_reliable_18oct2012.xlsx")
 
 # only use reliable data
 data = data[data["RELIABLE"] == "Reliable"]
@@ -48,8 +48,11 @@ for adm in range(1, 4):
         data["adm" + str(adm)] = None
         print(e)
         
+# select correct columns and reorder
+data = data[["geo_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3", "longitude", "latitude"]]
+        
 # export as csv
-data.to_csv("lby_geo.csv", index=False)
+data.to_csv("../../files_for_db/geo/lby_geo.csv", index=False)
 
 # export as shapefiles
 gdf = gpd.GeoDataFrame(
