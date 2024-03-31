@@ -1,0 +1,1300 @@
+geo_id,deped_id,school_name,address,adm0,adm1,adm2,adm3,longitude,latitude
+PNG-000000,,Kura,,PNG,Western,South Fly,Oriomo-Bituri Rural,142.85503700000004,-9.185242999999957
+PNG-000001,,Abam.C/Sch,,PNG,Western,South Fly,Oriomo-Bituri Rural,143.18927700000006,-8.931130999999937
+PNG-000002,,Nomad,,PNG,Western,Middle Fly,Nomad Rural,142.2465370000001,-6.29234299999996
+PNG-000003,,Biyawa Comm School,,PNG,Western,Middle Fly,Gogodala Rural,142.88385000000005,-8.035263999999927
+PNG-000004,,Kaniya,,PNG,Western,Middle Fly,Gogodala Rural,142.57554000000005,-7.968614999999943
+PNG-000005,,Awaba High School,,PNG,Western,Middle Fly,Gogodala Rural,142.75646600000005,-8.009715999999912
+PNG-000006,,Degetege Comm.School,,PNG,Western,Middle Fly,Gogodala Rural,142.8964420000001,-7.958135999999911
+PNG-000007,,Ugu,,PNG,Western,Middle Fly,Gogodala Rural,143.13002500000005,-7.9602879999999345
+PNG-000008,,Kwioknai,,PNG,Western,North Fly,Ningerum Rural,141.28112900000008,-5.536039999999957
+PNG-000009,,Rouku,,PNG,Western,South Fly,Morehead Rural,141.59697500000004,-8.702845999999909
+PNG-000010,,Edward.Baxter,,PNG,Western,South Fly,Daru Urban,143.20904300000007,-9.075550999999905
+PNG-000011,,Kodoro,,PNG,Western,South Fly,Oriomo-Bituri Rural,142.649272,-9.170275999999944
+PNG-000012,,Masingara.C/Sch,,PNG,Western,South Fly,Oriomo-Bituri Rural,142.95147600000007,-9.129371999999933
+PNG-000013,,Nomad,,PNG,Western,Middle Fly,Nomad Rural,142.23175500000002,-6.293808999999953
+PNG-000014,,Monford.Boys.Town,,PNG,Western,North Fly,Kiunga Rural,141.28614000000005,-6.113391999999919
+PNG-000015,,Defence,,PNG,Western,North Fly,Kiunga Rural,141.291742,-6.104694999999936
+PNG-000016,,Kiunga,,PNG,Western,North Fly,Kiunga Urban,141.30590100000006,-6.115599999999915
+PNG-000017,,Karakara,,PNG,Western,South Fly,Daru Urban,143.20824600000003,-9.081131999999911
+PNG-000018,,Daru.High,,PNG,Western,South Fly,Daru Urban,143.20716100000004,-9.079356999999959
+PNG-000019,,Weam,,PNG,Western,South Fly,Morehead Rural,141.136483,-8.617506999999932
+PNG-000020,,Torassi,,PNG,Western,South Fly,Morehead Rural,141.25551700000005,-8.85487699999993
+PNG-000021,,Wipim,,PNG,Western,South Fly,Oriomo-Bituri Rural,142.88007700000003,-8.785162999999955
+PNG-000022,,Montfort,,PNG,Western,North Fly,Kiunga Urban,141.2884200000001,-6.1181139999999345
+PNG-000023,,Kiunga,,PNG,Western,North Fly,Kiunga Urban,141.29924500000004,-6.119133999999917
+PNG-000024,,International,,PNG,Western,North Fly,Kiunga Urban,141.3041790000001,-6.117796999999939
+PNG-000025,,Kiunga,,PNG,Western,North Fly,Kiunga Urban,141.30662300000006,-6.117185999999947
+PNG-000026,,Hongas,,PNG,Western,North Fly,Kiunga Rural,141.31359600000008,-6.108203999999944
+PNG-000027,,Adumari,,PNG,Western,Middle Fly,Nomad Rural,142.48146000000008,-6.215521999999908
+PNG-000028,,Kikori,,PNG,Gulf,Kikori,West Kikori Rural,144.24814400000002,-7.424347999999952
+PNG-000029,,Kikori,,PNG,Gulf,Kikori,West Kikori Rural,144.2439260000001,-7.411257999999918
+PNG-000030,,Kotidanga,,PNG,Gulf,Kerema,Kotidanga Rural,145.89401800000007,-7.572002999999938
+PNG-000031,,Kaintiba,,PNG,Gulf,Kerema,Kaintiba Rural,146.03650700000003,-7.5023839999999495
+PNG-000032,,Uamai,,PNG,Gulf,Kerema,Central Kerema Rural,145.88944000000004,-8.039416999999958
+PNG-000033,,Kerema,,PNG,Gulf,Kerema,Kerema Urban,145.777693,-7.969481999999914
+PNG-000034,,Malalaua,,PNG,Gulf,Kerema,Lakekamu-Tauri Rural,146.14753700000006,-8.067961999999909
+PNG-000035,,Opao,,PNG,Gulf,Kerema,Central Kerema Rural,145.714425,-7.884111999999959
+PNG-000036,,Bema,,PNG,Gulf,Kerema,Kaintiba Rural,146.02804400000002,-7.46616999999992
+PNG-000037,,Bema,,PNG,Gulf,Kerema,Kaintiba Rural,146.026382,-7.464961999999957
+PNG-000038,,Mei'I,,PNG,Gulf,Kerema,Central Kerema Rural,145.71739100000002,-7.952639999999917
+PNG-000039,,Urika Comm. School,,PNG,Gulf,Kikori,Baimuru Rural,145.08274800000004,-7.799684999999954
+PNG-000040,,Don.Bosco,,PNG,Gulf,Kikori,Ihu Rural,145.62771500000008,-7.934330999999929
+PNG-000041,,Kamulai,,PNG,Central,Goilala,Guari Rural,146.839203,-8.135435999999913
+PNG-000042,,Olivi,,PNG,Central,Goilala,Guari Rural,146.820334,-8.230705999999941
+PNG-000043,,Guari-Meipa,,PNG,Central,Goilala,Guari Rural,146.82449700000006,-8.285285999999928
+PNG-000044,,Goilapu,,PNG,Central,Goilala,Guari Rural,146.7631140000001,-8.117249999999956
+PNG-000045,,Suasi,,PNG,Central,Goilala,Guari Rural,146.80900600000007,-8.111081999999953
+PNG-000046,,Gihivena,,PNG,Central,Goilala,Guari Rural,146.84737000000007,-8.107558999999924
+PNG-000047,,Omu,,PNG,Central,Goilala,Guari Rural,146.87954200000001,-8.077090999999939
+PNG-000048,,Gupou,,PNG,Central,Goilala,Tapini Rural,146.93162000000007,-8.262322999999924
+PNG-000049,,Zanialavava,,PNG,Central,Goilala,Tapini Rural,146.90919100000008,-8.290924999999959
+PNG-000050,,Opore,,PNG,Central,Goilala,Tapini Rural,146.93221300000005,-8.399411999999927
+PNG-000051,,Tapini,,PNG,Central,Goilala,Tapini Rural,146.988558,-8.356155999999942
+PNG-000052,,Kerau,,PNG,Central,Goilala,Tapini Rural,147.06518900000003,-8.255447999999944
+PNG-000053,,Kiorivi,,PNG,Central,Goilala,Tapini Rural,147.10953000000006,-8.23085599999996
+PNG-000054,,Kileipi,,PNG,Central,Goilala,Tapini Rural,147.141433,-8.238118999999926
+PNG-000055,,Sopu,,PNG,Central,Goilala,Tapini Rural,147.16816800000004,-8.306921999999929
+PNG-000056,,Maini,,PNG,Central,Goilala,Tapini Rural,147.11107400000003,-8.349989999999934
+PNG-000057,,Koruava,,PNG,Central,Goilala,Tapini Rural,147.02827100000002,-8.381407999999908
+PNG-000058,,Minalu,,PNG,Central,Goilala,Tapini Rural,147.10044400000004,-8.411086999999952
+PNG-000059,,Fane,,PNG,Central,Goilala,Woitape Rural,147.0865520000001,-8.551200999999935
+PNG-000060,,Belavista,,PNG,Central,Goilala,Woitape Rural,147.06379300000003,-8.530234999999948
+PNG-000061,,Mafulu,,PNG,Central,Goilala,Woitape Rural,147.03332,-8.512670999999955
+PNG-000062,,Ononge,,PNG,Central,Goilala,Woitape Rural,147.25880300000006,-8.68687899999992
+PNG-000063,,Oro,,PNG,Central,Goilala,Woitape Rural,147.27007300000002,-8.744039999999927
+PNG-000064,,Enende,,PNG,Central,Goilala,Woitape Rural,147.29342000000008,-8.750140999999928
+PNG-000065,,Kosipe,,PNG,Central,Goilala,Woitape Rural,147.20590200000004,-8.44811999999996
+PNG-000066,,Tanipai,,PNG,Central,Goilala,Woitape Rural,147.163138,-8.417321999999956
+PNG-000067,,Kodige,,PNG,Central,Goilala,Woitape Rural,147.086452,-8.638628999999924
+PNG-000068,,Yongai,,PNG,Central,Goilala,Woitape Rural,147.46025100000008,-8.52959299999992
+PNG-000069,,Kombuka,,PNG,Central,Goilala,Woitape Rural,147.4374150000001,-8.504105999999922
+PNG-000070,,Inauani,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.66342300000008,-8.494256999999948
+PNG-000071,,Engefa,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.53483500000004,-8.432342999999946
+PNG-000072,,Boru,,PNG,Central,Abau,Cloudy Bay Rural,148.847347,-10.236157999999932
+PNG-000073,,Magaubo,,PNG,Central,Abau,Cloudy Bay Rural,148.94963800000005,-10.26650399999994
+PNG-000074,,Magarida,,PNG,Central,Abau,Amazon Bay Rural,149.3385350000001,-10.29743499999995
+PNG-000075,,Kurere-Asiaro,,PNG,Central,Abau,Amazon Bay Rural,149.342576,-10.299559999999929
+PNG-000076,,Aroana,,PNG,Central,Abau,Amazon Bay Rural,149.39123600000005,-10.297134999999912
+PNG-000077,,Borebo,,PNG,Central,Abau,Amazon Bay Rural,149.449654,-10.334645999999907
+PNG-000078,,Ubuna,,PNG,Central,Abau,Amazon Bay Rural,149.43819500000006,-10.351198999999951
+PNG-000079,,Oneone,,PNG,Central,Abau,Amazon Bay Rural,149.5084260000001,-10.346230999999932
+PNG-000080,,Madana Station,,PNG,Central,Abau,Aroma Rural,148.0844830000001,-10.106765999999936
+PNG-000081,,Buruku,,PNG,Central,Abau,Aroma Rural,148.13114100000007,-9.98071399999992
+PNG-000082,,Veroi,,PNG,Central,Abau,Amazon Bay Rural,149.50434800000005,-10.074859999999944
+PNG-000083,,Ilai,,PNG,Central,Abau,Amazon Bay Rural,149.5510250000001,-10.307855999999958
+PNG-000084,,Nabai,,PNG,Central,Abau,Amazon Bay Rural,149.65277700000001,-10.33916599999992
+PNG-000085,,Gohodae,,PNG,Central,Abau,Cloudy Bay Rural,148.62908900000002,-10.086485999999923
+PNG-000086,,Amau,,PNG,Central,Abau,Cloudy Bay Rural,148.56270700000005,-10.042083999999932
+PNG-000087,,Domara,,PNG,Central,Abau,Cloudy Bay Rural,148.563804,-10.170302999999933
+PNG-000088,,Cocoaland,,PNG,Central,Abau,Cloudy Bay Rural,148.434348,-10.130387999999925
+PNG-000089,,Moreguina,,PNG,Central,Abau,Cloudy Bay Rural,148.47481600000003,-10.015954999999906
+PNG-000090,,Paramana,,PNG,Central,Abau,Aroma Rural,148.00651700000003,-10.15723099999991
+PNG-000091,,Paramana,,PNG,Central,Abau,Aroma Rural,148.0055430000001,-10.159139999999923
+PNG-000092,,Kinikalana,,PNG,Central,Abau,Aroma Rural,148.01140600000008,-10.144698999999946
+PNG-000093,,Maopa 1,,PNG,Central,Abau,Aroma Rural,148.01776300000006,-10.13573699999995
+PNG-000094,,Maopa 2,,PNG,Central,Abau,Aroma Rural,148.018104,-10.132383999999945
+PNG-000095,,Gaivakala,,PNG,Central,Abau,Aroma Rural,148.0210810000001,-10.131293999999912
+PNG-000096,,Egala'Auna,,PNG,Central,Abau,Aroma Rural,148.02372200000002,-10.129901999999959
+PNG-000097,,Kwapeupa/Kelekapana,,PNG,Central,Abau,Aroma Rural,148.08906000000002,-10.132699999999943
+PNG-000098,,Wairavanua,,PNG,Central,Abau,Aroma Rural,148.11538600000006,-10.131682999999953
+PNG-000099,,Vuru,,PNG,Central,Abau,Aroma Rural,148.130132,-10.123686999999904
+PNG-000100,,Loupon,,PNG,Central,Abau,Amazon Bay Rural,149.32139500000005,-10.322638999999924
+PNG-000101,,Homenomu,,PNG,Central,Rigo,Rigo Inland Rural,148.059703,-9.649859999999933
+PNG-000102,,Tabuakomana,,PNG,Central,Rigo,Rigo Inland Rural,148.070473,-9.831235999999933
+PNG-000103,,Korulewa,,PNG,Central,Rigo,Rigo Inland Rural,148.0518770000001,-9.752835999999945
+PNG-000104,,Varokogena,,PNG,Central,Rigo,Rigo Inland Rural,148.01156500000002,-9.890156999999931
+PNG-000105,,Aipeana,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.55974300000003,-8.545377999999914
+PNG-000106,,Avai,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.520711,-8.56524799999994
+PNG-000107,,Apanaipi,,PNG,Gulf,Kerema,East Kerema Rural,146.36339900000007,-8.391388999999947
+PNG-000108,,Koaba.Sm'T,,PNG,Gulf,Kerema,East Kerema Rural,146.362029,-8.394347999999923
+PNG-000109,,Inaui,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.554307,-8.572781999999961
+PNG-000110,,Meauri,,PNG,Gulf,Kerema,East Kerema Rural,146.36026700000002,-8.556520999999918
+PNG-000111,,Kivori Poe,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.397197,-8.588223999999911
+PNG-000112,,Bereina,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.50682600000005,-8.658268999999905
+PNG-000113,,Bereina,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.5108160000001,-8.637708999999916
+PNG-000114,,Inauaia.C/Miss,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.57973600000003,-8.630433999999923
+PNG-000115,,Inauaia,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.5789410000001,-8.634758999999917
+PNG-000116,,Hisiu,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.774317,-9.048337999999944
+PNG-000117,,Eboa,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.59027300000002,-8.628882999999917
+PNG-000118,,Mou,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.5371140000001,-8.711966999999959
+PNG-000119,,Babiko,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.53852900000004,-8.684005999999954
+PNG-000120,,Rapa,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.56932900000004,-8.723121999999933
+PNG-000121,,Iopara Comm School,,PNG,Central,Abau,Aroma Rural,148.2002020000001,-10.064315999999906
+PNG-000122,,Upulima,,PNG,Central,Abau,Aroma Rural,148.20547800000008,-9.940920999999946
+PNG-000123,,Manabo,,PNG,Central,Abau,Cloudy Bay Rural,148.49264100000005,-10.057264999999916
+PNG-000124,,Ianu,,PNG,Central,Abau,Cloudy Bay Rural,148.42753200000004,-9.963949999999954
+PNG-000125,,Aibara,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.5238740000001,-8.788732999999922
+PNG-000126,,St. Peters,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.545122,-8.828061999999932
+PNG-000127,,Yule Island,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.539442,-8.835666999999944
+PNG-000128,,Seme,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.409668,-9.623512999999946
+PNG-000129,,Rabuka,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.34891300000004,-9.53354399999995
+PNG-000130,,Vaiagai Settlement,,PNG,National Capital District,National Capital District,National Capital District,147.2827400000001,-9.431003999999916
+PNG-000131,,Sogeri High School,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.41775300000006,-9.422106999999926
+PNG-000132,,Bereadabu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.4330490000001,-9.432198999999912
+PNG-000133,,Depo,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.40775700000006,-9.424156999999923
+PNG-000134,,Bisiatabu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.41160200000002,-9.407584999999926
+PNG-000135,,Vesulogo.No.1,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.44958800000006,-9.376743999999917
+PNG-000136,,Rouna.No2,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.39276100000006,-9.427360999999905
+PNG-000137,,Laloki,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.30184500000007,-9.398140999999953
+PNG-000138,,Mesime,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.29929800000002,-9.391359999999906
+PNG-000139,,Ilimo,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.28739300000007,-9.393264999999928
+PNG-000140,,Mava,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.84495300000003,-9.012029999999925
+PNG-000141,,Magabaira,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.86828400000002,-9.032588999999916
+PNG-000142,,De Boismenu,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.98603300000002,-8.995661999999925
+PNG-000143,,Bogi,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.98998500000005,-9.288915999999915
+PNG-000144,,Kido,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.91014700000005,-9.266253999999947
+PNG-000145,,Pacific Adventist University,,PNG,National Capital District,National Capital District,National Capital District,147.274272,-9.406929999999932
+PNG-000146,,Goldie,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.2724330000001,-9.349615999999912
+PNG-000147,,Nara / Ala Ala,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.66227100000003,-9.02839999999992
+PNG-000148,,Nabua,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.56091000000004,-8.901182999999946
+PNG-000149,,Nikura,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.62431500000002,-8.798349999999914
+PNG-000150,,Namanama,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.63912800000003,-8.792473999999913
+PNG-000151,,Ianu,,PNG,Central,Abau,Cloudy Bay Rural,148.43823200000008,-9.97195999999991
+PNG-000152,,Cape Rodney,,PNG,Central,Abau,Cloudy Bay Rural,148.42720500000007,-10.161104999999907
+PNG-000153,,Toule,,PNG,Central,Rigo,Rigo Inland Rural,148.03248900000006,-9.937767999999949
+PNG-000154,,Koefa,,PNG,Central,Goilala,Guari Rural,146.793272,-8.127537999999959
+PNG-000155,,Rupila,,PNG,Central,Goilala,Guari Rural,146.88935400000003,-8.01261699999992
+PNG-000156,,Erume,,PNG,Central,Goilala,Tapini Rural,146.96079200000008,-8.268239999999935
+PNG-000157,,Tawuni,,PNG,Central,Goilala,Tapini Rural,147.03772300000003,-8.293205999999941
+PNG-000158,,Polomana,,PNG,Central,Goilala,Woitape Rural,147.06373100000008,-8.490749999999935
+PNG-000159,,Kone,,PNG,Central,Goilala,Woitape Rural,147.10386300000005,-8.49508499999996
+PNG-000160,,Mondo,,PNG,Central,Goilala,Woitape Rural,147.10899100000006,-8.564595999999938
+PNG-000161,,Kurama,,PNG,Central,Goilala,Woitape Rural,147.340375,-8.669004999999913
+PNG-000162,,Visi,,PNG,Central,Goilala,Woitape Rural,147.2471220000001,-8.694663999999932
+PNG-000163,,Ariome,,PNG,Central,Goilala,Tapini Rural,146.960327,-8.31937199999993
+PNG-000164,,Kambise,,PNG,Central,Goilala,Woitape Rural,147.300877,-8.687453999999946
+PNG-000165,,Kafano,,PNG,Central,Goilala,Woitape Rural,147.50213500000007,-8.54898199999991
+PNG-000166,,Akufa,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.50642000000005,-8.388903999999911
+PNG-000167,,Redscar,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.04916100000003,-9.42359099999993
+PNG-000168,,Ogotana,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.48177800000008,-9.448770999999908
+PNG-000169,,Kuriva St Johns,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.1150570000001,-9.067535999999905
+PNG-000170,,Kerea,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.1657100000001,-9.09247999999991
+PNG-000171,,Brown River,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.23452900000007,-9.207919999999945
+PNG-000172,,Edebu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.30531100000007,-9.19371099999995
+PNG-000173,,Iarowari,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.41933500000005,-9.421693999999945
+PNG-000174,,Itikinumu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.5055020000001,-9.41614999999996
+PNG-000175,,Medene,,PNG,Central,Rigo,Rigo Central Rural,147.6703100000001,-9.648924999999906
+PNG-000176,,Maino Wiga,,PNG,Central,Rigo,Rigo Inland Rural,147.943672,-9.73992699999991
+PNG-000177,,Boku,,PNG,Central,Rigo,Rigo Inland Rural,147.86808000000008,-9.70425999999992
+PNG-000178,,Galeba,,PNG,Central,Rigo,Rigo Inland Rural,147.85255500000005,-9.763349999999946
+PNG-000179,,Daumagini Com School,,PNG,Central,Rigo,Rigo Central Rural,147.59887400000002,-9.794325999999955
+PNG-000180,,Kore,,PNG,Central,Rigo,Rigo Inland Rural,147.82624700000008,-10.013698999999917
+PNG-000181,,Kiru Training Centre,,PNG,Central,Rigo,Rigo Coastal Rural,147.83630000000005,-10.037948999999912
+PNG-000182,,Bore,,PNG,Central,Rigo,Rigo Central Rural,147.761974,-9.892305999999905
+PNG-000183,,Rilo,,PNG,Central,Rigo,Rigo Coastal Rural,147.73201400000005,-10.054279999999949
+PNG-000184,,Bina,,PNG,Central,Rigo,Rigo Coastal Rural,147.67785000000003,-9.952463999999907
+PNG-000185,,Kiru,,PNG,Central,Rigo,Rigo Coastal Rural,147.83634800000004,-10.037958999999944
+PNG-000186,,Kore,,PNG,Central,Rigo,Rigo Inland Rural,147.8261970000001,-10.013694999999927
+PNG-000187,,Maneamanea,,PNG,Central,Rigo,Rigo Coastal Rural,147.72885400000007,-10.090326999999945
+PNG-000188,,Makerupu,,PNG,Central,Rigo,Rigo Coastal Rural,147.74353900000006,-10.062194999999917
+PNG-000189,,Tauruba,,PNG,Central,Rigo,Rigo Coastal Rural,147.6173490000001,-9.903262999999924
+PNG-000190,,Ginigolo,,PNG,Central,Rigo,Rigo Coastal Rural,147.561373,-9.83432199999993
+PNG-000191,,Baibara,,PNG,Central,Abau,Amazon Bay Rural,149.64627500000006,-10.34152199999994
+PNG-000192,,Bam,,PNG,Central,Abau,Cloudy Bay Rural,148.87258000000008,-10.091766999999948
+PNG-000193,,Bodinumu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.666829,-9.112064999999916
+PNG-000194,,Boregaina,,PNG,Central,Rigo,Rigo Central Rural,147.74607000000003,-9.767495999999937
+PNG-000195,,Dagoda,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.40981,-9.630266999999947
+PNG-000196,,Darava,,PNG,Central,Abau,Amazon Bay Rural,149.1227110000001,-10.23721699999993
+PNG-000197,,Didigoro,,PNG,Central,Rigo,Rigo Inland Rural,147.95067800000004,-9.818042999999932
+PNG-000198,,Diguarobu,,PNG,Central,Rigo,Rigo Inland Rural,147.929211,-9.904221999999947
+PNG-000199,,Dorobisoro,,PNG,Central,Rigo,Rigo Inland Rural,147.91906000000006,-9.460451999999918
+PNG-000200,,Dorom,,PNG,Central,Rigo,Rigo Inland Rural,147.865996,-9.661176999999952
+PNG-000201,,Gaba Gaba,,PNG,Central,Rigo,Rigo Coastal Rural,147.51602200000002,-9.803350999999907
+PNG-000202,,Garima,,PNG,Central,Goilala,Woitape Rural,147.109235,-8.521922999999958
+PNG-000203,,Gaunomu,,PNG,Central,Rigo,Rigo Central Rural,147.74809100000004,-9.705311999999935
+PNG-000204,,Gemo,,PNG,Central,Rigo,Rigo Coastal Rural,147.7302880000001,-9.990670999999907
+PNG-000205,,Girabu,,PNG,Central,Rigo,Rigo Central Rural,147.575736,-9.734786999999926
+PNG-000206,,Gomore,,PNG,Central,Rigo,Rigo Central Rural,147.5627800000001,-9.790400999999918
+PNG-000207,,Guari,,PNG,Central,Goilala,Guari Rural,146.86988800000006,-8.134413999999936
+PNG-000208,,Alukuni,,PNG,Central,Rigo,Rigo Coastal Rural,147.85952700000007,-10.098809999999958
+PNG-000209,,Kaparoko,,PNG,Central,Rigo,Rigo Coastal Rural,147.70491800000002,-10.01172299999996
+PNG-000210,,Kase,,PNG,Central,Goilala,Woitape Rural,147.25726400000008,-8.721979999999917
+PNG-000211,,Kokorogoro,,PNG,Central,Rigo,Rigo Inland Rural,147.808175,-9.692703999999935
+PNG-000212,,Kware,,PNG,Central,Rigo,Rigo Central Rural,147.725461,-9.697377999999958
+PNG-000213,,Launakalana Ag Stn,,PNG,Central,Rigo,Rigo Central Rural,147.778816,-9.94452199999995
+PNG-000214,,Lebogoro,,PNG,Central,Rigo,Rigo Inland Rural,147.87516200000005,-9.879891999999927
+PNG-000215,,Babaka,,PNG,Central,Rigo,Rigo Coastal Rural,147.72750600000006,-10.054262999999935
+PNG-000216,,Bore,,PNG,Central,Rigo,Rigo Central Rural,147.76444600000002,-9.889773999999932
+PNG-000217,,Manumu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.57631300000003,-9.067002999999943
+PNG-000218,,Matanatou,,PNG,Central,Rigo,Rigo Inland Rural,147.8993240000001,-9.720207999999957
+PNG-000219,,Naoro,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.62377100000003,-9.258067999999923
+PNG-000220,,Oroi,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.60279500000001,-8.972209999999905
+PNG-000221,,Sirumu,,PNG,Central,Rigo,Rigo Inland Rural,147.75006400000007,-9.582750999999917
+PNG-000222,,Tabunomu,,PNG,Central,Rigo,Rigo Central Rural,147.75389800000005,-9.631068999999911
+PNG-000223,,Tolukuma,,PNG,Central,Goilala,Woitape Rural,147.13339700000006,-8.56083499999994
+PNG-000224,,Tororo,,PNG,Central,Goilala,Tapini Rural,146.93026200000008,-8.251394999999945
+PNG-000225,,Vanuamai,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.66558400000008,-8.856076999999914
+PNG-000226,,Babaga/Kwalimurubu,,PNG,Central,Rigo,Rigo Central Rural,147.59490100000005,-9.787531999999942
+PNG-000227,,Gamoga,,PNG,Central,Rigo,Rigo Coastal Rural,147.6407650000001,-9.90729099999993
+PNG-000228,,Gidobada,,PNG,Central,Rigo,Rigo Central Rural,147.61240900000007,-9.798090999999943
+PNG-000229,,Kamali,,PNG,Central,Rigo,Rigo Coastal Rural,147.7475760000001,-10.052157999999906
+PNG-000230,,Kemaea,,PNG,Central,Rigo,Rigo Central Rural,147.5854700000001,-9.803013999999905
+PNG-000231,,Veida,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.81721200000004,-8.790752999999938
+PNG-000232,,Amoamo,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.57818600000007,-8.526197999999908
+PNG-000233,,Bebeo,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.62092700000005,-8.527830999999935
+PNG-000234,,Delebai,,PNG,Central,Abau,Amazon Bay Rural,149.40487900000005,-10.292212999999947
+PNG-000235,,Kivorihereparu,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.43107400000008,-8.599898999999937
+PNG-000236,,Lalaura,,PNG,Central,Abau,Aroma Rural,148.35760800000003,-10.184422999999924
+PNG-000237,,Pelagai,,PNG,Central,Abau,Aroma Rural,148.00940100000003,-10.148203999999907
+PNG-000238,,Mainohana,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.517744,-8.658621999999923
+PNG-000239,,Huhuna,,PNG,Milne Bay,Alotau,Maramatana Rural,150.59363300000007,-10.279548999999918
+PNG-000240,,Garuhai,,PNG,Milne Bay,Alotau,Maramatana Rural,150.48354400000005,-10.221811999999943
+PNG-000241,,Nuakata,,PNG,Milne Bay,Alotau,Maramatana Rural,151.0313900000001,-10.286651999999947
+PNG-000242,,East Cape Com,,PNG,Milne Bay,Alotau,Maramatana Rural,150.87494400000003,-10.226329999999905
+PNG-000243,,Wagohuhu,,PNG,Milne Bay,Alotau,Maramatana Rural,150.73580200000004,-10.267958999999905
+PNG-000244,,Bonara,,PNG,Milne Bay,Alotau,Daga Rural,149.57211800000005,-9.867314999999905
+PNG-000245,,Agupan,,PNG,Milne Bay,Alotau,Daga Rural,149.42896400000006,-9.933172999999954
+PNG-000246,,Taitwanowaya,,PNG,Milne Bay,Esa'Ala,Dobu Rural,150.84274900000003,-9.58324899999991
+PNG-000247,,Bosalewa,,PNG,Milne Bay,Esa'Ala,Dobu Rural,150.720323,-9.447383999999943
+PNG-000248,,Divinai,,PNG,Milne Bay,Alotau,Huhu Rural,150.680745,-10.320070999999928
+PNG-000249,,Hagita.Primary,,PNG,Milne Bay,Alotau,Huhu Rural,150.28393600000004,-10.308035999999959
+PNG-000250,,Nasikwabu,,PNG,Milne Bay,Samarai-Murua,Murua Rural,152.43158900000003,-9.552495999999906
+PNG-000251,,Iwa Community School,,PNG,Milne Bay,Samarai-Murua,Murua Rural,151.67130900000006,-8.706314999999961
+PNG-000252,,Madaua,,PNG,Milne Bay,Samarai-Murua,Murua Rural,152.40478900000005,-8.990007999999932
+PNG-000253,,Budibudi,,PNG,Milne Bay,Samarai-Murua,Murua Rural,153.68657200000007,-9.290976999999941
+PNG-000254,,Guasopa,,PNG,Milne Bay,Samarai-Murua,Murua Rural,152.94761700000004,-9.22345699999994
+PNG-000255,,Kulumadau,,PNG,Milne Bay,Samarai-Murua,Murua Rural,152.71967600000005,-9.085994999999912
+PNG-000256,,Wabununa,,PNG,Milne Bay,Samarai-Murua,Murua Rural,152.89528800000005,-9.243093999999928
+PNG-000257,,Waseta,,PNG,Northern,Sohe,Higaturu Rural,148.0280130000001,-8.84195399999993
+PNG-000258,,Martyrs.Memorial,,PNG,Northern,Sohe,Higaturu Rural,148.10169500000006,-8.816704999999956
+PNG-000259,,Ahora,,PNG,Northern,Sohe,Higaturu Rural,148.23864200000003,-8.693695999999932
+PNG-000260,,Gona,,PNG,Northern,Ijivitari,Oro Bay Rural,148.29110400000002,-8.622398999999916
+PNG-000261,,Kuara,,PNG,Northern,Ijivitari,Afore Rural,148.27257400000008,-9.113138999999933
+PNG-000262,,Aguido,,PNG,Northern,Ijivitari,Afore Rural,148.449699,-9.14077599999996
+PNG-000263,,Bua,,PNG,Northern,Ijivitari,Afore Rural,148.56234700000005,-9.51314599999995
+PNG-000264,,Injua,,PNG,Southern Highlands,Nipa/Kutubu,Nembi Plateau Rural,143.45345200000008,-6.216641999999922
+PNG-000265,,Towan,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.39924200000007,-6.091011999999921
+PNG-000266,,Sorip,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.39290000000005,-6.1418919999999275
+PNG-000267,,Nipa H/School,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.43784200000005,-6.136170999999933
+PNG-000268,,Nipa.Comm,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.450464,-6.144647999999961
+PNG-000269,,Semin,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.49097800000004,-6.2270039999999085
+PNG-000270,,Toiwaro,,PNG,Southern Highlands,Nipa/Kutubu,Poroma Rural,143.62718500000005,-6.352620999999942
+PNG-000271,,Pompoli,,PNG,Southern Highlands,Imbonggu,Ialibu Basin Rural,143.90532900000005,-6.214064999999948
+PNG-000272,,Arisoba,,PNG,Southern Highlands,Nipa/Kutubu,Nembi Plateau Rural,143.5221590000001,-6.285541999999907
+PNG-000273,,Egele (Egali),,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.21504400000003,-5.34813099999991
+PNG-000274,,Horale,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.4443090000001,-5.430807999999956
+PNG-000275,,Hagini,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.46877600000005,-5.44359199999991
+PNG-000276,,Arou,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.51520500000004,-5.497075999999936
+PNG-000277,,Peragoia (Perakoia),,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.55064200000004,-5.455206999999916
+PNG-000278,,Kopiago Station,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.49571400000002,-5.385682999999915
+PNG-000279,,Hawinda 1,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.621666,-5.443565999999919
+PNG-000280,,Angora,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.6992180000001,-5.502487999999914
+PNG-000281,,Tade,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.65505300000007,-5.532502999999906
+PNG-000282,,Puyena,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.675701,-5.559105999999929
+PNG-000283,,Haredege,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.518368,-5.51578399999994
+PNG-000284,,Kelabo 2,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.55194400000005,-5.5483149999999455
+PNG-000285,,Hawianda,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.58485300000007,-5.564303999999936
+PNG-000286,,Tangi,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.6617470000001,-5.654864999999916
+PNG-000287,,Levani,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.572184,-5.732313999999917
+PNG-000288,,Piangonga 2,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.66343000000006,-5.684971999999959
+PNG-000289,,Hujenoma 1,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.69659000000001,-5.714722999999935
+PNG-000290,,Guala No2,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.756571,-5.726308999999958
+PNG-000291,,Tiiba (Tieba),,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.78793000000007,-5.649771999999928
+PNG-000292,,Tapayamapu,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.788542,-5.639153999999905
+PNG-000293,,Tugu,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.7051620000001,-5.573059999999941
+PNG-000294,,Paru (Pori),,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.735001,-5.583626999999922
+PNG-000295,,Waria,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.75925100000006,-5.611981999999955
+PNG-000296,,Andiria No2,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.75636400000008,-5.6922349999999255
+PNG-000297,,Guala Station,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.76471800000002,-5.73490199999992
+PNG-000298,,Humburu No1,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.80475,-5.729077999999959
+PNG-000299,,Maria,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.80347200000006,-5.730972999999949
+PNG-000300,,Betege 1,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.6743170000001,-5.721222999999952
+PNG-000301,,Kwangiebi,,PNG,Southern Highlands,Tari/Pori,Tagali Rural,142.89203900000007,-5.715767999999912
+PNG-000302,,Keriniba No2 (Kereniba No2),,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.70872400000007,-5.700982999999951
+PNG-000303,,Hedemri (Hedemari No1),,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.81671600000004,-5.771824999999922
+PNG-000304,,Embe,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.61566900000003,-5.492474999999956
+PNG-000305,,Dodomona,,PNG,Western,Middle Fly,Nomad Rural,142.61751000000004,-6.2433849999999325
+PNG-000306,,Ludesa,,PNG,Southern Highlands,Nipa/Kutubu,Mt Bosavi Rural,142.84282700000006,-6.4642939999999385
+PNG-000307,,Ugu,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.3407420000001,-5.930715999999961
+PNG-000308,,Wanbia,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.3306990000001,-5.944463999999925
+PNG-000309,,Tabala,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.33295900000007,-5.947869999999909
+PNG-000310,,Sda Miss.Stn,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.350097,-5.960188999999957
+PNG-000311,,Wabimapipi,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.35580700000003,-5.971336999999949
+PNG-000312,,Homaria Cat.Mis,,PNG,Southern Highlands,Komo/Margarima,Magarima Rural,143.35120700000004,-5.983775999999921
+PNG-000313,,Sond,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.48408900000004,-6.132738999999958
+PNG-000314,,Nipa Stn,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.451274,-6.143854999999917
+PNG-000315,,Injet,,PNG,Southern Highlands,Mendi/Munihu,Lai Valley Rural,143.532423,-6.043156999999951
+PNG-000316,,Nol,,PNG,Southern Highlands,Mendi/Munihu,Lai Valley Rural,143.538634,-6.00961099999995
+PNG-000317,,Tamide,,PNG,Southern Highlands,Komo/Margarima,Hulia Rural,143.03481900000008,-6.058929999999918
+PNG-000318,,Muluma School,,PNG,Southern Highlands,Nipa/Kutubu,Mt Bosavi Rural,142.76857400000006,-6.425326999999925
+PNG-000319,,Tani,,PNG,Southern Highlands,Komo/Margarima,Komo Rural,142.8463220000001,-6.1119529999999145
+PNG-000320,,Kelebo  1,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.5649410000001,-5.56510899999995
+PNG-000321,,Kudjebi,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.57801900000004,-5.581878999999958
+PNG-000322,,Tobo,,PNG,Southern Highlands,Komo/Margarima,Komo Rural,142.78822300000002,-6.049872999999934
+PNG-000323,,Malanda,,PNG,Southern Highlands,Komo/Margarima,Komo Rural,142.83558300000004,-6.0794049999999515
+PNG-000324,,Komo Rural Station,,PNG,Southern Highlands,Komo/Margarima,Komo Rural,142.856625,-6.0635619999999335
+PNG-000325,,Para 1,,PNG,Southern Highlands,Komo/Margarima,Komo Rural,142.80420800000002,-6.006960999999933
+PNG-000326,,Idauwi,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.8571740000001,-5.926597999999956
+PNG-000327,,Hiwanda,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.86898500000007,-5.861492999999939
+PNG-000328,,Hiwanda No1 (Hiwanda,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.870676,-5.8601339999999595
+PNG-000329,,Warolo,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.90110700000002,-5.843684999999937
+PNG-000330,,Piribu No1,,PNG,Southern Highlands,Tari/Pori,Tari Urban,142.93677300000002,-5.85828099999992
+PNG-000331,,Hare No1,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.84183300000007,-5.807480999999939
+PNG-000332,,Tawanda,,PNG,Southern Highlands,Tari/Pori,Hayapuga Rural,142.8527630000001,-5.821083999999928
+PNG-000333,,Magara No2,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.81824400000005,-5.821261999999933
+PNG-000334,,Ea Miss.Hq,,PNG,Southern Highlands,Tari/Pori,Tari Urban,142.92695000000003,-5.8308119999999235
+PNG-000335,,Tari 03,,PNG,Southern Highlands,Tari/Pori,Tari Urban,142.9413790000001,-5.838370999999938
+PNG-000336,,Iangome,,PNG,Southern Highlands,Komo/Margarima,Hulia Rural,142.96438,-5.89338499999991
+PNG-000337,,Uruma,,PNG,Southern Highlands,Komo/Margarima,Hulia Rural,142.992794,-5.923464999999908
+PNG-000338,,Dauli Tchr'S Coll.,,PNG,Southern Highlands,Komo/Margarima,Hulia Rural,142.9588970000001,-5.91197799999992
+PNG-000339,,Page,,PNG,Southern Highlands,Komo/Margarima,Hulia Rural,142.957177,-5.909751999999912
+PNG-000340,,Kupari,,PNG,Southern Highlands,Tari/Pori,Tari Urban,142.953885,-5.856427999999937
+PNG-000341,,Henganda 2,,PNG,Southern Highlands,Tari/Pori,Tagali Rural,142.922867,-5.793623999999909
+PNG-000342,,Halenguali,,PNG,Southern Highlands,Tari/Pori,Tagali Rural,142.927365,-5.826339999999959
+PNG-000343,,Herereap,,PNG,Southern Highlands,Nipa/Kutubu,Nipa Rural,143.472895,-6.198264999999935
+PNG-000344,,Mengil,,PNG,Southern Highlands,Nipa/Kutubu,Nembi Plateau Rural,143.49152200000003,-6.228621999999916
+PNG-000345,,Kombur,,PNG,Southern Highlands,Nipa/Kutubu,Nembi Plateau Rural,143.52407300000004,-6.292773999999952
+PNG-000346,,Galu,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.84301600000003,-6.524499999999932
+PNG-000347,,Sumbura,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.846633,-6.483508999999913
+PNG-000348,,Yango,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.84678700000006,-6.478072999999938
+PNG-000349,,Bata,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.85110100000009,-6.41154999999992
+PNG-000350,,Kagua Station,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.85768300000007,-6.39893799999993
+PNG-000351,,Waluanda,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.87933400000009,-6.397115999999926
+PNG-000352,,Pawapi,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.915344,-6.4306159999999295
+PNG-000353,,Alenda,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.93040800000006,-6.441040999999927
+PNG-000354,,Katiloma,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.87436300000002,-6.4861139999999295
+PNG-000355,,Puli,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.92829600000005,-6.471605999999952
+PNG-000356,,Mendo 2/Opa,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.869638,-6.334601999999961
+PNG-000357,,Karia C/Ms.Stn,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.85313600000006,-6.382529999999917
+PNG-000358,,Wabi Stn,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.790164,-6.377572999999927
+PNG-000359,,Wadi Luth.Miss,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.79055800000003,-6.38030399999991
+PNG-000360,,Sumi (Station),,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.73880300000008,-6.373643999999956
+PNG-000361,,Ibia Comm. Sch,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.71602100000007,-6.270700999999917
+PNG-000362,,Rakenda,,PNG,Southern Highlands,Kagua/Erave,Kagua Rural,143.731541,-6.289461999999958
+PNG-000363,,Erave Station,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.897696,-6.60604399999994
+PNG-000364,,Catholic Msn,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.91471,-6.609565999999916
+PNG-000365,,Waro,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,144.00678100000005,-6.689963999999918
+PNG-000366,,Pawabi 2,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.95612000000006,-6.729889999999955
+PNG-000367,,Tsimberigi,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.92778800000008,-6.724929999999915
+PNG-000368,,Pobu Worok No1,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.9271990000001,-6.724851999999942
+PNG-000369,,Pupitau (Puputao),,PNG,Southern Highlands,Kagua/Erave,Erave Rural,144.29686500000003,-6.725941999999918
+PNG-000370,,Waposali,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,144.29331000000002,-6.65802999999994
+PNG-000371,,Agu,,PNG,Southern Highlands,Kagua/Erave,Kuare Rural,143.9656020000001,-6.4212499999999295
+PNG-000372,,Kalawira,,PNG,Southern Highlands,Kagua/Erave,Kuare Rural,144.06824500000005,-6.501679999999908
+PNG-000373,,Batri No1,,PNG,Southern Highlands,Kagua/Erave,Erave Rural,143.92900600000007,-6.5434609999999225
+PNG-000374,,Kuare Stn,,PNG,Southern Highlands,Kagua/Erave,Kuare Rural,144.00385000000006,-6.460936999999944
+PNG-000375,,Paria,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.08746300000007,-6.410101999999938
+PNG-000376,,Kalane,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.08526500000005,-6.4258239999999205
+PNG-000377,,Kulipini,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.12841300000002,-6.420372999999927
+PNG-000378,,Tunda,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.16054900000006,-6.4880569999999125
+PNG-000379,,Lapongo,,PNG,Southern Highlands,Kagua/Erave,Kuare Rural,144.01213600000005,-6.50942699999996
+PNG-000380,,Tipa,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.1005090000001,-6.438718999999935
+PNG-000381,,Kadoba,,PNG,Southern Highlands,Nipa/Kutubu,Lake Kutubu Rural,143.56710700000008,-6.723230999999942
+PNG-000382,,Sisibia 2,,PNG,Southern Highlands,Nipa/Kutubu,Lake Kutubu Rural,143.12126,-6.330126999999948
+PNG-000383,,Kerepia,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,143.993964,-5.9482099999999605
+PNG-000384,,Waporo 1,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.01068600000008,-5.972398999999939
+PNG-000385,,Waipe,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.04261400000007,-6.008701999999914
+PNG-000386,,Togomakep,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.0483680000001,-6.021935999999926
+PNG-000387,,Piambil 1,,PNG,Southern Highlands,Imbonggu,Imbonggu Rural,144.06329000000005,-6.07443399999994
+PNG-000388,,Tona,,PNG,Southern Highlands,Imbonggu,Imbonggu Rural,144.1011900000001,-6.103115999999943
+PNG-000389,,Orei,,PNG,Southern Highlands,Imbonggu,Imbonggu Rural,144.12309600000003,-6.13851399999993
+PNG-000390,,Opokai,,PNG,Southern Highlands,Imbonggu,Imbonggu Rural,144.083303,-6.16373399999992
+PNG-000391,,Bibine 1 Comm.Sch,,PNG,Southern Highlands,Imbonggu,Ialibu Basin Rural,144.00781600000005,-6.1663489999999115
+PNG-000392,,Wala,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.21224900000004,-6.4797119999999495
+PNG-000393,,Lawe,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.19680500000004,-6.522903999999926
+PNG-000394,,Williame,,PNG,Southern Highlands,Kewabi Rural,Wiru Rural,144.19257500000003,-6.495935999999915
+PNG-000395,,Alia,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.20305200000007,-6.34043099999991
+PNG-000396,,Apenda School,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.1733650000001,-6.374698999999907
+PNG-000397,,Pondyapu,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.21818300000007,-6.377043999999955
+PNG-000398,,Kumiane,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.13034200000004,-6.3794849999999315
+PNG-000399,,Pangia Station,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.10935800000004,-6.380690999999956
+PNG-000400,,Tindua,,PNG,Southern Highlands,Kewabi Rural,East Pangia Rural,144.0423800000001,-6.369758999999931
+PNG-000401,,Ialibu 01,,PNG,Southern Highlands,Kewabi Rural,Ialibu Urban,143.994775,-6.281339999999943
+PNG-000402,,Pale,,PNG,Southern Highlands,Kewabi Rural,Kewabi Rural,143.91779000000008,-6.307818999999938
+PNG-000403,,Pawari (Paware),,PNG,Southern Highlands,Kewabi Rural,Kewabi Rural,143.82041200000003,-6.266986999999915
+PNG-000404,,Yawaiangil,,PNG,Southern Highlands,Imbonggu,Ialibu Basin Rural,143.953037,-6.178876999999943
+PNG-000405,,Kero,,PNG,Southern Highlands,Imbonggu,Ialibu Basin Rural,144.02887900000007,-6.194167999999934
+PNG-000406,,Yara,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.83590000000004,-6.226079999999911
+PNG-000407,,Kendal 2 (Psp),,PNG,Southern Highlands,Imbonggu,Ialibu Basin Rural,143.97265200000004,-6.254434999999944
+PNG-000408,,Muli,,PNG,Southern Highlands,Kewabi Rural,Kewabi Rural,143.919845,-6.331203999999957
+PNG-000409,,Paga High School,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.592132,-5.477541999999914
+PNG-000410,,Auwi,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.639629,-5.511461999999938
+PNG-000411,,Tade,,PNG,Southern Highlands,Koroba/Kopiago,Awi/Pori Rural,142.76055600000007,-5.6120639999999185
+PNG-000412,,Yatamali  No1,,PNG,Southern Highlands,Koroba/Kopiago,North Koroba Rural,142.70220600000005,-5.7467929999999114
+PNG-000413,,,,PNG,Enga,Lagaip/Porgera,Paiela/Hewa Rural,142.91035,-5.526206999999943
+PNG-000414,,Hedamali (Hedemari  No2),,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.79360500000007,-5.767623999999955
+PNG-000415,,Kakarene,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.76614900000004,-5.7634089999999105
+PNG-000416,,Dilini Mission/Bible College,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.51357500000006,-5.403190999999936
+PNG-000417,,Itapu,,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.998647,-5.826007999999945
+PNG-000418,,Hangapo No1,,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.99746100000004,-5.848834999999951
+PNG-000419,,Parinamu No2,,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.99615300000005,-5.8617949999999155
+PNG-000420,,Holebia (Hoiebia),,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.97138600000005,-5.831440999999927
+PNG-000421,,Kuku No1,,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.96837500000004,-5.8604219999999145
+PNG-000422,,Parinamu No1,,PNG,Southern Highlands,Tari/Pori,Tebi Rural,142.97930000000008,-5.862668999999926
+PNG-000423,,Tibiribi,,PNG,Southern Highlands,Tari/Pori,Tagali Rural,142.96981200000005,-5.780285999999933
+PNG-000424,,Pabulumu No2 (Papulumu 2),,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.8314230000001,-5.849827999999945
+PNG-000425,,Pureni Cm.Stn,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.82648100000006,-5.841745999999944
+PNG-000426,,Tumbite,,PNG,Southern Highlands,Koroba/Kopiago,South Koroba Rural,142.81855500000006,-5.8333359999999175
+PNG-000427,,Wara Munihu,,PNG,Southern Highlands,Mendi/Munihu,Lai Valley Rural,143.54184700000008,-6.073455999999908
+PNG-000428,,Kip,,PNG,Southern Highlands,Mendi/Munihu,Lai Valley Rural,143.55463700000007,-6.115310999999906
+PNG-000429,,Kusa,,PNG,Southern Highlands,Nipa/Kutubu,Poroma Rural,143.5216680000001,-6.250962999999956
+PNG-000430,,Sorum,,PNG,Southern Highlands,Nipa/Kutubu,Poroma Rural,143.56348000000003,-6.260345999999913
+PNG-000431,,Yaria No1,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.665884,-6.253829999999937
+PNG-000432,,Megi No1,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.64795800000002,-6.271120999999937
+PNG-000433,,Det,,PNG,Southern Highlands,Nipa/Kutubu,Poroma Rural,143.607707,-6.277807999999936
+PNG-000434,,Inu Mission,,PNG,Southern Highlands,Nipa/Kutubu,Lake Kutubu Rural,143.3048940000001,-6.370318999999938
+PNG-000435,,Pimaga Station,,PNG,Southern Highlands,Nipa/Kutubu,Lake Kutubu Rural,143.50835700000005,-6.499000999999907
+PNG-000436,,Birop,,PNG,Southern Highlands,Mendi/Munihu,Upper Mendi Rural,143.718386,-5.999093999999957
+PNG-000437,,Kuma,,PNG,Southern Highlands,Mendi/Munihu,Upper Mendi Rural,143.73719700000004,-6.02259499999991
+PNG-000438,,Mogol Sec. Sch,,PNG,Southern Highlands,Mendi/Munihu,Upper Mendi Rural,143.68798300000003,-6.0087069999999585
+PNG-000439,,Nene,,PNG,Southern Highlands,Mendi/Munihu,Upper Mendi Rural,143.6453600000001,-5.99950599999994
+PNG-000440,,Semp,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.63749500000006,-5.999309999999923
+PNG-000441,,Pingirip,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.61125300000003,-6.0049699999999575
+PNG-000442,,Pasurim,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.61444300000005,-6.042827999999929
+PNG-000443,,Sengere,,PNG,Southern Highlands,Mendi/Munihu,Upper Mendi Rural,143.65738900000008,-6.049301999999955
+PNG-000444,,Wendia,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.6314040000001,-6.08523699999995
+PNG-000445,,Puins No1 (Puinj 1),,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.630764,-6.110203999999953
+PNG-000446,,Tente Area No1,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.65451600000006,-6.119084999999927
+PNG-000447,,Tente Area No2,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.65349700000002,-6.123690999999951
+PNG-000448,,Hum,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.5911890000001,-6.07062899999994
+PNG-000449,,Topa,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.59169500000007,-6.07680199999993
+PNG-000450,,Tulum No1,,PNG,Southern Highlands,Mendi/Munihu,Karints Rural,143.605008,-6.0652829999999085
+PNG-000451,,Pape,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.69441000000006,-6.203038999999933
+PNG-000452,,Yaken N0 No1,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.66334100000006,-6.20638299999996
+PNG-000453,,Tunt,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.61881500000004,-6.169859999999915
+PNG-000454,,Kos,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.626888,-6.1828709999999205
+PNG-000455,,Una,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.62724500000002,-6.184087999999917
+PNG-000456,,Sumia No2,,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.6402720000001,-6.208010999999942
+PNG-000457,,Mendi High School,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.649178,-6.131674999999916
+PNG-000458,,Mendi Hospital,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.65313200000003,-6.128323999999907
+PNG-000459,,Wakwak,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.66266700000006,-6.132091999999943
+PNG-000460,,Mendi 3,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.663185,-6.148450999999909
+PNG-000461,,Kumin,,PNG,Southern Highlands,Mendi/Munihu,Mendi Urban,143.6616600000001,-6.152190999999959
+PNG-000462,,Porolo (Poloro),,PNG,Southern Highlands,Imbonggu,Lower Mendi Rural,143.65777400000002,-6.181412999999907
+PNG-000463,,Wesipa,,PNG,Southern Highlands,Nipa/Kutubu,Poroma Rural,143.537777,-6.232415999999944
+PNG-000464,,Aluni,,PNG,Southern Highlands,Koroba/Kopiago,Lake Kopiago Rural,142.3806320000001,-5.39021699999995
+PNG-000465,,Kompiam,,PNG,Enga,Kompiam,Kompiam Rural,143.9515110000001,-5.407090999999923
+PNG-000466,,Yamanda,,PNG,Enga,Kompiam,Kompiam Rural,143.99161900000001,-5.423306999999909
+PNG-000467,,Yakenda,,PNG,Enga,Lagaip/Porgera,Lagaip Rural,143.43153300000006,-5.427896999999916
+PNG-000468,,Tubilam,,PNG,Enga,Wabag,Wabag Rural,143.58113300000002,-5.429989999999918
+PNG-000469,,Kopen,,PNG,Enga,Wabag,Wabag Rural,143.69439,-5.473774999999932
+PNG-000470,,Pupang,,PNG,Enga,Wabag,Wabag Rural,143.69945300000006,-5.4671189999999115
+PNG-000471,,Wabag.Prov.High,,PNG,Enga,Wabag,Wabag Rural,143.748423,-5.497728999999936
+PNG-000472,,Wapai,,PNG,Enga,Kompiam,Kompiam Rural,143.837989,-5.37245299999995
+PNG-000473,,Tumundan,,PNG,Enga,Lagaip/Porgera,Maip Muritaka Rural,143.3189470000001,-5.359749999999906
+PNG-000474,,Lagui.Com.Sch,,PNG,Enga,Kompiam,Ambum Rural,143.67560200000003,-5.437863999999934
+PNG-000475,,Lagui,,PNG,Enga,Kompiam,Ambum Rural,143.675658,-5.437576999999919
+PNG-000476,,Birip.Seminary,,PNG,Enga,Wabag,Wabag Rural,143.79889300000002,-5.548121999999921
+PNG-000477,,Longap,,PNG,Enga,Kandep,Wage Rural,143.40520100000003,-5.720972999999958
+PNG-000478,,Murip,,PNG,Enga,Kandep,Kandep Rural,143.463839,-5.7317959999999175
+PNG-000479,,Kandep,,PNG,Enga,Kandep,Kandep Rural,143.4942870000001,-5.825002999999924
+PNG-000480,,Lep,,PNG,Enga,Kompiam,Ambum Rural,143.61069500000008,-5.37844999999993
+PNG-000481,,Miok,,PNG,Enga,Wapenamanda,Wapenamanda Rural,143.86881500000004,-5.622205999999949
+PNG-000482,,Yomodaka,,PNG,Enga,Lagaip/Porgera,Porgera Rural,143.19637,-5.428373999999906
+PNG-000483,,Yapum,,PNG,Enga,Kandep,Kandep Rural,143.464737,-5.71747599999992
+PNG-000484,,Yakenda,,PNG,Enga,Lagaip/Porgera,Lagaip Rural,143.431509,-5.4278399999999465
+PNG-000485,,Tumbilam,,PNG,Enga,Wabag,Wabag Rural,143.58115800000007,-5.429979999999944
+PNG-000486,,Wabag,,PNG,Enga,Wabag,Wabag Rural,143.74830000000009,-5.497803999999917
+PNG-000487,,Wabag,,PNG,Enga,Wabag,Wabag Urban,143.722799,-5.494179999999915
+PNG-000488,,Wapai,,PNG,Enga,Kompiam,Kompiam Rural,143.83819000000005,-5.3723739999999225
+PNG-000489,,Kindal.Bible,,PNG,Western Highlands,Dei,Dei Rural,144.35801400000003,-5.708728999999948
+PNG-000490,,Kelua.1,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.21746200000007,-5.797928999999954
+PNG-000491,,Malke,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,143.91455100000007,-5.909249999999929
+PNG-000492,,Kuskomb,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.05794400000002,-5.817130999999961
+PNG-000493,,Yangmali,,PNG,East Sepik,Angoram,Angoram/Middle Sepik,143.43860500000005,-4.291802999999959
+PNG-000494,,Maringei,,PNG,East Sepik,Angoram,Angoram/Middle Sepik,143.58791300000007,-4.190129999999954
+PNG-000495,,Moim,,PNG,East Sepik,Angoram,Angoram/Middle Sepik,143.89866500000005,-4.1285049999999615
+PNG-000496,,Dumiu,,PNG,East Sepik,Angoram,Keram Rural,144.0032510000001,-4.153283999999928
+PNG-000497,,Ibab,,PNG,East Sepik,Wewak,Turubu Rural,143.85998600000005,-3.853249999999946
+PNG-000498,,Kaup Community School,,PNG,East Sepik,Angoram,Marienberg Rural,143.97394400000007,-3.792940999999928
+PNG-000499,,Angoram,,PNG,East Sepik,Angoram,Marienberg Rural,144.07805100000007,-4.0426089999999135
+PNG-000500,,Balik,,PNG,East Sepik,Wewak,Turubu Rural,143.7964790000001,-3.6519119999999248
+PNG-000501,,Arin,,PNG,East Sepik,Wewak,Boikin/Dagua Rural,143.43388700000003,-3.547529999999938
+PNG-000502,,Passam,,PNG,East Sepik,Wewak,Wewak Rural,143.634095,-3.69349399999993
+PNG-000503,,Homerauri,,PNG,East Sepik,Wewak,Wewak Rural,143.6042960000001,-3.644425999999953
+PNG-000504,,Banak Community School,,PNG,East Sepik,Wewak,Boikin/Dagua Rural,143.36394000000007,-3.414784999999938
+PNG-000505,,Bakuk,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.64216900000008,-4.2232179999999175
+PNG-000506,,Yassan,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.66611,-4.211765999999955
+PNG-000507,,Yambom,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.77393500000005,-4.261899999999912
+PNG-000508,,Burui,,PNG,East Sepik,Wosera Gawi,Burui/ Kunai Rural,143.024003,-3.998354999999947
+PNG-000509,,Sitaka C/Sch,,PNG,East Sepik,Wosera Gawi,South Wosera,142.994862,-3.739304999999945
+PNG-000510,,Nanu Comm/Sch,,PNG,East Sepik,Wosera Gawi,North Wosera Rural,142.96337800000003,-3.7700079999999616
+PNG-000511,,Kobaibos,,PNG,East Sepik,Yangoro Saussia,West Yangoru Rural,143.201859,-3.6249499999999557
+PNG-000512,,Neigre,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.3143100000001,-3.665115999999955
+PNG-000513,,Meska Comm.Sch,,PNG,East Sepik,Angoram,Karawari Rural,143.10017400000004,-4.5893409999999335
+PNG-000514,,Kambua,,PNG,East Sepik,Angoram,Karawari Rural,143.374056,-4.713417999999933
+PNG-000515,,Binam,,PNG,East Sepik,Angoram,Karawari Rural,143.4347130000001,-4.63382699999994
+PNG-000516,,Mensuat Comm/School,,PNG,East Sepik,Angoram,Yuat Rural,143.76164900000003,-4.444813999999951
+PNG-000517,,Waskuk,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.76629000000003,-4.18630399999995
+PNG-000518,,Kwmbawe,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.6427490000001,-4.225981999999931
+PNG-000519,,Kandegei,,PNG,East Sepik,Wosera Gawi,Gawi Rural,143.09297500000002,-4.130577999999957
+PNG-000520,,Oum,,PNG,East Sepik,Ambunti/Drekikir,Ambunti Rural,142.14357500000006,-4.272442999999953
+PNG-000521,,Chumundo,,PNG,East Sepik,Angoram,Keram Rural,144.143553,-4.185843999999918
+PNG-000522,,Yar,,PNG,East Sepik,Angoram,Keram Rural,144.24614400000007,-4.504211999999939
+PNG-000523,,Mingnias,,PNG,East Sepik,Angoram,Keram Rural,144.410661,-4.678429999999935
+PNG-000524,,Sembo C/Sch,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.40803600000004,-3.6963819999999146
+PNG-000525,,Patikiaul,,PNG,East Sepik,Wewak,Wewak Islands,144.59575000000007,-3.5137609999999313
+PNG-000526,,Mushu Com/Sch,,PNG,East Sepik,Wewak,Wewak Islands,143.58121600000004,-3.411152999999956
+PNG-000527,,St.Martin,,PNG,East Sepik,Wewak,Wewak Islands,143.55339400000003,-3.3689509999999245
+PNG-000528,,Bajiman C/Sch,,PNG,East Sepik,Wewak,Turubu Rural,143.7994070000001,-3.7254989999999566
+PNG-000529,,Wogan Community School,,PNG,East Sepik,Angoram,Marienberg Rural,144.54241100000002,-3.9948419999999487
+PNG-000530,,Tianga,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.31220600000006,-3.618567999999925
+PNG-000531,,Kiniambi,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.34401200000002,-3.8202499999999304
+PNG-000532,,Neihembi Comm/Sch,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.38047800000004,-3.6997279999999364
+PNG-000533,,Handra & Village,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.4574110000001,-3.688011999999958
+PNG-000534,,Marinumbo C/Sch,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.5754730000001,-3.7116049999999063
+PNG-000535,,Sangara Aog/ Penkepit,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.27550500000007,-3.967493999999931
+PNG-000536,,St Max C/Sch,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.40619800000002,-3.8616649999999595
+PNG-000537,,Turingi C/Sch,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.46009200000003,-3.8278309999999465
+PNG-000538,,Walam,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.799167,-3.5073869999999374
+PNG-000539,,Mairuwi,,PNG,East Sepik,Maprik,Maprik/Wora Rural,143.021523,-3.6771219999999403
+PNG-000540,,Sembeuip C/Sch,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.663542,-3.46820699999995
+PNG-000541,,Yambanakor C/Sch,,PNG,East Sepik,Ambunti/Drekikir,Gawanga Rural,142.87807800000007,-3.7296709999999393
+PNG-000542,,Kumbuhun C/S,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.29820700000005,-3.647596999999905
+PNG-000543,,Kamabruka C/Sch,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.655757,-3.790884999999946
+PNG-000544,,Boiro,,PNG,East Sepik,Wewak,Wewak Islands,144.20860500000003,-3.3610499999999206
+PNG-000545,,Warasaua,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.50747,-3.7185779999999227
+PNG-000546,,Ninchinumbo,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.40897900000004,-3.668993999999941
+PNG-000547,,Sepi  (Avisatge),,PNG,East Sepik,Wosera Gawi,Gawi Rural,143.1488290000001,-4.081335999999908
+PNG-000548,,Salamin,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,143.0764650000001,-3.3705249999999296
+PNG-000549,,Suain.C.Mission,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.920475,-3.340872999999931
+PNG-000550,,Ulau.C.M,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.7928730000001,-3.3041639999999575
+PNG-000551,,Pro_Vokau,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.4035090000001,-3.1823709999999323
+PNG-000552,,Kiriel,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.39691000000005,-3.2632169999999405
+PNG-000553,,Bien,,PNG,West Sepik,Aitape/Lumi,West Aitape Rural,142.07507800000008,-3.181840999999906
+PNG-000554,,Arop,,PNG,West Sepik,Aitape/Lumi,West Aitape Rural,142.12231300000008,-3.104375999999945
+PNG-000555,,Rainikir,,PNG,West Sepik,Aitape/Lumi,West Aitape Rural,142.22616100000005,-3.1244029999999157
+PNG-000556,,St. Ignatius,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.3628040000001,-3.170003999999949
+PNG-000557,,Greeh.River High School,,PNG,West Sepik,Vanimo/Green River,Green River Rural,141.172053,-3.8452919999999153
+PNG-000558,,Amanab.V.Ctr,,PNG,West Sepik,Vanimo/Green River,Amanab Rural,141.20905600000003,-3.5951019999999403
+PNG-000559,,Iafar,,PNG,West Sepik,Vanimo/Green River,Amanab Rural,141.13831700000003,-3.51221599999991
+PNG-000560,,Apu,,PNG,West Sepik,Vanimo/Green River,Amanab Rural,141.11128600000006,-3.606094999999925
+PNG-000561,,Namola,,PNG,West Sepik,Vanimo/Green River,Walsa Rural,141.12476200000003,-3.2752589999999486
+PNG-000562,,Kwek,,PNG,West Sepik,Vanimo/Green River,Walsa Rural,141.04586700000004,-3.2432329999999183
+PNG-000563,,Wagesu,,PNG,West Sepik,Nuku,Palmai Rural,142.36822700000005,-3.5310329999999226
+PNG-000564,,Imbio,,PNG,West Sepik,Vanimo/Green River,Bewani/Wutung Onei Rural,141.474378,-2.9444969999999557
+PNG-000565,,Musu,,PNG,West Sepik,Vanimo/Green River,Bewani/Wutung Onei Rural,141.13879800000007,-2.6304029999999443
+PNG-000566,,Osol,,PNG,West Sepik,Vanimo/Green River,Bewani/Wutung Onei Rural,141.24267900000007,-2.8913599999999064
+PNG-000567,,Bairap,,PNG,West Sepik,Nuku,Yangkok Rural,142.11994000000004,-3.5496429999999464
+PNG-000568,,Yangkok Stn,,PNG,West Sepik,Nuku,Yangkok Rural,142.21782600000006,-3.5622319999999377
+PNG-000569,,Laiangim,,PNG,West Sepik,Nuku,Yangkok Rural,142.20566600000006,-3.5059459999999376
+PNG-000570,,Bimon,,PNG,West Sepik,Nuku,Yangkok Rural,142.17450000000008,-3.5096139999999423
+PNG-000571,,Taute,,PNG,West Sepik,Aitape/Lumi,East Wapei Rural,142.001617,-3.497987999999907
+PNG-000572,,Nabaijo,,PNG,West Sepik,Telefomin,Namea Rural,141.73165100000006,-3.8441089999999463
+PNG-000573,,Yakamul,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.684213,-3.275175999999931
+PNG-000574,,Aitape,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.3981520000001,-3.177908999999943
+PNG-000575,,Barupu,,PNG,West Sepik,Aitape/Lumi,West Aitape Rural,142.05163800000003,-3.0769939999999565
+PNG-000576,,Aitape,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.34021100000007,-3.1377259999999296
+PNG-000577,,Aitape,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,142.34079400000007,-3.1368309999999155
+PNG-000578,,Yemereba,,PNG,West Sepik,Nuku,Palmai Rural,142.33067900000003,-3.6660369999999602
+PNG-000579,,Nangwom,,PNG,West Sepik,Nuku,Palmai Rural,142.59450500000003,-3.6050809999999274
+PNG-000580,,Yambakou,,PNG,West Sepik,Nuku,Palmai Rural,142.575464,-3.494135999999912
+PNG-000581,,Yapunda,,PNG,West Sepik,Nuku,Palmai Rural,142.45927100000006,-3.4787589999999113
+PNG-000582,,Woluk,,PNG,West Sepik,Nuku,Palmai Rural,142.38867400000004,-3.467997999999909
+PNG-000583,,St.Francis,,PNG,West Sepik,Nuku,Palmai Rural,142.51618800000006,-3.6309219999999414
+PNG-000584,,Wilwil,,PNG,West Sepik,Nuku,Mawase Rural,142.5036090000001,-3.7196239999999534
+PNG-000585,,Nukuangolo,,PNG,West Sepik,Nuku,Mawase Rural,142.550345,-3.6531349999999065
+PNG-000586,,Lumi,,PNG,West Sepik,Aitape/Lumi,East Wapei Rural,142.06523400000003,-3.509023999999954
+PNG-000587,,Yauluwabe,,PNG,West Sepik,Aitape/Lumi,West Wapei Rural,142.05563200000006,-3.411310999999955
+PNG-000588,,Fatima,,PNG,West Sepik,Aitape/Lumi,West Wapei Rural,142.10809200000006,-3.4411139999999136
+PNG-000589,,Karate,,PNG,West Sepik,Aitape/Lumi,East Wapei Rural,142.09535800000003,-3.4863699999999085
+PNG-000590,,Teiri,,PNG,West Sepik,Aitape/Lumi,West Wapei Rural,142.08241900000007,-3.43464199999994
+PNG-000591,,Paikona,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.1038430000001,-5.822443999999905
+PNG-000592,,Gihamu,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.1312220000001,-5.849920999999938
+PNG-000593,,Yombikul,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,143.92887900000005,-5.861492999999939
+PNG-000594,,Purari,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,143.95323100000007,-5.8569199999999455
+PNG-000595,,Oamung,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.0862370000001,-5.859809999999925
+PNG-000596,,Engkal,,PNG,Western Highlands,Dei,Dei Rural,144.32099200000005,-5.728693999999905
+PNG-000597,,Kitip,,PNG,Western Highlands,Dei,Dei Rural,144.370494,-5.660269999999912
+PNG-000598,,Raphael.Mem,,PNG,Western Highlands,Anglimp/South Waghi,South Waghi Rural,144.6802540000001,-5.879896999999914
+PNG-000599,,Mugumamp,,PNG,Western Highlands,Anglimp/South Waghi,Anglimp Rural,144.41362700000002,-5.754895999999917
+PNG-000600,,Kakemali,,PNG,Western Highlands,Mul/Baiyer,Lumusa Rural,144.04243200000008,-5.5447059999999055
+PNG-000601,,Gia,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.04856500000005,-6.021617999999933
+PNG-000602,,Bonga,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.0675510000001,-6.002264999999909
+PNG-000603,,Komkui,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.26957300000004,-5.861727999999914
+PNG-000604,,Kuta,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.22574900000006,-5.900831999999923
+PNG-000605,,Togoba.Sda,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.1475200000001,-5.889077999999927
+PNG-000606,,Ketiga,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.17230800000004,-5.880523999999923
+PNG-000607,,Baisu,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.3544310000001,-5.79414799999995
+PNG-000608,,Moika,,PNG,Western Highlands,Mt Hagen,Mt Hagen Rural,144.18404600000008,-5.846502999999927
+PNG-000609,,Emmanuel,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.0353510000001,-5.975089999999909
+PNG-000610,,Tambul,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.02356200000008,-5.919774999999959
+PNG-000611,,Alkena,,PNG,Western Highlands,Tambul/Nebilyer,Mt Giluwe Rural,144.00782700000002,-5.926597999999956
+PNG-000612,,Tsingoropa,,PNG,Western Highlands,Jimi,Jimi Rural,144.6446360000001,-5.539891999999952
+PNG-000613,,Karap,,PNG,Western Highlands,Jimi,Jimi Rural,144.689883,-5.660697999999911
+PNG-000614,,Kaul,,PNG,Western Highlands,Jimi,Jimi Rural,144.6467120000001,-5.685056999999915
+PNG-000615,,Kaming,,PNG,Western Highlands,North Waghi,North Waghi Rural,144.77831400000002,-5.83262499999995
+PNG-000616,,Milep,,PNG,Western Highlands,North Waghi,North Waghi Rural,144.744327,-5.819640999999933
+PNG-000617,,Rombau,,PNG,Western Highlands,Mul/Baiyer,Lumusa Rural,144.068083,-5.549777999999947
+PNG-000618,,Singua,,PNG,Western Highlands,Mul/Baiyer,Lumusa Rural,144.065651,-5.613480999999922
+PNG-000619,,Ngamar,,PNG,Western Highlands,Anglimp/South Waghi,South Waghi Rural,144.79052000000001,-5.964237999999909
+PNG-000620,,Muruka,,PNG,Western Highlands,Anglimp/South Waghi,South Waghi Rural,144.70575400000007,-5.917206999999905
+PNG-000621,,Aviamp,,PNG,Western Highlands,Anglimp/South Waghi,South Waghi Rural,144.5147300000001,-5.8376219999999535
+PNG-000622,,Numul,,PNG,Western Highlands,Tambul/Nebilyer,Nebilyer Rural,144.2257380000001,-5.978408999999942
+PNG-000623,,Kopanda,,PNG,Western Highlands,Mul/Baiyer,Baiyer Rural,144.09543300000007,-5.541592999999921
+PNG-000624,,Minj,,PNG,Western Highlands,Anglimp/South Waghi,South Waghi Rural,144.653862,-5.892944999999941
+PNG-000625,,Kerabug,,PNG,Western Highlands,Mt Hagen,Mt Hagen Urban,144.21666400000004,-5.837993999999924
+PNG-000626,,Papikola,,PNG,Western Highlands,Tambul/Nebilyer,Nebilyer Rural,144.14056400000004,-6.052434999999946
+PNG-000627,,Paglum,,PNG,Western Highlands,Mul/Baiyer,Mul Rural,144.23591800000008,-5.750430999999935
+PNG-000628,,Agugu,,PNG,Chimbu,Chuave,Chuave Rural,145.1116810000001,-6.114604999999926
+PNG-000629,,Bawi,,PNG,Chimbu,Chuave,Chuave Rural,145.131572,-6.126572999999951
+PNG-000630,,Sirigoge,,PNG,Chimbu,Chuave,Chuave Rural,145.07602500000007,-6.11751199999992
+PNG-000631,,Keu,,PNG,Chimbu,Chuave,Chuave Rural,145.13366700000006,-6.171328999999957
+PNG-000632,,Chuave,,PNG,Chimbu,Chuave,Chuave Rural,145.13093300000003,-6.12380399999995
+PNG-000633,,Dumul,,PNG,Chimbu,Sina Sina/Yonggomugl,Tabare Rural,145.03928300000007,-6.080061999999941
+PNG-000634,,Nebire,,PNG,Chimbu,Sina Sina/Yonggomugl,Suai Rural,144.96603000000005,-6.112643999999932
+PNG-000635,,Karando,,PNG,Chimbu,Chuave,Siane Rural,145.22972800000002,-6.168055999999922
+PNG-000636,,Moremaule,,PNG,Chimbu,Gumine,Bomai/Gumai Rural,144.92709100000002,-6.11449499999992
+PNG-000637,,Gagl,,PNG,Chimbu,Kerowagi,Gena/Waugla Rural,144.87843400000008,-5.936713999999938
+PNG-000638,,Kondiu,,PNG,Chimbu,Kerowagi,Gena/Waugla Rural,144.85534200000006,-5.986221999999941
+PNG-000639,,Kunabau,,PNG,Chimbu,Kerowagi,Gena/Waugla Rural,144.85768200000007,-5.942613999999935
+PNG-000640,,Gagul,,PNG,Chimbu,Kerowagi,Kerowagi Rural,144.83453500000007,-5.919410999999911
+PNG-000641,,Tua,,PNG,Chimbu,Karimui/Nomane,Karimui Rural,144.6892180000001,-6.579590999999937
+PNG-000642,,Yogorumaru,,PNG,Chimbu,Karimui/Nomane,Karimui Rural,144.719513,-6.50812499999995
+PNG-000643,,Anig,,PNG,Chimbu,Kundiawa/Gembogl,Waiye Rural,144.946456,-6.003740999999934
+PNG-000644,,Sipagul,,PNG,Chimbu,Gumine,Mt Digine Rural,144.903951,-6.050772999999936
+PNG-000645,,Demange,,PNG,Chimbu,Kerowagi,Kerowagi Rural,144.80694500000004,-5.8595529999999485
+PNG-000646,,Nanuk,,PNG,East New Britain,Kokopo,Raluana Rural,152.21148700000003,-4.338257999999939
+PNG-000647,,Tavui  No.3,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24395000000004,-4.454646999999909
+PNG-000648,,Vunga,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.062585,-4.5091509999999175
+PNG-000649,,Pirtop,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.47988400000008,-4.149573999999916
+PNG-000650,,Tinganalip,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.12350700000002,-4.307328999999925
+PNG-000651,,Wairiki No. 1,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.18562600000007,-4.413246999999956
+PNG-000652,,Tobera,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.25119200000006,-4.410220999999922
+PNG-000653,,Tudungan Dem,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.120725,-4.380933999999911
+PNG-000654,,Makurapau,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.35986000000003,-4.397559999999942
+PNG-000655,,Malakuna,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.3602810000001,-4.379447999999911
+PNG-000656,,Karavi,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.2308270000001,-4.329366999999934
+PNG-000657,,Kawa,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.672912,-5.509550999999931
+PNG-000658,,Kulunio Mem,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.3781160000001,-4.393490999999926
+PNG-000659,,Milmila,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.468618,-4.198289999999929
+PNG-000660,,Mongou,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.68981500000007,-5.268641999999943
+PNG-000661,,Navunaram,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.1278880000001,-4.29560099999992
+PNG-000662,,Tavilo,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.0316610000001,-4.303306999999961
+PNG-000663,,Warangoi,,PNG,East New Britain,Pomio,Sinivit Rural,152.16312200000004,-4.470610999999906
+PNG-000664,,Don Bosco T/Col,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.2803130000001,-4.362553999999932
+PNG-000665,,Oisca,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.20566200000007,-4.426819999999907
+PNG-000666,,Pastors College,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.0304920000001,-4.2673169999999345
+PNG-000667,,Lawugeru,,PNG,West New Britain,Kandrian/Gloucester,Kove / Kaliai Rural,149.276563,-5.57485099999991
+PNG-000668,,Kapo,,PNG,West New Britain,Kandrian/Gloucester,Kove / Kaliai Rural,149.395309,-5.55745399999995
+PNG-000669,,Kikiveai,,PNG,West New Britain,Kandrian/Gloucester,Kove / Kaliai Rural,149.49705200000005,-5.549853999999925
+PNG-000670,,Penopo,,PNG,West New Britain,Talasea,Bali/Witu Rural,149.11507400000005,-4.890545999999915
+PNG-000671,,2408,,PNG,West New Britain,Talasea,Bialla Rural,150.88496300000008,-5.548004999999932
+PNG-000672,,2910,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,150.96196200000009,-5.632943999999952
+PNG-000673,,3412,,PNG,West New Britain,Talasea,Hoskins Rural,150.425969,-5.434976999999947
+PNG-000674,,7032,,PNG,West New Britain,Kandrian/Gloucester,Kove / Kaliai Rural,149.32198600000004,-5.813433999999916
+PNG-000675,,Ahli Community School,,PNG,West New Britain,Kandrian/Gloucester,Kandrian Coastal Rural,149.8349790000001,-6.274197999999956
+PNG-000676,,11405,,PNG,West New Britain,Kandrian/Gloucester,Kandrian Coastal Rural,149.47498400000006,-6.101940999999954
+PNG-000677,,3402,,PNG,West New Britain,Talasea,Hoskins Rural,150.40996900000005,-5.477466999999933
+PNG-000678,,Gloucester High School,,PNG,West New Britain,Kandrian/Gloucester,Gloucester Rural,148.54499600000008,-5.542028999999957
+PNG-000679,,Kandrian High School,,PNG,West New Britain,Kandrian/Gloucester,Kandrian Coastal Rural,149.55198300000006,-6.205308999999943
+PNG-000680,,Hakets,,PNG,North Solomons,North Bougainville,Buka,154.66486700000007,-5.12552299999993
+PNG-000681,,Hamatana,,PNG,North Solomons,North Bougainville,Buka,154.69586700000002,-5.274326999999914
+PNG-000682,,Pateki,,PNG,North Solomons,North Bougainville,Buka,154.6488710000001,-5.292705999999953
+PNG-000683,,Bekut,,PNG,North Solomons,North Bougainville,Buka,154.64165200000002,-5.253840999999909
+PNG-000684,,Hapan,,PNG,North Solomons,North Bougainville,Buka,154.59810300000004,-5.239123999999947
+PNG-000685,,Tukihing,,PNG,North Solomons,North Bougainville,Buka,154.580462,-5.33407399999993
+PNG-000686,,Novah,,PNG,North Solomons,North Bougainville,Buka,154.63570700000002,-5.4003249999999525
+PNG-000687,,Tanamalo,,PNG,North Solomons,North Bougainville,Buka,154.60071100000005,-5.0265119999999115
+PNG-000688,,Karola,,PNG,North Solomons,North Bougainville,Buka,154.566328,-5.142618999999911
+PNG-000689,,Tugeas,,PNG,North Solomons,North Bougainville,Buka,154.59704900000008,-5.200006999999914
+PNG-000690,,Tinputz.Voc,,PNG,North Solomons,North Bougainville,Tinputz,155.00929400000007,-5.556090999999924
+PNG-000691,,Toropas,,PNG,North Solomons,North Bougainville,Tinputz,154.97974,-5.591893999999911
+PNG-000692,,Laguai,,PNG,North Solomons,South Bougainville,Buin,155.65393400000005,-6.7883999999999105
+PNG-000693,,Malabita,,PNG,North Solomons,South Bougainville,Buin,155.73400400000003,-6.77815899999996
+PNG-000694,,Tantareki,,PNG,North Solomons,South Bougainville,Buin,155.7398330000001,-6.734298999999908
+PNG-000695,,Muguai,,PNG,North Solomons,South Bougainville,Buin,155.75430800000004,-6.716682999999932
+PNG-000696,,Laitaro,,PNG,North Solomons,South Bougainville,Buin,155.684212,-6.7156349999999065
+PNG-000697,,Kotana,,PNG,North Solomons,South Bougainville,Torokina,155.13525700000002,-6.201754999999935
+PNG-000698,,Kuneka,,PNG,North Solomons,South Bougainville,Bana,155.37841000000003,-6.4243699999999535
+PNG-000699,,Atsinima,,PNG,North Solomons,North Bougainville,Kunua,154.95923800000003,-6.104946999999925
+PNG-000700,,Atorao,,PNG,North Solomons,Central Bougainville,Wakunai,155.2219570000001,-5.890563999999927
+PNG-000701,,Porpor,,PNG,North Solomons,North Bougainville,Selau/Suir,154.794671,-5.568393999999955
+PNG-000702,,Siara,,PNG,North Solomons,North Bougainville,Selau/Suir,154.809435,-5.5037929999999164
+PNG-000703,,Tilowa,,PNG,North Solomons,North Bougainville,Selau/Suir,154.73905200000002,-5.428553999999906
+PNG-000704,,Tsunpets,,PNG,North Solomons,North Bougainville,Selau/Suir,154.88218100000006,-5.553443999999956
+PNG-000705,,Burisotoro,,PNG,North Solomons,Central Bougainville,Wakunai,155.12030200000004,-5.8865299999999365
+PNG-000706,,Koru,,PNG,North Solomons,Central Bougainville,Wakunai,155.22527200000002,-5.9323519999999235
+PNG-000707,,Mabiri.Training Cntre,,PNG,North Solomons,Central Bougainville,Wakunai,155.353296,-5.999676999999906
+PNG-000708,,Roroinang,,PNG,North Solomons,Central Bougainville,Arawa,155.69652200000007,-6.330311999999935
+PNG-000709,,Kakusida,,PNG,North Solomons,Central Bougainville,Arawa,155.58891300000005,-6.374491999999918
+PNG-000710,,Barima,,PNG,North Solomons,Central Bougainville,Arawa,155.53590100000008,-6.216417999999919
+PNG-000711,,Aku,,PNG,North Solomons,South Bougainville,Buin,155.580289,-6.760273999999924
+PNG-000712,,Kanauro,,PNG,North Solomons,South Bougainville,Buin,155.63848600000006,-6.728208999999936
+PNG-000713,,Buin,,PNG,North Solomons,South Bougainville,Buin,155.68392200000005,-6.745754999999917
+PNG-000714,,Kikimogu,,PNG,North Solomons,South Bougainville,Buin,155.64014500000008,-6.713731999999936
+PNG-000715,,Ugubakou,,PNG,North Solomons,South Bougainville,Buin,155.777511,-6.604420999999945
+PNG-000716,,Ameno,,PNG,North Solomons,South Bougainville,Bana,155.32738300000005,-6.532870999999943
+PNG-000717,,Sininai,,PNG,North Solomons,South Bougainville,Siwai,155.3886530000001,-6.608474999999942
+PNG-000718,,Tonu,,PNG,North Solomons,South Bougainville,Siwai,155.42118300000004,-6.657741999999928
+PNG-000719,,Konga,,PNG,North Solomons,South Bougainville,Siwai,155.47877000000005,-6.665712999999926
+PNG-000720,,Harinai,,PNG,North Solomons,South Bougainville,Siwai,155.43330300000002,-6.707736999999952
+PNG-000721,,Mamarin,,PNG,North Solomons,North Bougainville,Selau/Suir,154.77082900000005,-5.472228999999913
+PNG-000722,,Kukuaovo,,PNG,North Solomons,Central Bougainville,Wakunai,155.14930100000004,-5.8104679999999576
+PNG-000723,,Ietae,,PNG,North Solomons,Central Bougainville,Wakunai,155.15327200000002,-5.847057999999947
+PNG-000724,,Hurai,,PNG,North Solomons,South Bougainville,Siwai,155.47606000000007,-6.713273999999956
+PNG-000725,,Moma Private,,PNG,North Solomons,South Bougainville,Buin,155.65073400000006,-6.739563999999916
+PNG-000726,,Tugiu,,PNG,North Solomons,South Bougainville,Buin,155.60425600000008,-6.670215999999925
+PNG-000727,,Suhano,,PNG,North Solomons,North Bougainville,Buka,154.66603800000007,-5.444763999999907
+PNG-000728,,Asitavi,,PNG,North Solomons,Central Bougainville,Wakunai,155.187813,-5.845679999999959
+PNG-000729,,Don.Bosco.Tech,,PNG,Chimbu,Kerowagi,Kerowagi Rural,144.8365050000001,-5.942072999999937
+PNG-000730,,Bogo,,PNG,Chimbu,Kerowagi,Kerowagi Rural,144.90869500000008,-5.857540999999912
+PNG-000731,,Gor,,PNG,Chimbu,Kundiawa/Gembogl,Waiye Rural,144.88651000000004,-6.014654999999948
+PNG-000732,,Bi,,PNG,Chimbu,Kerowagi,Kup Rural,144.84391600000004,-6.0158009999999535
+PNG-000733,,Kup,,PNG,Chimbu,Kerowagi,Kup Rural,144.80731300000002,-5.96621499999992
+PNG-000734,,Haguragave,,PNG,Eastern Highlands,Henganofi,Henganofi Rural,145.723881,-6.13216099999994
+PNG-000735,,Kesevaka,,PNG,Eastern Highlands,Henganofi,Henganofi Rural,145.69203700000003,-6.157009999999957
+PNG-000736,,Kiviringka,,PNG,Eastern Highlands,Henganofi,Henganofi Rural,145.6606700000001,-6.181935999999951
+PNG-000737,,Gono,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.23875500000008,-6.388758999999936
+PNG-000738,,Mengino,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.23173900000006,-6.437436999999932
+PNG-000739,,Kwongi,,PNG,Eastern Highlands,Asaro/Watabung,Asaro/Watabung Rural,145.2573440000001,-5.91752299999996
+PNG-000740,,Hizetile,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.36592700000006,-5.962670999999943
+PNG-000741,,Schindler,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,145.89690900000005,-6.327448999999945
+PNG-000742,,Karuka,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.36437,-6.335907999999961
+PNG-000743,,Arora,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.71193100000005,-6.526768999999945
+PNG-000744,,Sepuna,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.6947080000001,-6.539021999999932
+PNG-000745,,Forapi,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.43675800000005,-6.238574999999912
+PNG-000746,,Siokie,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.42460300000005,-6.102248999999915
+PNG-000747,,Ikana,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,145.953755,-6.37083199999995
+PNG-000748,,Ino'Onka,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,145.79906300000005,-6.2623799999999505
+PNG-000749,,Korofeigu,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.47293000000002,-6.2218279999999595
+PNG-000750,,Omboda,,PNG,Eastern Highlands,Asaro/Watabung,Asaro/Watabung Rural,145.289084,-5.97293499999995
+PNG-000751,,Akameku,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.36600600000008,-5.984291999999925
+PNG-000752,,Kabiufa,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.366447,-6.00326199999995
+PNG-000753,,Kerebabe,,PNG,Eastern Highlands,Henganofi,Henganofi Rural,145.614601,-6.339623999999958
+PNG-000754,,Kasoru Mage,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.631261,-6.50803499999995
+PNG-000755,,Daulo,,PNG,Eastern Highlands,Asaro/Watabung,Asaro/Watabung Rural,145.21714600000007,-6.045079999999928
+PNG-000756,,Magitu,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.49729000000002,-6.151002999999946
+PNG-000757,,Katagu,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.4705160000001,-6.146185999999943
+PNG-000758,,Ufeto,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.33950800000002,-6.094590999999923
+PNG-000759,,Bioka,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,146.0181970000001,-6.309656999999959
+PNG-000760,,Tairora,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,145.870631,-6.418057999999917
+PNG-000761,,Lufa,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.38097200000004,-6.308516999999938
+PNG-000762,,Kiseveroka,,PNG,Eastern Highlands,Lufa,Lufa Rural,145.42744200000004,-6.370768999999939
+PNG-000763,,Kamaliki,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.39926200000002,-6.143934999999942
+PNG-000764,,Ke'Efu,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.54177100000004,-6.497694999999908
+PNG-000765,,Ivingoi,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.565966,-6.618845999999905
+PNG-000766,,Hewe,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.32053300000007,-6.061708999999951
+PNG-000767,,Asaroka,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.32462800000008,-6.040629999999908
+PNG-000768,,Gulunoka,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.43409300000008,-6.047683999999947
+PNG-000769,,Kefamo,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.385263,-6.053361999999936
+PNG-000770,,Gorohanota,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.39475400000003,-6.00204599999995
+PNG-000771,,Kagu,,PNG,Eastern Highlands,Okapa,Okapa Rural,145.4783030000001,-6.444481999999937
+PNG-000772,,Barola Comm. School,,PNG,Eastern Highlands,Kainantu Rural,Kainantu Rural,145.77637600000003,-6.294741999999928
+PNG-000773,,Bena Sda,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.4861860000001,-6.099918999999943
+PNG-000774,,Segereh (Plt) Hsc,,PNG,Eastern Highlands,Unggai/Benna,Unggai/Benna Rural,145.54001100000005,-6.0954419999999345
+PNG-000775,,Yauna C/Sch.,,PNG,Eastern Highlands,Goroka,Goroka Rural,145.31608100000005,-6.11128199999996
+PNG-000776,,Asaroka C/Sch.,,PNG,Eastern Highlands,Asaro/Watabung,Asaro/Watabung Rural,145.321185,-6.013235999999949
+PNG-000777,,Onggake,,PNG,Morobe,Markham,Deyamos Rural,147.10512200000005,-6.18269499999991
+PNG-000778,,Kalassa Miss,,PNG,Morobe,Tewae/Siassi,Sialum Rural,147.55925000000002,-6.133640999999955
+PNG-000779,,Kip,,PNG,Morobe,Tewae/Siassi,Sialum Rural,147.55544400000008,-6.152718999999934
+PNG-000780,,Butaweng,,PNG,Morobe,Finschafen,Yabim Mape Rural,147.81819300000006,-6.596183999999937
+PNG-000781,,Kor,,PNG,Morobe,Finschafen,Hube Rural,147.32172400000002,-6.4457669999999325
+PNG-000782,,Kurue,,PNG,Morobe,Finschafen,Kotte Rural,147.84659,-6.455686999999955
+PNG-000783,,Lupu,,PNG,Morobe,Huon,Wampar Rural,146.89704600000005,-6.699267999999961
+PNG-000784,,Hikwang,,PNG,Morobe,Markham,Wantoat/Leron Rural,146.37353400000006,-6.144967999999949
+PNG-000785,,Matap,,PNG,Morobe,Markham,Wantoat/Leron Rural,146.45558800000003,-6.11579299999994
+PNG-000786,,Nasawasiang,,PNG,Morobe,Markham,Umi/Atzera Rural,146.30675700000006,-6.388530999999944
+PNG-000787,,Itsagants,,PNG,Morobe,Markham,Onga/Waffa Rural,146.2947180000001,-6.440966999999944
+PNG-000788,,Hewau,,PNG,Morobe,Menyamya,Kome Rural,145.92342100000008,-7.157299999999907
+PNG-000789,,Timini,,PNG,Morobe,Bulolo,Mumeng Rural,146.6360850000001,-6.800278999999932
+PNG-000790,,Wagau,,PNG,Morobe,Bulolo,Mumeng Rural,146.80006000000003,-6.852330999999936
+PNG-000791,,Wau Govmnt Stn,,PNG,Morobe,Bulolo,Wau/Bulolo Urban,146.71595000000002,-7.348578999999916
+PNG-000792,,Tekadu N0 1,,PNG,Morobe,Bulolo,Wau Rural,146.55139900000006,-7.679636999999957
+PNG-000793,,Katena,,PNG,Morobe,Finschafen,Yabim Mape Rural,147.8067000000001,-6.689585999999906
+PNG-000794,,Lewamon,,PNG,Morobe,Markham,Deyamos Rural,147.061595,-6.13531299999994
+PNG-000795,,Giland,,PNG,Morobe,Markham,Seko Rural,147.1905730000001,-6.199939999999913
+PNG-000796,,Ngarowain,,PNG,Morobe,Markham,Onga/Waffa Rural,146.24336600000004,-6.553904999999929
+PNG-000797,,Wankun No1,,PNG,Morobe,Markham,Umi/Atzera Rural,146.07756600000005,-6.15157599999992
+PNG-000798,,Singaua,,PNG,Morobe,Nawae,Labuta Rural,147.13609500000007,-6.693156999999928
+PNG-000799,,Zagaheme,,PNG,Morobe,Tewae/Siassi,Sialum Rural,147.64497200000005,-6.318113999999923
+PNG-000800,,Wasu,,PNG,Morobe,Tewae/Siassi,Wasu Rural,147.19392000000005,-5.961341999999945
+PNG-000801,,Yanta,,PNG,Morobe,Bulolo,Mumeng Rural,146.49686300000008,-6.9210469999999304
+PNG-000802,,Kebi C/S,,PNG,Morobe,Bulolo,Watut Rural,146.67613000000006,-7.200817999999913
+PNG-000803,,Hakwange,,PNG,Morobe,Menyamya,Kome Rural,145.930428,-7.1753989999999135
+PNG-000804,,Bigawa,,PNG,Madang,Madang,Transgogol Rural,145.461185,-5.091306999999915
+PNG-000805,,Kokun,,PNG,Madang,Madang,Transgogol Rural,145.47823200000005,-5.318345999999906
+PNG-000806,,Barum,,PNG,Madang,Madang,Transgogol Rural,145.582358,-5.323392999999953
+PNG-000807,,Tadup,,PNG,Madang,Madang,Transgogol Rural,145.63199600000007,-5.321863999999948
+PNG-000808,,Lagogen,,PNG,Madang,Madang,Transgogol Rural,145.65239100000008,-5.352199999999925
+PNG-000809,,Bau Comm. Sch & Voc.,,PNG,Madang,Madang,Ambenob Rural,145.625,-5.247959999999921
+PNG-000810,,Ohu,,PNG,Madang,Madang,Ambenob Rural,145.689792,-5.249855999999909
+PNG-000811,,Bahor,,PNG,Madang,Madang,Ambenob Rural,145.76083900000003,-5.289878999999928
+PNG-000812,,Kesup/Gum,,PNG,Madang,Madang,Ambenob Rural,145.763778,-5.2521169999999415
+PNG-000813,,Sakul,,PNG,Madang,Sumkar,Sumgilbar Rural,145.68675600000006,-4.7749489999999355
+PNG-000814,,Bugajim,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.73512800000003,-5.455644999999947
+PNG-000815,,Namau,,PNG,Madang,Sumkar,Karkar Rural,145.89581800000008,-4.711348999999927
+PNG-000816,,Kavilo,,PNG,Madang,Sumkar,Karkar Rural,145.97976800000004,-4.737937999999929
+PNG-000817,,Murukanam,,PNG,Madang,Sumkar,Sumgilbar Rural,145.56387200000006,-4.628252999999916
+PNG-000818,,Dimonini,,PNG,Madang,Sumkar,Sumgilbar Rural,145.633603,-4.713741999999911
+PNG-000819,,Urimong,,PNG,Madang,Sumkar,Sumgilbar Rural,145.62584700000002,-4.826232999999945
+PNG-000820,,Sagalau,,PNG,Madang,Madang,Madang Urban,145.774631,-5.2006079999999315
+PNG-000821,,Madang.Teachers Coll,,PNG,Madang,Madang,Madang Urban,145.7730200000001,-5.20498699999996
+PNG-000822,,Panim.Sda,,PNG,Madang,Madang,Ambenob Rural,145.7221810000001,-5.221840999999927
+PNG-000823,,Ambarina,,PNG,Madang,Madang,Ambenob Rural,145.783367,-5.138745999999912
+PNG-000824,,Mater,,PNG,Madang,Sumkar,Karkar Rural,145.9085060000001,-4.5888689999999315
+PNG-000825,,Karkar,,PNG,Madang,Sumkar,Karkar Rural,145.91852600000004,-4.573354999999935
+PNG-000826,,Narer,,PNG,Madang,Sumkar,Karkar Rural,145.964245,-4.565862999999922
+PNG-000827,,Malagu,,PNG,Madang,Sumkar,Karkar Rural,145.97661900000003,-4.5609779999999205
+PNG-000828,,Bumsol,,PNG,Madang,Sumkar,Karkar Rural,146.007606,-4.557976999999937
+PNG-000829,,Dor,,PNG,Madang,Sumkar,Karkar Rural,146.01199800000006,-4.554782999999929
+PNG-000830,,Taleng,,PNG,Madang,Sumkar,Karkar Rural,145.98831700000005,-4.544703999999911
+PNG-000831,,Ilu.Bangme,,PNG,Madang,Sumkar,Karkar Rural,145.970599,-4.540480999999943
+PNG-000832,,Langlang,,PNG,Madang,Sumkar,Karkar Rural,145.9525910000001,-4.543376999999907
+PNG-000833,,Abisan,,PNG,Madang,Sumkar,Karkar Rural,146.05157800000006,-4.67716699999994
+PNG-000834,,Megiar,,PNG,Madang,Sumkar,Sumgilbar Rural,145.76330500000006,-4.814030999999943
+PNG-000835,,Komindor,,PNG,Madang,Sumkar,Sumgilbar Rural,145.70144700000003,-4.862482999999941
+PNG-000836,,Talidig,,PNG,Madang,Sumkar,Sumgilbar Rural,145.77753700000005,-4.936378999999931
+PNG-000837,,Waduim,,PNG,Madang,Sumkar,Sumgilbar Rural,145.801555,-4.872528999999929
+PNG-000838,,Behir,,PNG,Madang,Madang,Ambenob Rural,145.71310100000005,-5.2838259999999195
+PNG-000839,,Buliwar,,PNG,Madang,Bogia,Yawar Rural,144.7239360000001,-4.107463999999936
+PNG-000840,,Duen,,PNG,Madang,Usino Bundi,Usino Rural,145.39507300000002,-5.397858999999926
+PNG-000841,,Usino,,PNG,Madang,Usino Bundi,Usino Rural,145.3778450000001,-5.521977999999933
+PNG-000842,,Paruwi Comm. Sch,,PNG,Madang,Rai Coast,Rai Coast Rural,146.56337400000007,-5.710733999999945
+PNG-000843,,Duwi,,PNG,Morobe,Markham,Yus Rural,146.6024920000001,-5.939686999999935
+PNG-000844,,Lamtub,,PNG,Madang,Rai Coast,Rai Coast Rural,146.2547820000001,-5.579008999999928
+PNG-000845,,Matoko,,PNG,Madang,Rai Coast,Rai Coast Rural,146.25159100000008,-5.716733999999917
+PNG-000846,,Jamat,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.93341700000008,-5.4831219999999234
+PNG-000847,,Susure,,PNG,Madang,Bogia,Almami Rural,145.3390750000001,-4.468187999999941
+PNG-000848,,Suburten,,PNG,Madang,Bogia,Almami Rural,145.3430800000001,-4.423354999999958
+PNG-000849,,Busip,,PNG,Madang,Bogia,Almami Rural,145.27649800000006,-4.383368999999959
+PNG-000850,,Malala,,PNG,Madang,Bogia,Almami Rural,145.35867800000005,-4.448634999999911
+PNG-000851,,Ulingan,,PNG,Madang,Bogia,Almami Rural,145.41925100000003,-4.495095999999933
+PNG-000852,,Kabak,,PNG,Madang,Bogia,Almami Rural,145.16239100000007,-4.386574999999937
+PNG-000853,,Sakarurau Com. Sch,,PNG,Madang,Bogia,Almami Rural,145.08958400000006,-4.368751999999915
+PNG-000854,,Imam,,PNG,Madang,Madang,Transgogol Rural,145.35923300000002,-5.007731999999919
+PNG-000855,,Aningi,,PNG,Madang,Bogia,Almami Rural,144.94675200000006,-4.491656999999918
+PNG-000856,,Katiati,,PNG,Madang,Middle Ramu,Josephstaal Rural,145.05208000000005,-4.819710999999927
+PNG-000857,,Kongrau,,PNG,Madang,Middle Ramu,Arabaka Rural,144.66473700000006,-5.312371999999925
+PNG-000858,,Gumose,,PNG,Madang,Rai Coast,Naho Rawa Rural,146.109194,-5.845720999999912
+PNG-000859,,Niniko,,PNG,Madang,Rai Coast,Naho Rawa Rural,145.9767710000001,-5.888571999999954
+PNG-000860,,Naeko,,PNG,Madang,Rai Coast,Naho Rawa Rural,146.049303,-5.978298999999936
+PNG-000861,,Bunabun,,PNG,Madang,Sumkar,Sumgilbar Rural,145.52460000000008,-4.582062999999948
+PNG-000862,,Makadul,,PNG,Madang,Sumkar,Karkar Rural,145.90145900000005,-4.667611999999906
+PNG-000863,,Bemal,,PNG,Madang,Madang,Transgogol Rural,145.48705500000005,-5.264722999999947
+PNG-000864,,Rengas,,PNG,East Sepik,Angoram,Keram Rural,144.4104460000001,-4.679480999999953
+PNG-000865,,Kesewai,,PNG,Madang,Usino Bundi,Usino Rural,145.590415,-5.763342999999907
+PNG-000866,,Mopo,,PNG,Madang,Usino Bundi,Usino Rural,145.43953800000008,-5.454457999999931
+PNG-000867,,Kaian C/Sch,,PNG,Madang,Bogia,Yawar Rural,144.74215200000003,-4.05816799999991
+PNG-000868,,Kayoma,,PNG,Madang,Bogia,Yawar Rural,144.63073800000006,-4.539821999999958
+PNG-000869,,Dinam,,PNG,Madang,Bogia,Yawar Rural,144.80258700000002,-4.342183999999918
+PNG-000870,,Mikarew Cath. Miss.,,PNG,Madang,Bogia,Yawar Rural,144.7841370000001,-4.320222999999942
+PNG-000871,,Pir 1,,PNG,Madang,Bogia,Yawar Rural,144.70697000000007,-4.339691999999957
+PNG-000872,,Bangapela,,PNG,Madang,Bogia,Yawar Rural,144.58616800000004,-4.548037999999906
+PNG-000873,,Warames,,PNG,Madang,Bogia,Yawar Rural,144.87321300000008,-4.29989699999993
+PNG-000874,,Giri 1,,PNG,Madang,Bogia,Yawar Rural,144.7242940000001,-4.286800999999912
+PNG-000875,,Bemahal,,PNG,Madang,Madang,Ambenob Rural,145.64264100000003,-5.208269999999914
+PNG-000876,,Bumbera,,PNG,Madang,Middle Ramu,Arabaka Rural,144.50461700000005,-4.719504999999913
+PNG-000877,,Chungribu,,PNG,Madang,Middle Ramu,Arabaka Rural,144.7178120000001,-4.795549999999935
+PNG-000878,,Pasinkap,,PNG,Madang,Middle Ramu,Arabaka Rural,144.8411880000001,-5.0209919999999215
+PNG-000879,,Bibi,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,146.03917,-5.507590999999934
+PNG-000880,,Bongu,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.814252,-5.489334999999926
+PNG-000881,,Erima,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.72972000000004,-5.418784999999957
+PNG-000882,,Male,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.773141,-5.485348999999928
+PNG-000883,,Dumbu,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.691458,-5.561896999999931
+PNG-000884,,Yanglam,,PNG,Madang,Rai Coast,Astrolabe Bay Rural,145.85957600000006,-5.5096529999999575
+PNG-000885,,Bambu,,PNG,Madang,Rai Coast,Rai Coast Rural,146.494101,-5.875326999999913
+PNG-000886,,Dangsai,,PNG,Madang,Sumkar,Karkar Rural,145.94499500000006,-4.752673999999956
+PNG-000887,,Kuburne,,PNG,Madang,Sumkar,Karkar Rural,145.89182000000005,-4.6310589999999365
+PNG-000888,,Mirap,,PNG,Madang,Sumkar,Sumgilbar Rural,145.662459,-4.750840999999923
+PNG-000889,,Sevan,,PNG,Madang,Sumkar,Sumgilbar Rural,145.44279200000005,-4.6789759999999205
+PNG-000890,,Tokain,,PNG,Madang,Sumkar,Sumgilbar Rural,145.633824,-4.715517999999918
+PNG-000891,,Begesin,,PNG,Madang,Usino Bundi,Usino Rural,145.44489700000008,-5.383989999999926
+PNG-000892,,Kombaku,,PNG,Madang,Usino Bundi,Usino Rural,144.64550000000008,-5.3779389999999125
+PNG-000893,,Sausi Comm. School,,PNG,Madang,Usino Bundi,Usino Rural,145.50055400000008,-5.666260999999906
+PNG-000894,,Walium Station,,PNG,Madang,Usino Bundi,Usino Rural,145.45847600000002,-5.596841999999924
+PNG-000895,,Tabele Primary Sch.,,PNG,Madang,Bogia,Iabu Rural,145.00327700000003,-4.109245999999928
+PNG-000896,,Kanainj,,PNG,Madang,Usino Bundi,Usino Rural,144.728298,-5.292799999999943
+PNG-000897,,Ariangon C/Sch,,PNG,Madang,Bogia,Yawar Rural,144.8714010000001,-4.381926999999905
+PNG-000898,,Awar,,PNG,Madang,Bogia,Yawar Rural,144.84225800000002,-4.142451999999935
+PNG-000899,,Bosmun Comm. Sch,,PNG,Madang,Bogia,Yawar Rural,144.64866000000006,-4.176664999999957
+PNG-000900,,Bunapas Comm. Sch,,PNG,Madang,Bogia,Yawar Rural,144.6897170000001,-4.242469999999912
+PNG-000901,,Boisa Aidpost,,PNG,Madang,Bogia,Iabu Rural,144.96067900000003,-3.996482999999955
+PNG-000902,,Wingei P/S,,PNG,East Sepik,Yangoro Saussia,West Yangoru Rural,143.17747200000008,-3.6923609999999485
+PNG-000903,,Pajip,,PNG,East Sepik,Maprik,Yamil/Tamaui Rural,143.109692,-3.688139999999919
+PNG-000904,,Warabung,,PNG,East Sepik,Yangoro Saussia,West Yangoru Rural,143.23228600000004,-3.693271999999922
+PNG-000905,,Nimbungei,,PNG,East Sepik,Wosera Gawi,North Wosera Rural,142.96348,-3.770121999999958
+PNG-000906,,Urita,,PNG,East Sepik,Maprik,Bumbita/Muhian Rural,142.8727970000001,-3.638683999999955
+PNG-000907,,Albinama,,PNG,East Sepik,Maprik,Bumbita/Muhian Rural,142.913947,-3.592307999999946
+PNG-000908,,Sir.Pita.Lus,,PNG,East Sepik,Maprik,Bumbita/Muhian Rural,142.92783900000006,-3.6228289999999106
+PNG-000909,,Amahup,,PNG,East Sepik,Maprik,Albiges/Mablep Rural,142.9667310000001,-3.6071969999999283
+PNG-000910,,Hayfield,,PNG,East Sepik,Maprik,Maprik/Wora Rural,143.05841700000008,-3.6892129999999383
+PNG-000911,,Jame Comm. Sch.,,PNG,East Sepik,Maprik,Maprik/Wora Rural,143.079969,-3.6314369999999485
+PNG-000912,,Yamil,,PNG,East Sepik,Maprik,Yamil/Tamaui Rural,143.12934600000006,-3.6393399999999474
+PNG-000913,,Matunge,,PNG,East Sepik,Maprik,Yamil/Tamaui Rural,143.15235000000007,-3.730227999999954
+PNG-000914,,Balupwini,,PNG,East Sepik,Maprik,Maprik/Wora Rural,143.052229,-3.603318999999942
+PNG-000915,,Yavatong C/Sch,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.688261,-3.5702609999999595
+PNG-000916,,Baklo,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.63938500000006,-3.6142399999999384
+PNG-000917,,Kubriwat C/Sch,,PNG,East Sepik,Ambunti/Drekikir,Gawanga Rural,142.6886810000001,-3.659183999999925
+PNG-000918,,Drekikier H/Sch,,PNG,East Sepik,Ambunti/Drekikir,Gawanga Rural,142.71424100000002,-3.684562999999912
+PNG-000919,,Moihuak,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.7225430000001,-3.607727999999952
+PNG-000920,,Mahli School,,PNG,East Sepik,Ambunti/Drekikir,Drekikier Rural,142.84125300000005,-3.5863489999999274
+PNG-000921,,Sembo,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.45648600000004,-3.68783899999994
+PNG-000922,,Hambuke C/Sch,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.4378190000001,-3.6990689999999518
+PNG-000923,,Kusambuk Pri/Sch,,PNG,East Sepik,Yangoro Saussia,Numbor Rural,143.36087300000008,-3.7223209999999085
+PNG-000924,,Jauwis,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.34895500000005,-3.656018999999958
+PNG-000925,,Nintiwi,,PNG,East Sepik,Yangoro Saussia,East Yangoru Rural,143.30596200000002,-3.6875519999999256
+PNG-000926,,Salamin,,PNG,West Sepik,Aitape/Lumi,East Aitape Rural,143.076094,-3.3704009999999585
+PNG-000927,,Hawain,,PNG,East Sepik,Wewak,Boikin/Dagua Rural,143.4882090000001,-3.4885719999999196
+PNG-000928,,Nagam,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.60109,-3.8114779999999087
+PNG-000929,,Mongen C/Sch,,PNG,East Sepik,Yangoro Saussia,Sausso Rural,143.5397710000001,-3.8165819999999258
+PNG-000930,,Ami,,PNG,East Sepik,Maprik,Albiges/Mablep Rural,142.99015800000006,-3.5866229999999177
+PNG-000931,,Brigiti Community School,,PNG,East Sepik,Maprik,Albiges/Mablep Rural,143.00697300000002,-3.620262999999909
+PNG-000932,,Bambra Community School,,PNG,East Sepik,Maprik,Albiges/Mablep Rural,143.02288800000008,-3.5936309999999594
+PNG-000933,,Hiesi,,PNG,East Sepik,Maprik,Bumbita/Muhian Rural,142.932725,-3.670268999999905
+PNG-000934,,Numuku,,PNG,East Sepik,Wosera Gawi,North Wosera Rural,142.927326,-3.7353819999999587
+PNG-000935,,Kwagitama,,PNG,East Sepik,Maprik,Maprik/Wora Rural,142.96927200000005,-3.692374999999913
+PNG-000936,,Maprik,,PNG,East Sepik,Maprik,Yamil/Tamaui Rural,143.05785400000002,-3.7140659999999457
+PNG-000937,,Sambigit,,PNG,East Sepik,Wosera Gawi,Gawi Rural,143.08473400000003,-4.098178999999959
+PNG-000938,,Kumbuifu,,PNG,East Sepik,Wosera Gawi,Gawi Rural,143.21265600000004,-4.142257999999913
+PNG-000939,,Saay,,PNG,East Sepik,Wosera Gawi,Gawi Rural,143.24902200000008,-4.144986999999958
+PNG-000940,,Kamanimbit Comm.Sch,,PNG,East Sepik,Angoram,Angoram/Middle Sepik,143.34746200000006,-4.284465999999952
+PNG-000941,,Eritei,,PNG,West Sepik,Aitape/Lumi,West Wapei Rural,142.07638400000008,-3.4425289999999222
+PNG-000942,,Yiebru,,PNG,West Sepik,Vanimo/Green River,Green River Rural,141.0834920000001,-3.9243999999999346
+PNG-000943,,Mukuais,,PNG,West Sepik,Vanimo/Green River,Green River Rural,141.28739900000005,-3.973062999999911
+PNG-000944,,Punda,,PNG,West Sepik,Vanimo/Green River,Walsa Rural,141.09502500000008,-3.411318999999935
+PNG-000945,,Watape,,PNG,West Sepik,Vanimo/Green River,Walsa Rural,141.26771700000006,-3.3062719999999217
+PNG-000946,,Arkosame,,PNG,West Sepik,Nuku,Mawase Rural,142.6317580000001,-3.79118399999993
+PNG-000947,,Wulmbowe,,PNG,West Sepik,Nuku,Mawase Rural,142.51222700000005,-3.8313249999999357
+PNG-000948,,Wigote,,PNG,West Sepik,Aitape/Lumi,West Wapei Rural,142.15649800000006,-3.447847999999908
+PNG-000949,,Yaukono,,PNG,West Sepik,Vanimo/Green River,Bewani/Wutung Onei Rural,141.0529160000001,-2.812379999999962
+PNG-000950,,Swanda,,PNG,West Sepik,Vanimo/Green River,Walsa Rural,141.06843500000002,-3.4328899999999294
+PNG-000951,,Bak,,PNG,West Sepik,Telefomin,Oksapmin Rural,142.08546,-5.262178999999946
+PNG-000952,,Tabale,,PNG,West Sepik,Aitape/Lumi,East Wapei Rural,142.06613800000002,-3.5255279999999516
+PNG-000953,,Sirrah,,PNG,Manus,Manus,Nali Sopat/Penabu,147.16852500000005,-2.140021999999931
+PNG-000954,,Manus Provincial,,PNG,Manus,Manus,Lorengau Urban,147.26398300000005,-2.0194739999999456
+PNG-000955,,Ecom High School,,PNG,Manus,Manus,Lelemadih Bupichupe,147.244819,-2.0172249999999394
+PNG-000956,,Bundrahei,,PNG,Manus,Manus,Pobuma,146.68931900000007,-2.179920999999922
+PNG-000957,,Karun,,PNG,Manus,Manus,Nali Sopat/Penabu,147.18339200000003,-2.10841599999992
+PNG-000958,,Soheneriu,,PNG,Manus,Manus,Nali Sopat/Penabu,147.14668000000006,-2.108855999999946
+PNG-000959,,Batlok,,PNG,Manus,Manus,Pomutu/Kurti/Andra,147.01018900000008,-2.0355829999999173
+PNG-000960,,Matawerei,,PNG,Manus,Manus,Tetedu,147.06351800000004,-2.16391399999992
+PNG-000961,,Tingou 2,,PNG,Manus,Manus,Tetedu,147.082713,-2.104972999999916
+PNG-000962,,Mokareng,,PNG,Manus,Manus,Los Negros,147.39811200000008,-2.0011389999999096
+PNG-000963,,Lombrum 01,,PNG,Manus,Manus,Los Negros,147.36402900000007,-2.045614999999941
+PNG-000964,,Papitalai Cath. Mission,,PNG,Manus,Manus,Los Negros,147.4018020000001,-2.049797999999953
+PNG-000965,,Lugos Evangalical Mission,,PNG,Manus,Manus,Lelemadih Bupichupe,147.2422170000001,-2.0156849999999054
+PNG-000966,,Dungoumasih,,PNG,Manus,Manus,Lelemadih Bupichupe,147.24174700000003,-2.0202979999999116
+PNG-000967,,Ward 7,,PNG,Manus,Manus,Lorengau Urban,147.26399000000004,-2.019493999999952
+PNG-000968,,Ward 2,,PNG,Manus,Manus,Lorengau Urban,147.28293400000007,-2.0343229999999153
+PNG-000969,,Warambei,,PNG,Manus,Manus,Lelemadih Bupichupe,147.19115900000008,-1.9964209999999412
+PNG-000970,,Powat 2,,PNG,Manus,Manus,Lelemadih Bupichupe,147.14650500000005,-1.9867379999999457
+PNG-000971,,Lopahan,,PNG,Manus,Manus,Lelemadih Bupichupe,147.12851,-1.9860109999999054
+PNG-000972,,Liap,,PNG,Manus,Manus,Pomutu/Kurti/Andra,147.09688500000004,-1.975341999999955
+PNG-000973,,Ndromalmal Govt Stn,,PNG,Manus,Manus,Pomutu/Kurti/Andra,147.00695200000007,-1.980579999999918
+PNG-000974,,Andra,,PNG,Manus,Manus,Pomutu/Kurti/Andra,147.00449100000003,-1.9381249999999568
+PNG-000975,,Ndrehet,,PNG,Manus,Manus,Pomutu/Kurti/Andra,146.74629500000003,-1.992179999999962
+PNG-000976,,Sori 2,,PNG,Manus,Manus,Bisikani / Soparibeu,146.68152500000008,-1.9835659999999393
+PNG-000977,,Nyada,,PNG,Manus,Manus,Bisikani / Soparibeu,146.62440400000003,-1.9799959999999146
+PNG-000978,,Jowan 1,,PNG,Manus,Manus,Bisikani / Soparibeu,146.595194,-1.9902459999999564
+PNG-000979,,Harengan,,PNG,Manus,Manus,Bisikani / Soparibeu,146.58404000000007,-1.9601569999999242
+PNG-000980,,Matahai,,PNG,Manus,Manus,Bisikani / Soparibeu,146.40146000000004,-2.1076349999999593
+PNG-000981,,Sili'In Government Stn,,PNG,Manus,Manus,Bisikani / Soparibeu,146.54443700000002,-2.130083999999954
+PNG-000982,,Salien,,PNG,Manus,Manus,Bisikani / Soparibeu,146.50744200000008,-2.1641259999999534
+PNG-000983,,Likum,,PNG,Manus,Manus,Pobuma,146.69923500000004,-2.1615719999999214
+PNG-000984,,Korojih,,PNG,Manus,Manus,Pobuma,146.67005100000006,-2.1305589999999484
+PNG-000985,,Butjou,,PNG,Manus,Manus,Pobuma,146.7369960000001,-2.135607999999934
+PNG-000986,,Mbuke,,PNG,Manus,Manus,Pobuma,146.8253870000001,-2.3822889999999575
+PNG-000987,,Pelipowai Govt Stn,,PNG,Manus,Manus,Pobuma,146.926875,-2.203297999999961
+PNG-000988,,Wara Talai,,PNG,Manus,Manus,Nali Sopat/Penabu,147.24182100000007,-2.1262069999999085
+PNG-000989,,Kup Govt Stn,,PNG,Manus,Manus,Rapatona,147.77762400000006,-2.3256059999999366
+PNG-000990,,Mouklen,,PNG,Manus,Manus,Rapatona,147.710596,-2.3473979999999415
+PNG-000991,,Ndrapitou No 1,,PNG,Manus,Manus,Nali Sopat/Penabu,147.13079200000004,-2.154867999999908
+PNG-000992,,Powat 1,,PNG,Manus,Manus,Lelemadih Bupichupe,147.17037000000005,-2.084615999999926
+PNG-000993,,Tawi,,PNG,Manus,Manus,Tetedu,147.060565,-2.135744999999929
+PNG-000994,,Loniu,,PNG,Manus,Manus,Los Negros,147.3384890000001,-2.0729379999999082
+PNG-000995,,Derembat No 1,,PNG,Manus,Manus,Pomutu/Kurti/Andra,147.055793,-1.982930999999951
+PNG-000996,,Bundralis Cath Mssion,,PNG,Manus,Manus,Pomutu/Kurti/Andra,146.90176900000006,-1.9705319999999347
+PNG-000997,,Tulu 2,,PNG,Manus,Manus,Pomutu/Kurti/Andra,146.854643,-1.9595549999999093
+PNG-000998,,Whal,,PNG,Manus,Manus,Pobuma,146.825873,-2.2665309999999295
+PNG-000999,,Loi,,PNG,Manus,Manus,Tetedu,147.05548900000008,-2.2045709999999303
+PNG-001000,,Pisik Sda School,,PNG,Manus,Manus,Balopa,147.35257000000001,-2.372916999999916
+PNG-001001,,Solang,,PNG,Manus,Manus,Balopa,147.32958800000006,-2.393173999999931
+PNG-001002,,Mouk,,PNG,Manus,Manus,Balopa,147.29414000000008,-2.540873999999917
+PNG-001003,,Buiat,,PNG,Manus,Manus,Balopa,147.33214600000008,-2.502486999999917
+PNG-001004,,Lorengau,,PNG,Manus,Manus,Lorengau Urban,147.26542600000005,-2.022004999999922
+PNG-001005,,Lau,,PNG,Manus,Manus,Nigoherm,144.16996900000004,-1.3585679999999343
+PNG-001006,,,,PNG,New Ireland,Kavieng,Tikana Rural,151.34044600000004,-2.9108139999999594
+PNG-001007,,Madina.High.School,,PNG,New Ireland,Kavieng,Tikana Rural,151.3714500000001,-2.910966999999914
+PNG-001008,,Madina.Comm,,PNG,New Ireland,Kavieng,Tikana Rural,151.37399900000003,-2.9113009999999235
+PNG-001009,,Lokqno.Ci.Lokono.Cz.Sch.,,PNG,New Ireland,Kavieng,Tikana Rural,150.80981000000008,-2.775340999999912
+PNG-001010,,Panachais,,PNG,New Ireland,Kavieng,Tikana Rural,151.27412300000003,-2.9706579999999576
+PNG-001011,,Usil,,PNG,New Ireland,Kavieng,Tikana Rural,151.33014500000002,-2.9982539999999176
+PNG-001012,,Manggai,,PNG,New Ireland,Kavieng,Tikana Rural,151.082766,-2.7623749999999063
+PNG-001013,,Rabuana Community School,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24335500000007,-4.411104999999907
+PNG-001014,,Vudal University,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.00914,-4.35220199999992
+PNG-001015,,Kerevat National High School,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.046518,-4.352753999999948
+PNG-001016,,Malabuna High School,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.099242,-4.394384999999943
+PNG-001017,,Nodup Gelagela,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.23101100000008,-4.405802999999935
+PNG-001018,,Kolopom,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.691376,-4.227407999999912
+PNG-001019,,Mandrambit,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.75670000000002,-4.731465999999955
+PNG-001020,,Takis,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.50173900000004,-4.20768599999991
+PNG-001021,,Mungou,,PNG,East New Britain,Pomio,Sinivit Rural,152.37026300000002,-4.691116999999906
+PNG-001022,,Warangoi,,PNG,East New Britain,Pomio,Sinivit Rural,152.1551780000001,-4.494566999999961
+PNG-001023,,Yalom,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.74754700000005,-4.410181999999907
+PNG-001024,,Raunsepna,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.7844130000001,-4.456155999999908
+PNG-001025,,Alkasam,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.836275,-4.484863999999959
+PNG-001026,,Valmetki,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.55419600000005,-4.370490999999959
+PNG-001027,,Masuari,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.460152,-5.17898699999995
+PNG-001028,,Bago,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.35917200000006,-5.170848999999919
+PNG-001029,,Muela,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.419709,-5.244190999999944
+PNG-001030,,Mile,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.37949300000002,-5.3311749999999165
+PNG-001031,,Irena,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.44165600000008,-5.615981999999917
+PNG-001032,,Serenguna,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.21975700000007,-5.741848999999945
+PNG-001033,,Bili,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.09296300000005,-5.664741999999933
+PNG-001034,,Mapuna,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.08212600000002,-5.754782999999918
+PNG-001035,,Aona,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.0374740000001,-5.738232999999923
+PNG-001036,,Yauyau,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,150.959744,-5.627283999999918
+PNG-001037,,Kenmininga,,PNG,East New Britain,Pomio,Melkoi Rural,151.013644,-5.895840999999962
+PNG-001038,,Sivaona,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.09620400000006,-5.8610559999999055
+PNG-001039,,Gunanba,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.200153,-4.356942999999944
+PNG-001040,,Kokopo,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24853200000007,-4.331297999999947
+PNG-001041,,Keravat,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.041466,-4.349209999999914
+PNG-001042,,Rakunai,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.1239230000001,-4.275178999999923
+PNG-001043,,Vunadidir,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.1440990000001,-4.3549059999999145
+PNG-001044,,Tagitagi,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.1667070000001,-4.368473999999935
+PNG-001045,,Tagitagi No  2,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.18136000000004,-4.402240999999947
+PNG-001046,,Tamanairik,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.13789600000007,-4.396917999999914
+PNG-001047,,Rabata,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.12681500000008,-4.438989999999933
+PNG-001048,,Ratavul,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.13668200000006,-4.344874999999945
+PNG-001049,,Nabata,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.07806400000004,-4.211259999999925
+PNG-001050,,Putanagororoi,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.064483,-4.20683699999995
+PNG-001051,,Toboina,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.06257900000003,-4.2353429999999435
+PNG-001052,,Rakada,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.0832180000001,-4.2359109999999305
+PNG-001053,,Nutuve,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.66173400000002,-5.333551999999941
+PNG-001054,,Tapo,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.32246800000007,-4.392724999999928
+PNG-001055,,Talwat,,PNG,East New Britain,Pomio,Sinivit Rural,152.2002490000001,-4.523985999999923
+PNG-001056,,Williambemaki,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.629858,-4.522609999999929
+PNG-001057,,Matanakunai,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.6855740000001,-4.864483999999948
+PNG-001058,,Open Bay,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.69274700000005,-4.803004999999928
+PNG-001059,,Laan,,PNG,East New Britain,Gazelle,Lassul Baining Rural,151.7505020000001,-4.244865999999945
+PNG-001060,,Vunatagia,,PNG,East New Britain,Kokopo,Raluana Rural,152.21206400000005,-4.310901999999942
+PNG-001061,,Vunamurmur,,PNG,East New Britain,Kokopo,Raluana Rural,152.19508200000007,-4.313767999999925
+PNG-001062,,Turagunan,,PNG,East New Britain,Kokopo,Raluana Rural,152.17546100000004,-4.331774999999936
+PNG-001063,,Balanataman,,PNG,East New Britain,Kokopo,Raluana Rural,152.220551,-4.330371999999954
+PNG-001064,,Karawara,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.42032700000004,-4.241386999999918
+PNG-001065,,Mandres,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.91578000000004,-4.339209999999923
+PNG-001066,,Vunapalading,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.96968900000002,-4.379390999999941
+PNG-001067,,Keravat,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.05148300000008,-4.421631999999931
+PNG-001068,,Malabonga,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.08234900000002,-4.435561999999948
+PNG-001069,,S'Pango,,PNG,East New Britain,Pomio,East Pomio Rural,151.95399700000007,-5.031514999999956
+PNG-001070,,Vunadidir,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.14191200000005,-4.348440999999923
+PNG-001071,,Raburua,,PNG,East New Britain,Kokopo,Raluana Rural,152.16982500000006,-4.305263999999909
+PNG-001072,,Ialakua,,PNG,East New Britain,Kokopo,Raluana Rural,152.21502400000008,-4.2987739999999235
+PNG-001073,,Ravat,,PNG,East New Britain,Kokopo,Raluana Rural,152.1812070000001,-4.35085799999996
+PNG-001074,,Tinganalom,,PNG,East New Britain,Kokopo,Raluana Rural,152.19518300000004,-4.336170999999922
+PNG-001075,,Kabilomo,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.446504,-4.145419999999945
+PNG-001076,,Nakukur,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.41371900000001,-4.163042999999959
+PNG-001077,,Molot,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.45450900000003,-4.128036999999949
+PNG-001078,,Butlivuan,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.47441500000002,-4.1455179999999245
+PNG-001079,,Kabatirai,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.470954,-4.208494999999914
+PNG-001080,,Nonga,,PNG,East New Britain,Rabaul,Balanataman Rural,152.146434,-4.16836799999993
+PNG-001081,,Volavolo,,PNG,East New Britain,Rabaul,Balanataman Rural,152.14395100000002,-4.178581999999949
+PNG-001082,,Pilapila,,PNG,East New Britain,Rabaul,Balanataman Rural,152.13750500000003,-4.1943339999999125
+PNG-001083,,Ratung,,PNG,East New Britain,Rabaul,Balanataman Rural,152.13497100000006,-4.1996279999999615
+PNG-001084,,Korpun,,PNG,East New Britain,Pomio,East Pomio Rural,152.036519,-5.454132999999956
+PNG-001085,,Kaiton,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.42792800000007,-5.695838999999921
+PNG-001086,,Palmalmal,,PNG,East New Britain,Pomio,West Pomio/Mamusi Rural,151.49322000000006,-5.630329999999958
+PNG-001087,,Arabam,,PNG,East New Britain,Pomio,Sinivit Rural,152.11411700000008,-4.596666999999911
+PNG-001088,,Sikut,,PNG,East New Britain,Pomio,Sinivit Rural,152.21008400000005,-4.521961999999917
+PNG-001089,,Sunam,,PNG,East New Britain,Pomio,Sinivit Rural,152.15604200000007,-4.4830089999999245
+PNG-001090,,Malasaet,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.89020100000005,-4.464257999999916
+PNG-001091,,Napapar,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.11742000000004,-4.339817999999923
+PNG-001092,,Vuvu,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.129543,-4.316795999999954
+PNG-001093,,Vunagogo,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.12116600000002,-4.314436999999941
+PNG-001094,,Tavuiliu,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.13870200000008,-4.285486999999932
+PNG-001095,,Vunakabi,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.145573,-4.349014999999952
+PNG-001096,,Raim,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.15227400000003,-4.337378999999942
+PNG-001097,,Tanaka,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.16726000000006,-4.34955599999995
+PNG-001098,,Bitakapuk No. 1,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.16808300000002,-4.3824469999999565
+PNG-001099,,Bitakapuk No. 2,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.16164200000003,-4.392405999999937
+PNG-001100,,Tamanairik,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.15889200000004,-4.389011999999923
+PNG-001101,,Wairiki No  2,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.18315600000005,-4.420064999999909
+PNG-001102,,Tauran,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.15141400000005,-4.434937999999931
+PNG-001103,,Rapitok,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.11101200000007,-4.372263999999916
+PNG-001104,,Rabagi,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.14799700000003,-4.3746889999999325
+PNG-001105,,Rababat,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.02794400000005,-4.192679999999939
+PNG-001106,,Vunadawai,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.01561800000002,-4.191793999999959
+PNG-001107,,Lungalunga,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,151.98353600000007,-4.212422999999944
+PNG-001108,,Vunalaka,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.12449800000002,-4.2621279999999615
+PNG-001109,,Ramalmal,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.10439900000006,-4.224730999999906
+PNG-001110,,Vunairoto,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.092709,-4.199254999999937
+PNG-001111,,Totovel,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.089785,-4.249140999999952
+PNG-001112,,Ratongor,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.045834,-4.199795999999935
+PNG-001113,,Rau,,PNG,East New Britain,Rabaul,Watom Island Rural,152.06962900000008,-4.112917999999922
+PNG-001114,,Uvol,,PNG,East New Britain,Pomio,Melkoi Rural,151.002246,-6.015463999999952
+PNG-001115,,Nagaila,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.40928000000008,-4.110900999999956
+PNG-001116,,Lamariem,,PNG,East New Britain,Pomio,East Pomio Rural,151.95473900000002,-4.984388999999908
+PNG-001117,,Maso,,PNG,East New Britain,Pomio,Melkoi Rural,151.057321,-5.990951999999936
+PNG-001118,,Bitapaka,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.29684700000007,-4.412368999999956
+PNG-001119,,Petro Torot Tobera,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.2723880000001,-4.423064999999951
+PNG-001120,,Nongia,,PNG,East New Britain,Pomio,Sinivit Rural,152.3267390000001,-4.826798999999937
+PNG-001121,,Riait,,PNG,East New Britain,Pomio,Sinivit Rural,152.10197500000004,-4.557341999999949
+PNG-001122,,Sanbam,,PNG,East New Britain,Pomio,Sinivit Rural,152.24123400000008,-4.599963999999943
+PNG-001123,,Gelagela,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.243287,-4.411100999999917
+PNG-001124,,Vunamami,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.19354700000008,-4.38572199999993
+PNG-001125,,Tanbangat,,PNG,East New Britain,Gazelle,Central Gazelle Rural,152.107887,-4.338998999999944
+PNG-001126,,Raval,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.073307,-4.2296969999999305
+PNG-001127,,Pomio,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.52550000000008,-5.524356999999952
+PNG-001128,,Malakuna,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.34949100000006,-4.385941999999943
+PNG-001129,,Matong,,PNG,East New Britain,Pomio,Central/Inland Pomio Rural,151.75048200000003,-5.547480999999948
+PNG-001130,,Kambubu,,PNG,East New Britain,Pomio,Sinivit Rural,152.3645640000001,-4.5785699999999565
+PNG-001131,,Woolnough,,PNG,East New Britain,Kokopo,Raluana Rural,152.21692000000007,-4.301778999999954
+PNG-001132,,Kamanakam,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.82796300000007,-4.268917999999928
+PNG-001133,,Vudal Uni,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.00827300000003,-4.353696999999954
+PNG-001134,,Vudal,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.99496900000008,-4.346792999999934
+PNG-001135,,Gaulim,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.08917500000007,-4.442181999999946
+PNG-001136,,Kalai,,PNG,East New Britain,Pomio,East Pomio Rural,151.9448450000001,-5.080615999999907
+PNG-001137,,Matupit,,PNG,East New Britain,Pomio,Sinivit Rural,152.2161420000001,-4.4829599999999346
+PNG-001138,,Utmei,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.93199300000003,-4.369611999999961
+PNG-001139,,Rangulit,,PNG,East New Britain,Gazelle,Inland Baining Rural,151.9343140000001,-4.390861999999913
+PNG-001140,,George Brown,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.0299950000001,-4.272655999999927
+PNG-001141,,Iatapal,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.08837800000003,-4.251890999999944
+PNG-001142,,Papalaba,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.14215000000002,-4.418756999999914
+PNG-001143,,Haumakia,,PNG,East New Britain,Pomio,Melkoi Rural,151.001391,-5.984249999999918
+PNG-001144,,Vunapope,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.28220900000008,-4.344191999999907
+PNG-001145,,Vunamamai,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.23935400000005,-4.337801999999954
+PNG-001146,,Vunaulul,,PNG,East New Britain,Kokopo,Raluana Rural,152.185927,-4.32242599999995
+PNG-001147,,Inika,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.84592700000007,-8.835335999999927
+PNG-001148,,Inika,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.84592700000007,-8.835335999999927
+PNG-001149,,Kelerakwa,,PNG,Central,Abau,Aroma Rural,148.16835300000002,-10.087481999999909
+PNG-001150,,Kelerakwa,,PNG,Central,Abau,Aroma Rural,148.16835300000002,-10.087481999999909
+PNG-001151,,Mailu,,PNG,Central,Abau,Amazon Bay Rural,149.35831300000007,-10.38225099999994
+PNG-001152,,Mailu,,PNG,Central,Abau,Amazon Bay Rural,149.35831300000007,-10.38225099999994
+PNG-001153,,Keagolo,,PNG,Central,Abau,Aroma Rural,148.04616800000008,-10.085998999999958
+PNG-001154,,Keagolo,,PNG,Central,Abau,Aroma Rural,148.04616800000008,-10.085998999999958
+PNG-001155,,Magore,,PNG,Central,Abau,Amazon Bay Rural,149.27934200000004,-10.237361999999905
+PNG-001156,,Magore,,PNG,Central,Abau,Amazon Bay Rural,149.27934200000004,-10.237361999999905
+PNG-001157,,Bailebo,,PNG,Central,Abau,Amazon Bay Rural,149.31491900000003,-10.235872999999913
+PNG-001158,,Bailebo,,PNG,Central,Abau,Amazon Bay Rural,149.31491900000003,-10.235872999999913
+PNG-001159,,Nunumai,,PNG,Central,Abau,Amazon Bay Rural,149.37178700000004,-10.179237999999941
+PNG-001160,,Nunumai,,PNG,Central,Abau,Amazon Bay Rural,149.37178700000004,-10.179237999999941
+PNG-001161,,Rarai,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.60779300000002,-8.499381999999912
+PNG-001162,,Rarai,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.60779300000002,-8.499381999999912
+PNG-001163,,Veifa'A,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.56157700000006,-8.542505999999946
+PNG-001164,,Veifa'A,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.56157700000006,-8.542505999999946
+PNG-001165,,Papagogo,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.46697100000006,-8.51215899999994
+PNG-001166,,Papagogo,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.46697100000006,-8.51215899999994
+PNG-001167,,Kivori,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.41986800000006,-8.594834999999932
+PNG-001168,,Kivori,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.41986800000006,-8.594834999999932
+PNG-001169,,Waima,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.458259,-8.633491999999933
+PNG-001170,,Waima,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.458259,-8.633491999999933
+PNG-001171,,Oriropetana,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.57804600000009,-8.559481999999946
+PNG-001172,,Oriropetana,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.57804600000009,-8.559481999999946
+PNG-001173,,Bakoiudu,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.82348100000002,-8.619778999999937
+PNG-001174,,Bakoiudu,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.82348100000002,-8.619778999999937
+PNG-001175,,Kubuna,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.7548720000001,-8.691523999999959
+PNG-001176,,Kubuna,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.7548720000001,-8.691523999999959
+PNG-001177,,Biotou,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.62265200000002,-8.737113999999906
+PNG-001178,,Biotou,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.62265200000002,-8.737113999999906
+PNG-001179,,Inauabui,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.629731,-8.702569999999923
+PNG-001180,,Inauabui,,PNG,Central,Kairuku/Hiri,Mekeo Kuni Rural,146.629731,-8.702569999999923
+PNG-001181,,Ipaipana,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.5535930000001,-8.711799999999926
+PNG-001182,,Ipaipana,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.5535930000001,-8.711799999999926
+PNG-001183,,Barakau,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.3534850000001,-9.591865999999925
+PNG-001184,,Barakau,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.3534850000001,-9.591865999999925
+PNG-001185,,Tubuserea,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.31882800000005,-9.549388999999906
+PNG-001186,,Tubuserea,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.31882800000005,-9.549388999999906
+PNG-001187,,Kerekadi,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.321548,-9.492944999999906
+PNG-001188,,Kerekadi,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.321548,-9.492944999999906
+PNG-001189,,Gaire,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.4082420000001,-9.66919299999995
+PNG-001190,,Gaire,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.4082420000001,-9.66919299999995
+PNG-001191,,Sogeri,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.425973,-9.418977999999925
+PNG-001192,,Sogeri,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.425973,-9.418977999999925
+PNG-001193,,Manumanu,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.89149600000007,-9.112837999999954
+PNG-001194,,Manumanu,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.89149600000007,-9.112837999999954
+PNG-001195,,Pinu,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.83417600000007,-9.051024999999925
+PNG-001196,,Pinu,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.83417600000007,-9.051024999999925
+PNG-001197,,Avabadina,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.8574440000001,-9.009964999999909
+PNG-001198,,Avabadina,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.8574440000001,-9.009964999999909
+PNG-001199,,Lealea,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.987073,-9.285640999999941
+PNG-001200,,Lealea,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.987073,-9.285640999999941
+PNG-001201,,Gorohu,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.91340300000002,-9.149705999999924
+PNG-001202,,Gorohu,,PNG,Central,Kairuku/Hiri,Hiri Rural,146.91340300000002,-9.149705999999924
+PNG-001203,,Papa,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.00146000000007,-9.303769999999929
+PNG-001204,,Papa,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.00146000000007,-9.303769999999929
+PNG-001205,,Boera,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.02452100000005,-9.389615999999933
+PNG-001206,,Boera,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.02452100000005,-9.389615999999933
+PNG-001207,,Porebada,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.0435920000001,-9.416159999999934
+PNG-001208,,Porebada,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.0435920000001,-9.416159999999934
+PNG-001209,,Roku,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.091274,-9.459123999999917
+PNG-001210,,Roku,,PNG,Central,Kairuku/Hiri,Hiri Rural,147.091274,-9.459123999999917
+PNG-001211,,Woitape,,PNG,Central,Goilala,Woitape Rural,147.25735600000007,-8.557045999999957
+PNG-001212,,Woitape,,PNG,Central,Goilala,Woitape Rural,147.25735600000007,-8.557045999999957
+PNG-001213,,Sirinumu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.46014000000002,-9.50871399999994
+PNG-001214,,Sirinumu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.46014000000002,-9.50871399999994
+PNG-001215,,Doe,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.61357500000008,-9.45123099999995
+PNG-001216,,Doe,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.61357500000008,-9.45123099999995
+PNG-001217,,Sivitatana,,PNG,Central,Rigo,Rigo Central Rural,147.7848160000001,-9.818414999999959
+PNG-001218,,Sivitatana,,PNG,Central,Rigo,Rigo Central Rural,147.7848160000001,-9.818414999999959
+PNG-001219,,Saroakeina,,PNG,Central,Rigo,Rigo Central Rural,147.72170200000005,-9.83003999999994
+PNG-001220,,Saroakeina,,PNG,Central,Rigo,Rigo Central Rural,147.72170200000005,-9.83003999999994
+PNG-001221,,Kwikila,,PNG,Central,Rigo,Rigo Central Rural,147.6793090000001,-9.814151999999922
+PNG-001222,,Kwikila,,PNG,Central,Rigo,Rigo Central Rural,147.6793090000001,-9.814151999999922
+PNG-001223,,Ruatoka,,PNG,Central,Rigo,Rigo Central Rural,147.6811550000001,-9.812713999999914
+PNG-001224,,Ruatoka,,PNG,Central,Rigo,Rigo Central Rural,147.6811550000001,-9.812713999999914
+PNG-001225,,Kalo,,PNG,Central,Rigo,Rigo Coastal Rural,147.78326100000004,-10.044696999999928
+PNG-001226,,Kalo,,PNG,Central,Rigo,Rigo Coastal Rural,147.78326100000004,-10.044696999999928
+PNG-001227,,Manugoro,,PNG,Central,Rigo,Rigo Central Rural,147.4648400000001,-9.712118999999916
+PNG-001228,,Manugoro,,PNG,Central,Rigo,Rigo Central Rural,147.4648400000001,-9.712118999999916
+PNG-001229,,Bonanamo,,PNG,Central,Rigo,Rigo Coastal Rural,147.6007840000001,-9.959359999999947
+PNG-001230,,Bonanamo,,PNG,Central,Rigo,Rigo Coastal Rural,147.6007840000001,-9.959359999999947
+PNG-001231,,Boredabu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.5340470000001,-9.480970999999954
+PNG-001232,,Boredabu,,PNG,Central,Kairuku/Hiri,Koiari Rural,147.5340470000001,-9.480970999999954
+PNG-001233,,Waima,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.4556950000001,-8.637254999999925
+PNG-001234,,Waima,,PNG,Central,Kairuku/Hiri,Kairuku Rural,146.4556950000001,-8.637254999999925
+PNG-001235,,Gabone,,PNG,Central,Rigo,Rigo Coastal Rural,147.5781790000001,-9.889839999999936
+PNG-001236,,Gabone,,PNG,Central,Rigo,Rigo Coastal Rural,147.5781790000001,-9.889839999999936
+PNG-001237,,Ganimarupu,,PNG,Central,Rigo,Rigo Inland Rural,147.99390700000004,-10.032490999999936
+PNG-001238,,Ganimarupu,,PNG,Central,Rigo,Rigo Inland Rural,147.99390700000004,-10.032490999999936
+PNG-001239,,Kemabolo,,PNG,Central,Rigo,Rigo Coastal Rural,147.6430160000001,-9.92964799999993
+PNG-001240,,Kemabolo,,PNG,Central,Rigo,Rigo Coastal Rural,147.6430160000001,-9.92964799999993
+PNG-001241,,Saseva (Sabuia),,PNG,Central,Rigo,Rigo Central Rural,147.44828900000005,-9.66757599999994
+PNG-001242,,Saseva (Sabuia),,PNG,Central,Rigo,Rigo Central Rural,147.44828900000005,-9.66757599999994
+PNG-001243,,Gaulim,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.09426100000007,-4.437852999999961
+PNG-001244,,Gaulim,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.09426100000007,-4.437852999999961
+PNG-001245,,Kadaulung,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.11839800000007,-4.452602999999954
+PNG-001246,,Kadaulung,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.11839800000007,-4.452602999999954
+PNG-001247,,Tavui No.1,,PNG,East New Britain,Rabaul,Balanataman Rural,152.15654300000006,-4.145036999999945
+PNG-001248,,Tavui,,PNG,East New Britain,Rabaul,Balanataman Rural,152.15654300000006,-4.145036999999945
+PNG-001249,,Liaga,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.02788700000008,-4.394482999999923
+PNG-001250,,Lianga,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.02788700000008,-4.394482999999923
+PNG-001251,,Marunga,,PNG,East New Britain,Pomio,Sinivit Rural,152.0435030000001,-4.9703819999999155
+PNG-001252,,Marunga,,PNG,East New Britain,Pomio,Sinivit Rural,152.0435030000001,-4.9703819999999155
+PNG-001253,,Kalamagunan,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.07818300000008,-4.457053999999914
+PNG-001254,,Kainagunan,,PNG,East New Britain,Gazelle,Inland Baining Rural,152.07818300000008,-4.457053999999914
+PNG-001255,,Raluana,,PNG,East New Britain,Kokopo,Raluana Rural,152.22031900000002,-4.305345999999929
+PNG-001256,,Raluana,,PNG,East New Britain,Kokopo,Raluana Rural,152.22031900000002,-4.305345999999929
+PNG-001257,,Gunanar,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.15205000000003,-4.330406999999923
+PNG-001258,,Gunanur,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.15205000000003,-4.330406999999923
+PNG-001259,,Vunalir,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.05130000000008,-4.20471699999996
+PNG-001260,,Vunalir,,PNG,East New Britain,Gazelle,Livuan/Reimber Rural,152.05130000000008,-4.20471699999996
+PNG-001261,,Taulil,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.09214700000007,-4.413300999999933
+PNG-001262,,Taulil,,PNG,East New Britain,Gazelle,Vunadidir/Toma Rural,152.09214700000007,-4.413300999999933
+PNG-001263,,Pilematana,,PNG,East New Britain,Pomio,Melkoi Rural,150.97207500000002,-5.973903999999948
+PNG-001264,,Pilematana,,PNG,East New Britain,Pomio,Melkoi Rural,150.97207500000002,-5.973903999999948
+PNG-001265,,Tangolo,,PNG,East New Britain,Pomio,Melkoi Rural,150.81793900000002,-6.000309999999956
+PNG-001266,,Tangolo,,PNG,East New Britain,Pomio,Melkoi Rural,150.81793900000002,-6.000309999999956
+PNG-001267,,Ulagunan,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.2477120000001,-4.373421999999948
+PNG-001268,,Ulagunan,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.2477120000001,-4.373421999999948
+PNG-001269,,Vatara,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.49403400000006,-4.165645999999924
+PNG-001270,,Watara,,PNG,East New Britain,Kokopo,Duke Of York Rural,152.49403400000006,-4.165645999999924
+PNG-001271,,Birar,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.34587800000008,-4.406332999999961
+PNG-001272,,Birar,,PNG,East New Britain,Kokopo,Bitapaka Rural,152.34587800000008,-4.406332999999961
+PNG-001273,,Kawaliap,,PNG,Manus,Manus,Tetedu,147.067271,-2.1103649999999448
+PNG-001274,,Kawaliap,,PNG,Manus,Manus,Tetedu,147.067271,-2.1103649999999448
+PNG-001275,,Buyang,,PNG,Manus,Manus,Tetedu,147.051152,-2.0808499999999412
+PNG-001276,,Buyang,,PNG,Manus,Manus,Tetedu,147.051152,-2.0808499999999412
+PNG-001277,,Amik,,PNG,Manus,Manus,Nigoherm,144.35435100000007,-1.2416409999999587
+PNG-001278,,Kavudemki,,PNG,East New Britain,Pomio,Sinivit Rural,151.96099200000003,-4.92848099999992
+PNG-001279,,Kavudemki,,PNG,East New Britain,Pomio,Sinivit Rural,151.96099200000003,-4.92848099999992
+PNG-001280,,Uvol,,PNG,East New Britain,Pomio,Melkoi Rural,150.98826200000008,-6.0093239999999355
+PNG-001281,,Uvol,,PNG,East New Britain,Pomio,Melkoi Rural,150.98826200000008,-6.0093239999999355
+PNG-001282,,Ralalar,,PNG,East New Britain,Kokopo,Raluana Rural,152.1719700000001,-4.322619999999915
+PNG-001283,,Ranguna,,PNG,East New Britain,Kokopo,Raluana Rural,152.1719700000001,-4.322619999999915
+PNG-001284,,Kiviri,,PNG,North Solomons,Central Bougainville,Wakunai,155.22921400000007,-5.866086999999936
+PNG-001285,,Kiviri,,PNG,North Solomons,Central Bougainville,Wakunai,155.22921400000007,-5.866086999999936
+PNG-001286,,Kiviri,,PNG,North Solomons,Central Bougainville,Wakunai,155.22921400000007,-5.866086999999936
+PNG-001287,,Kabaleo,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.29224,-4.362250999999958
+PNG-001288,,Kabaleo,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.29224,-4.362250999999958
+PNG-001289,,Kabaleo,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.29224,-4.362250999999958
+PNG-001290,,Malaguna,,PNG,East New Britain,Rabaul,Balanataman Rural,152.15763300000003,-4.2050989999999615
+PNG-001291,,Malaguna,,PNG,East New Britain,Rabaul,Balanataman Rural,152.15763300000003,-4.2050989999999615
+PNG-001292,,Malaguna,,PNG,East New Britain,Rabaul,Balanataman Rural,152.15763300000003,-4.2050989999999615
+PNG-001293,,Gele-Rakunat,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
+PNG-001294,,Gelegele-Rapolo,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
+PNG-001295,,Gelegele-Nordur,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
+PNG-001296,,Waterhouse Mem,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
+PNG-001297,,Waterhouse Mem,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
+PNG-001298,,Waterhouse Mem,,PNG,East New Britain,Kokopo,Kokopo/Vunamami Urban,152.24263800000006,-4.410910999999942
