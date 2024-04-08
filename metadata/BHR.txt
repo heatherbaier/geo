@@ -1,2 +1,0 @@
-bahrain_school_locations.csv
-    https://www.data.gov.bh/en/Dashboards
