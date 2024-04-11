@@ -1,0 +1,22 @@
+Usage of the geoBoundaries Database requires citation.:
+This can be satisfied by either:
+   1. (Preferred) - Citing our academic work: Runfola, D. et al. (2020)
+      geoBoundaries: A global database of political administrative boundaries.
+      PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866
+   2. Providing a link to geoboundaries.org - i.e., 'Administrative boundaries courtesy 
+      of geoBoundaries.org'
+Additionally, we recommend citation of the source(s) noted in this metadata file.
+
+
+ISO-3166-1 (Alpha-3): HND
+Boundary Representative of Year: 2019
+Boundary Type: ADM2
+Boundary Source(s): ICF - Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, Gobierno de la República de Honduras
+Canonical Boundary Type Name: Municipalities
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License Notes: 
+License Source: https//creativecommons.org/licenses/by/4.0/
+Data Source: https//datos.gob.hn/en/dataset/limites-municipales/resource/0a086bb7-1e3e-4cb0-b7d8-e21a8417dc5f
+Source Data Updated On: Thu Jan 19 07:31:04 2023
+File Built On: Jan 23, 2023
+Number of Administrative Units: 299
