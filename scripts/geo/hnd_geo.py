@@ -32,10 +32,21 @@ for adm in range(1, 4):
         cols += ["adm" + str(adm)]
         downloadGB("HND", str(adm), ".")
         shp = gpd.read_file(getGBpath("HND", f"ADM{str(adm)}", "."))
+        shp = shp.set_crs("EPSG:4326")
         data = gpd.GeoDataFrame(data, geometry = gpd.points_from_xy(data.longitude, data.latitude))
+
+        data = data.set_crs("EPSG:4326")
+        shp = shp.set_crs("EPSG:4326")
+
+        if adm == 1:
+            data = gpd.clip(data, shp)
+            longs = data["longitude"].values
+            lats = data["latitude"].values
+
         data = gpd.tools.sjoin(data, shp, how = "left").rename(columns = {"shapeName": "adm" + str(adm)})[cols]
         data["longitude"] = longs
         data["latitude"] = lats
+
         print(data.head())
     except Exception as e:
         data["adm" + str(adm)] = None
