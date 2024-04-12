@@ -1,0 +1,454 @@
+geo_id,deped_id,school_name,address,adm0,adm1,adm2,adm3,longitude,latitude
+SOM-000364,Somalia - Education Facilities.365,Kulbiyow Primary Schoool,,SOM,Lower Juba,BADHADHE,,41.22177,-1.1327
+SOM-000362,Somalia - Education Facilities.363,Badhaadhe Primary School,,SOM,Lower Juba,BADHADHE,,41.50047,-1.03537
+SOM-000392,Somalia - Education Facilities.393,Al-Irshaad Primary School,,SOM,Lower Juba,KISMAYO,,42.54626,-0.36209
+SOM-000390,Somalia - Education Facilities.391,Al Hudaa Primary School,,SOM,Lower Juba,KISMAYO,,42.54626,-0.36202
+SOM-000393,Somalia - Education Facilities.394,Ahmed Bin Hanbal Primary School,,SOM,Lower Juba,KISMAYO,,42.54629,-0.36029
+SOM-000389,Somalia - Education Facilities.390,Ibnu Mascuud Primary School,,SOM,Lower Juba,KISMAYO,,42.54626,-0.36029
+SOM-000391,Somalia - Education Facilities.392,Gobweyn Primary School,,SOM,Lower Juba,KISMAYO,,42.60119,-0.24808
+SOM-000363,Somalia - Education Facilities.364,Hoosingow Primary School,,SOM,Lower Juba,BADHADHE,,41.27012,-0.17382
+SOM-000379,Somalia - Education Facilities.380,Gobanimo Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.63977,-0.03503
+SOM-000381,Somalia - Education Facilities.382,Bander Jadid Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.60922,-0.01289
+SOM-000385,Somalia - Education Facilities.386,Malaley Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.66156,0.00182
+SOM-000382,Somalia - Education Facilities.383,Nafta - Quur Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.75004,0.02687
+SOM-000367,Somalia - Education Facilities.368,Arare Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.6821,0.0289
+SOM-000378,Somalia - Education Facilities.379,Osman Binu Afan Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.7382,0.06916
+SOM-000369,Somalia - Education Facilities.370,Beled - Rahma Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.71225,0.07806
+SOM-000366,Somalia - Education Facilities.367,Mogambo Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.71765,0.15619
+SOM-000371,Somalia - Education Facilities.372,Moffi Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.75129,0.16415
+SOM-000373,Somalia - Education Facilities.374,Wadajir Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.75365,0.17192
+SOM-000372,Somalia - Education Facilities.373,Mashaqo Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.74764,0.19575
+SOM-000377,Somalia - Education Facilities.378,Deema Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.76579,-0.01946
+SOM-000384,Somalia - Education Facilities.385,Honqare Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.79458,0.01239
+SOM-000375,Somalia - Education Facilities.376,Beled Amin Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.77055,0.19529
+SOM-000374,Somalia - Education Facilities.375,Miguwa Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.76012,0.22178
+SOM-000370,Somalia - Education Facilities.371,Sabatuni Primary School,,SOM,Lower Juba,JAMAAME EAST,,42.77542,0.22323
+SOM-000376,Somalia - Education Facilities.377,Kamsuma Primary School,,SOM,Lower Juba,JAMAAME EAST,,42.77512,0.24935
+SOM-000380,Somalia - Education Facilities.381,Burgan Primary School,,SOM,Lower Juba,JAMAAME EAST,,42.83449,0.25357
+SOM-000368,Somalia - Education Facilities.369,Makalango Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.75822,0.25429
+SOM-000439,Somalia - Education Facilities.440,Bander Salaama Primary School,,SOM,Middle Juba,JILIB EAST,,42.77064,0.36388
+SOM-000440,Somalia - Education Facilities.441,Homboy Primary School,,SOM,Middle Juba,JILIB EAST,,42.86668,0.39788
+SOM-000359,Somalia - Education Facilities.360,Qoqani Primary School,,SOM,Lower Juba,AFMADOW,,41.71361,0.28189
+SOM-000365,Somalia - Education Facilities.366,Bardhere Primary School,,SOM,Lower Juba,JAMAAME WEST,,42.74185,0.29069
+SOM-000387,Somalia - Education Facilities.388,Upper Hill Primary School (Dalcada),,SOM,Lower Juba,JILIB WEST,,42.54626,0.36029
+SOM-000388,Somalia - Education Facilities.389,S. W. O Primary School,,SOM,Lower Juba,JILIB WEST,,42.54626,0.36202
+SOM-000436,Somalia - Education Facilities.437,Kalanje Primary School,,SOM,Middle Juba,JILIB WEST,,42.73963,0.37135
+SOM-000383,Somalia - Education Facilities.384,Bengeni Primary School,,SOM,Middle Juba,JILIB WEST,,42.72636,0.3911
+SOM-000446,Somalia - Education Facilities.447,Mubaarak Primary School,,SOM,Middle Juba,JILIB WEST,,42.72734,0.42552
+SOM-000437,Somalia - Education Facilities.438,Mareerey Primary School,,SOM,Middle Juba,JILIB WEST,,42.7154,0.42943
+SOM-000357,Somalia - Education Facilities.358,Hayo Primary School,,SOM,Lower Juba,AFMADOW,,41.81446,0.43422
+SOM-000451,Somalia - Education Facilities.452,Hargeesa Yerey Primary School,,SOM,Middle Juba,JILIB WEST,,42.70346,0.4473
+SOM-000358,Somalia - Education Facilities.359,Al - Hudda Primary School,,SOM,Lower Juba,AFMADOW,,42.07301,0.51486
+SOM-000441,Somalia - Education Facilities.442,Abdala Kakane Primary School,,SOM,Middle Juba,JILIB WEST,,42.75359,0.52403
+SOM-000442,Somalia - Education Facilities.443,Osboley Primary School,,SOM,Middle Juba,JILIB WEST,,42.74954,0.53666
+SOM-000450,Somalia - Education Facilities.451,B/Kariim Primary School,,SOM,Middle Juba,JILIB WEST,,42.73956,0.54448
+SOM-000438,Somalia - Education Facilities.439,Buulo Balley Primary School,,SOM,Middle Juba,JILIB EAST,,42.74723,0.60948
+SOM-000445,Somalia - Education Facilities.446,Wagade Primary School,,SOM,Lower Juba,AFMADOW,,42.40706,0.68395
+SOM-000444,Somalia - Education Facilities.445,Osman Mote Primary School,,SOM,Middle Juba,JILIB WEST,,42.69456,0.69469
+SOM-000360,Somalia - Education Facilities.361,Aden Geddi Primary School,,SOM,Lower Juba,HAGAR,,41.97531,0.87003
+SOM-000361,Somalia - Education Facilities.362,Wadajir Primary School,,SOM,Lower Juba,HAGAR,,41.665,1.0
+SOM-000459,Somalia - Education Facilities.460,Qaboobe Primary School,,SOM,Middle Juba,SAKOW,,42.44968,1.54715
+SOM-000443,Somalia - Education Facilities.444,Sheik Noor (1) Primary School,,SOM,Middle Juba,JILIB EAST,,42.7702,0.49345
+SOM-000448,Somalia - Education Facilities.449,B/Rahma primary School,,SOM,Middle Juba,JILIB WEST,,42.75757,0.49547
+SOM-000447,Somalia - Education Facilities.448,Manyagabo Primary School,,SOM,Middle Juba,JILIB WEST,,42.76448,0.50685
+SOM-000449,Somalia - Education Facilities.450,Madhoke Limole Primary School,,SOM,Middle Juba,JILIB EAST,,42.76406,0.54895
+SOM-000281,Somalia - Education Facilities.282,Yaqbaraway,,SOM,Bay,DINSOOR,,43.1,1.9
+SOM-000280,Somalia - Education Facilities.281,Waberi,,SOM,Bay,DINSOOR,,42.9,2.0
+SOM-000278,Somalia - Education Facilities.279,Fathu - Rahman,,SOM,Bay,DINSOOR,,42.97,2.4
+SOM-000286,Somalia - Education Facilities.287,Sheikh Ibrahim,,SOM,Bay,QANSAH DHEERE,,42.88,2.76
+SOM-000263,Somalia - Education Facilities.264,Robay Gadud,,SOM,Bay,BAIDOA,,43.3,2.78
+SOM-000285,Somalia - Education Facilities.286,Koringbood,,SOM,Bay,QANSAH DHEERE,,43.0,2.8
+SOM-000453,Somalia - Education Facilities.454,Nusdunia Primary School,,SOM,Middle Juba,SAKOW,,42.42742,1.62255
+SOM-000455,Somalia - Education Facilities.456,Towfiq Primary School,,SOM,Middle Juba,SAKOW,,42.45217,1.63938
+SOM-000460,Somalia - Education Facilities.461,Birbiriso Primary School,,SOM,Middle Juba,SAKOW,,42.42952,1.67216
+SOM-000457,Somalia - Education Facilities.458,Qeyt-Ajubo Primary School,,SOM,Middle Juba,SAKOW,,42.5224,1.67924
+SOM-000456,Somalia - Education Facilities.457,Basra Primary School,,SOM,Middle Juba,SAKOW,,42.34105,1.68813
+SOM-000454,Somalia - Education Facilities.455,Gurmeysa Primary School,,SOM,Middle Juba,SAKOW,,42.40564,1.69039
+SOM-000452,Somalia - Education Facilities.453,Nebsoy Primary School,,SOM,Middle Juba,SAKOW,,42.50629,1.74871
+SOM-000458,Somalia - Education Facilities.459,Salagle Primary School,,SOM,Middle Juba,SALAGLE,,42.29569,1.81187
+SOM-000317,Somalia - Education Facilities.318,Sarinley Primary School,,SOM,Gedo,BARDERA,,42.28088,2.0
+SOM-000313,Somalia - Education Facilities.314,Anole Primary School,,SOM,Gedo,BARDERA,,42.31422,2.01512
+SOM-000282,Somalia - Education Facilities.283,Bulo - Gadud,,SOM,Bay,DINSOOR,,42.67,2.1
+SOM-000315,Somalia - Education Facilities.316,Iftin Primary School,,SOM,Gedo,BARDERA,,41.62433,2.20526
+SOM-000314,Somalia - Education Facilities.315,Bardere Primary School,,SOM,Gedo,BARDERA,,42.28502,2.33966
+SOM-000279,Somalia - Education Facilities.280,Habibyal,,SOM,Bay,DINSOOR,,42.66,2.3522
+SOM-000316,Somalia - Education Facilities.317,Mardha Primary School,,SOM,Gedo,BARDERA,,42.3309,2.4029
+SOM-000321,Somalia - Education Facilities.322,El-Wak Primary School,,SOM,Gedo,EL WAK,,40.99829,2.78797
+SOM-000325,Somalia - Education Facilities.326,Gorboharrey Primary School,,SOM,Gedo,BURDUBO,,42.21988,3.0
+SOM-000323,Somalia - Education Facilities.324,El-Ade Primary School,,SOM,Gedo,GARBAHAREY,,41.86778,3.03672
+SOM-000324,Somalia - Education Facilities.325,El Gadud Primary School,,SOM,Gedo,BURDUBO,,42.6,3.0798
+SOM-000322,Somalia - Education Facilities.323,Bura Primary School,,SOM,Gedo,GARBAHAREY,,42.13948,3.17188
+SOM-000264,Somalia - Education Facilities.265,Sabiyo,,SOM,Bay,BAIDOA,,43.3,2.8
+SOM-000283,Somalia - Education Facilities.284,Durey Emid,,SOM,Bay,QANSAH DHEERE,,42.9294,2.83366
+SOM-000284,Somalia - Education Facilities.285,Fathurahman,,SOM,Bay,QANSAH DHEERE,,43.0,2.87
+SOM-000262,Somalia - Education Facilities.263,Manas,,SOM,Bay,BAIDOA,,43.46,2.89
+SOM-000268,Somalia - Education Facilities.269,Gorisane,,SOM,Bay,BAIDOA,,43.4,2.9
+SOM-000270,Somalia - Education Facilities.271,Alio Marayle,,SOM,Bay,BAIDOA,,43.33,2.9
+SOM-000261,Somalia - Education Facilities.262,Kormare,,SOM,Bay,BAIDOA,,43.35,2.99
+SOM-000266,Somalia - Education Facilities.267,Roble,,SOM,Bay,BAIDOA,,43.41,3.06
+SOM-000274,Somalia - Education Facilities.275,Toswein,,SOM,Bay,BERDALE,,43.2,3.1
+SOM-000271,Somalia - Education Facilities.272,Berdale,,SOM,Bay,BERDALE,,43.1,3.2
+SOM-000320,Somalia - Education Facilities.321,Burdubo Primary School,,SOM,Gedo,BURDUBO,,42.50181,3.1728
+SOM-000326,Somalia - Education Facilities.327,T/Barwaqo,,SOM,Gedo,GARBAHAREY,,42.4683,3.48314
+SOM-000319,Somalia - Education Facilities.320,Khalid,,SOM,Gedo,BELET HAWA,,41.89431,3.78074
+SOM-000329,Somalia - Education Facilities.330,Salaam,,SOM,Gedo,LUUQ,,42.54459,3.7999
+SOM-000327,Somalia - Education Facilities.328,Ganane,,SOM,Gedo,LUUQ,,42.54459,3.79999
+SOM-000318,Somalia - Education Facilities.319,Malka Hare,,SOM,Gedo,BELET HAWA,,41.9323,3.9794
+SOM-000312,Somalia - Education Facilities.313,Ged/Wayne,,SOM,Gedo,BELET HAWA,,42.02942,4.0293
+SOM-000429,Somalia - Education Facilities.430,Muungiye Primary School,,SOM,Lower Shebelle,MARKA,,44.62074,1.60907
+SOM-000421,Somalia - Education Facilities.422,Golweyn,,SOM,Lower Shebelle,KURTUNWAAREY,,44.5,1.65
+SOM-000410,Somalia - Education Facilities.411,Sh. Abdi Dhere,,SOM,Lower Shebelle,MARKA,,44.57,1.65
+SOM-000422,Somalia - Education Facilities.423,Shalambod,,SOM,Lower Shebelle,MARKA,,44.69499,1.7
+SOM-000420,Somalia - Education Facilities.421,Madulow,,SOM,Lower Shebelle,QORYOLEY,,44.55,1.7
+SOM-000411,Somalia - Education Facilities.412,Ayub Orphanage,,SOM,Lower Shebelle,MARKA,,44.7,1.7
+SOM-000423,Somalia - Education Facilities.424,Waagdaadi,,SOM,Lower Shebelle,MARKA,,44.64,1.7
+SOM-000409,Somalia - Education Facilities.410,Badru - Diin,,SOM,Lower Shebelle,MARKA,,44.76,1.71
+SOM-000407,Somalia - Education Facilities.408,J.M Barrow,,SOM,Lower Shebelle,MARKA,,44.76,1.7156
+SOM-000406,Somalia - Education Facilities.407,New way's,,SOM,Lower Shebelle,MARKA,,44.7699,1.7156
+SOM-000408,Somalia - Education Facilities.409,Sheik Abrone,,SOM,Lower Shebelle,MARKA,,44.7699,1.71567
+SOM-000427,Somalia - Education Facilities.428,Gandaawe,,SOM,Lower Shebelle,MARKA,,44.7,1.72
+SOM-000424,Somalia - Education Facilities.425,Mushani,,SOM,Lower Shebelle,MARKA,,44.6566,1.77
+SOM-000428,Somalia - Education Facilities.429,Kay toy,,SOM,Lower Shebelle,MARKA,,44.67,1.78
+SOM-000431,Somalia - Education Facilities.432,Majabto Primary School,,SOM,Lower Shebelle,MARKA,,44.63279,1.78251
+SOM-000432,Somalia - Education Facilities.433,Tawakal Primary School,,SOM,Lower Shebelle,MARKA,,44.62099,1.79698
+SOM-000425,Somalia - Education Facilities.426,Sagaaroole,,SOM,Lower Shebelle,MARKA,,44.77,1.8
+SOM-000413,Somalia - Education Facilities.414,Ugunji,,SOM,Lower Shebelle,MARKA,,44.72,1.8
+SOM-000416,Somalia - Education Facilities.417,Deg-Wariiri,,SOM,Lower Shebelle,MARKA,,44.68,1.8
+SOM-000415,Somalia - Education Facilities.416,Gendershe,,SOM,Lower Shebelle,MARKA,,44.9,1.8
+SOM-000419,Somalia - Education Facilities.420,Ambanane,,SOM,Lower Shebelle,MARKA,,44.7,1.8
+SOM-000418,Somalia - Education Facilities.419,El-Waregow,,SOM,Lower Shebelle,MARKA,,44.799,1.8
+SOM-000426,Somalia - Education Facilities.427,Adimole,,SOM,Lower Shebelle,MARKA,,44.65,1.8
+SOM-000430,Somalia - Education Facilities.431,Jannale Primary School,,SOM,Lower Shebelle,MARKA,,44.69089,1.80743
+SOM-000412,Somalia - Education Facilities.413,Malable,,SOM,Lower Shebelle,MARKA,,44.7,1.84
+SOM-000433,Somalia - Education Facilities.434,Sh. Axmed Faqi primary School,,SOM,Lower Shebelle,MARKA,,44.68415,1.84951
+SOM-000417,Somalia - Education Facilities.418,Sigale,,SOM,Lower Shebelle,MARKA,,44.70168,1.85131
+SOM-000400,Somalia - Education Facilities.401,Mubarak,,SOM,Lower Shebelle,AWDHEEGLE,,44.77,1.91705
+SOM-000401,Somalia - Education Facilities.402,Daru-salam,,SOM,Lower Shebelle,AWDHEEGLE,,44.78,1.922
+SOM-000404,Somalia - Education Facilities.405,Cali Bin Abii Daalib Primary School,,SOM,Lower Shebelle,BRAVA,,44.03043,1.11477
+SOM-000434,Somalia - Education Facilities.435,Sablaale Primary School,,SOM,Lower Shebelle,SABLALE,,43.88903,1.30517
+SOM-000405,Somalia - Education Facilities.406,Mukuy Dumis Primary School,,SOM,Lower Shebelle,KURTUNWAAREY,,44.43,1.5985
+SOM-000276,Somalia - Education Facilities.277,Bur-hakaba,,SOM,Bay,BURHAKABA,,44.08,2.8
+SOM-000275,Somalia - Education Facilities.276,Amar Bin Yasir,,SOM,Bay,BURHAKABA,,44.0,2.8
+SOM-000277,Somalia - Education Facilities.278,Goof,,SOM,Bay,BURHAKABA,,44.19,2.978
+SOM-000269,Somalia - Education Facilities.270,Alio Mumin,,SOM,Bay,BAIDOA,,43.51,2.98
+SOM-000265,Somalia - Education Facilities.266,Salahudin,,SOM,Bay,BAIDOA,,43.64,3.11
+SOM-000267,Somalia - Education Facilities.268,Dr. Ayub,,SOM,Bay,BAIDOA,,43.646,3.11
+SOM-000272,Somalia - Education Facilities.273,Gorar,,SOM,Bay,BAIDOA,,43.8,3.5
+SOM-000394,Somalia - Education Facilities.395,Baqdad Primary School,,SOM,Lower Shebelle,AFGOI,,45.22364,2.27038
+SOM-000465,Somalia - Education Facilities.466,Imaamu Nawawi Primary School,,SOM,Middle Shebelle,BALAD,,45.38705,2.35991
+SOM-000463,Somalia - Education Facilities.464,Gololey Primary School,,SOM,Middle Shebelle,BALAD,,45.35442,2.44913
+SOM-000464,Somalia - Education Facilities.465,Qalimow Primary School,,SOM,Middle Shebelle,BALAD,,45.37009,2.58951
+SOM-000461,Somalia - Education Facilities.462,Adale Primary School,,SOM,Middle Shebelle,ADALE,,46.32271,2.75925
+SOM-000468,Somalia - Education Facilities.469,Moyko Primary School,,SOM,Middle Shebelle,JOWHAR,,45.49735,2.7599
+SOM-000466,Somalia - Education Facilities.467,Kulmis Primary School,,SOM,Middle Shebelle,JOWHAR,,45.50038,2.7806
+SOM-000467,Somalia - Education Facilities.468,Biyo Ade Primary School,,SOM,Middle Shebelle,JOWHAR,,45.79131,2.93558
+SOM-000469,Somalia - Education Facilities.470,Mahaday Primary School,,SOM,Middle Shebelle,MAHADAY,,45.53355,2.97552
+SOM-000402,Somalia - Education Facilities.403,Aw - Dhegle,,SOM,Lower Shebelle,AWDHEEGLE,,44.83,1.97
+SOM-000403,Somalia - Education Facilities.404,Barirre,,SOM,Lower Shebelle,AWDHEEGLE,,44.89,2.0
+SOM-000398,Somalia - Education Facilities.399,Lafole Compound Primary school,,SOM,Lower Shebelle,AFGOI,,45.1718,2.0787
+SOM-000396,Somalia - Education Facilities.397,Marerei Primary School,,SOM,Lower Shebelle,AFGOI,,45.05893,2.13574
+SOM-000399,Somalia - Education Facilities.400,Ala Yasir Primary School,,SOM,Lower Shebelle,AFGOI,,45.1187,2.14154
+SOM-000395,Somalia - Education Facilities.396,Afgoi Girls Orphanage Primary School,,SOM,Lower Shebelle,AFGOI,,45.1187,2.14158
+SOM-000397,Somalia - Education Facilities.398,Abow Magow Primary School,,SOM,Lower Shebelle,AFGOI,,45.09838,2.2202
+SOM-000435,Somalia - Education Facilities.436,Imamu - Nawawi Primary School,,SOM,Lower Shebelle,WANLEWEYNE,,44.89357,2.61945
+SOM-000340,Somalia - Education Facilities.341,Tr Jante Primary School,,SOM,Hiiraan,BULO BURTI,,45.0,4.0
+SOM-000239,Somalia - Education Facilities.240,Sheikh Abdi,,SOM,Bakool,TIYEGLO,,44.512,4.018
+SOM-000353,Somalia - Education Facilities.354,Mubarak Primary School,,SOM,Hiiraan,JALALAQSI,,45.59941,3.37951
+SOM-000354,Somalia - Education Facilities.355,Islaw-Abuka Primary School,,SOM,Hiiraan,JALALAQSI,,45.55727,3.59811
+SOM-000462,Somalia - Education Facilities.463,Sh. Ahmed Siyaar Primary School,,SOM,Hiiraan,ADEN YABAL,,46.24544,3.7776
+SOM-000356,Somalia - Education Facilities.357,Mahas Primary School,,SOM,Hiiraan,ADEN YABAL,,46.2342,3.83518
+SOM-000351,Somalia - Education Facilities.352,Moalin Isse Primary School,,SOM,Hiiraan,BULO BURTI,,45.56596,3.85357
+SOM-000352,Somalia - Education Facilities.353,Bulay Primary School,,SOM,Hiiraan,BULO BURTI,,45.56597,3.85357
+SOM-000355,Somalia - Education Facilities.356,Moqakori Primary School,,SOM,Hiiraan,MAHAS,,46.13221,4.06068
+SOM-000300,Somalia - Education Facilities.301,Budbud Primary School,,SOM,Galgaduud,EL BUR,,46.47416,4.19267
+SOM-000336,Somalia - Education Facilities.337,Caqiboy Primary School,,SOM,Hiiraan,BULO BURTI,,45.39108,4.26266
+SOM-000305,Somalia - Education Facilities.306,Deri Primary School,,SOM,Galgaduud,EL BUR,,46.61406,4.3258
+SOM-000242,Somalia - Education Facilities.243,Anshur,,SOM,Bakool,TIYEGLO,,44.34,3.91
+SOM-000237,Somalia - Education Facilities.238,Bioley,,SOM,Bakool,TIYEGLO,,44.42,3.93
+SOM-000254,Somalia - Education Facilities.255,Sarmaan Primary School,,SOM,Bakool,HUDUR,,44.00434,3.95649
+SOM-000252,Somalia - Education Facilities.253,KorKoor Primary School,,SOM,Bakool,HUDUR,,44.08714,3.97431
+SOM-000243,Somalia - Education Facilities.244,Abaqdhere,,SOM,Bakool,TIYEGLO,,44.35,3.98
+SOM-000248,Somalia - Education Facilities.249,Doygaab Primary School,,SOM,Bakool,HUDUR,,44.13665,4.0
+SOM-000251,Somalia - Education Facilities.252,Yowkoyow Primary School,,SOM,Bakool,HUDUR,,44.1682,4.0222
+SOM-000250,Somalia - Education Facilities.251,Lafaale Primary School,,SOM,Bakool,HUDUR,,43.87561,4.03757
+SOM-000240,Somalia - Education Facilities.241,Dawle - Weyne,,SOM,Bakool,TIYEGLO,,44.39,4.05
+SOM-000241,Somalia - Education Facilities.242,Gudo,,SOM,Bakool,TIYEGLO,,44.35,4.1
+SOM-000236,Somalia - Education Facilities.237,Tieglo,,SOM,Bakool,TIYEGLO,,44.51,4.018
+SOM-000349,Somalia - Education Facilities.350,El-Ali School,,SOM,Hiiraan,BELET WEYNE,,44.98773,4.19498
+SOM-000350,Somalia - Education Facilities.351,Buq-Gosar Primary School,,SOM,Hiiraan,BELET WEYNE,,44.81709,4.51383
+SOM-000337,Somalia - Education Facilities.338,Alolaiad Primary School,,SOM,Hiiraan,BELET WEYNE,,45.20376,4.65475
+SOM-000346,Somalia - Education Facilities.347,Gahaya Primary School,,SOM,Hiiraan,BELET WEYNE,,45.2,4.7
+SOM-000343,Somalia - Education Facilities.344,Sheikh Mohamed Ma'alin Primary School,,SOM,Hiiraan,BELET WEYNE,,45.2,4.73
+SOM-000344,Somalia - Education Facilities.345,Majmac Duba Primary School,,SOM,Hiiraan,BELET WEYNE,,45.2062,4.7361
+SOM-000333,Somalia - Education Facilities.334,Bundo Wein Primary School,,SOM,Hiiraan,BELET WEYNE,,45.2062,4.73671
+SOM-000342,Somalia - Education Facilities.343,Al Aqsa Primary School,,SOM,Hiiraan,BELET WEYNE,,45.2,4.73671
+SOM-000338,Somalia - Education Facilities.339,Sigalow B Primary School,,SOM,Hiiraan,BELET WEYNE,,45.18797,4.75697
+SOM-000332,Somalia - Education Facilities.333,Nurfanar Primary School,,SOM,Hiiraan,BELET WEYNE,,45.39156,4.40555
+SOM-000307,Somalia - Education Facilities.308,Ja'ar Primary School,,SOM,Galgaduud,GALHAREERI,,46.8837,4.41664
+SOM-000331,Somalia - Education Facilities.332,Doloyaben Primary School,,SOM,Hiiraan,BELET WEYNE,,45.32749,4.41995
+SOM-000345,Somalia - Education Facilities.346,Barhano Primary School,,SOM,Hiiraan,BELET WEYNE,,45.34,4.5
+SOM-000335,Somalia - Education Facilities.336,Tawakal Primary School,,SOM,Hiiraan,BELET WEYNE,,45.28802,4.50569
+SOM-000308,Somalia - Education Facilities.309,Wabho Primary School,,SOM,Galgaduud,EL BUR,,46.28289,4.51374
+SOM-000347,Somalia - Education Facilities.348,Barey Primary School,,SOM,Hiiraan,BELET WEYNE,,45.27831,4.54938
+SOM-000348,Somalia - Education Facilities.349,Ma'an Qale Primary School,,SOM,Hiiraan,BELET WEYNE,,45.24085,4.5775
+SOM-000304,Somalia - Education Facilities.305,Dafed Primary School,,SOM,Galgaduud,EL BUR,,46.7709,4.6306
+SOM-000302,Somalia - Education Facilities.303,Al Nur Primary School,,SOM,Galgaduud,EL BUR,,46.61739,4.68441
+SOM-000246,Somalia - Education Facilities.247,Bulow Primary School,,SOM,Bakool,HUDUR,,43.89012,4.12303
+SOM-000238,Somalia - Education Facilities.239,El-Garas,,SOM,Bakool,HUDUR,,44.211,4.15
+SOM-000253,Somalia - Education Facilities.254,Moragabey Primary School,,SOM,Bakool,HUDUR,,43.6317,4.1771
+SOM-000247,Somalia - Education Facilities.248,Doon Fuul Primary School,,SOM,Bakool,HUDUR,,43.99737,4.18253
+SOM-000249,Somalia - Education Facilities.250,Garas Weyne Primary School,,SOM,Bakool,HUDUR,,43.48562,4.26576
+SOM-000244,Somalia - Education Facilities.245,El - Berde,,SOM,Bakool,EL BARDE,,43.65,4.828
+SOM-000245,Somalia - Education Facilities.246,El- Meghet,,SOM,Bakool,EL BARDE,,44.4,4.91
+SOM-000073,Somalia - Education Facilities.74,Salahley Boarding,,SOM,Woqooyi Galbeed,BALIGUBADLE,,44.20639,9.02556
+SOM-000031,Somalia - Education Facilities.32,Sayle,,SOM,Woqooyi Galbeed,BALIGUBADLE,,44.17028,9.17361
+SOM-000341,Somalia - Education Facilities.342,Sigaalow A Primary School,,SOM,Hiiraan,BELET WEYNE,,45.0,4.75697
+SOM-000334,Somalia - Education Facilities.335,Hiran (A) Primary School,,SOM,Hiiraan,BELET WEYNE,,45.21662,4.83016
+SOM-000114,Somalia - Education Facilities.115,Daba-Gorayale elementary,,SOM,Togdheer,ODWAYNE,,44.831,8.7511
+SOM-000117,Somalia - Education Facilities.118,Gudubi elementary,,SOM,Togdheer,ODWAYNE,,45.13404,8.81292
+SOM-000116,Somalia - Education Facilities.117,Hahi,,SOM,Togdheer,ODWAYNE,,44.96547,9.0
+SOM-000112,Somalia - Education Facilities.113,Harag Wafi,,SOM,Togdheer,ODWAYNE,,45.06171,9.0
+SOM-000113,Somalia - Education Facilities.114,Hara-Sheekh,,SOM,Togdheer,ODWAYNE,,44.75758,9.0
+SOM-000120,Somalia - Education Facilities.121,Galolay,,SOM,Togdheer,ODWAYNE,,44.89622,9.0
+SOM-000118,Somalia - Education Facilities.119,Beerato,,SOM,Togdheer,ODWAYNE,,45.06751,9.35651
+SOM-000291,Somalia - Education Facilities.292,Iqra Balan Bale Primary School,,SOM,Galgaduud,BALANBALE,,46.0,6.0
+SOM-000290,Somalia - Education Facilities.291,Adado Primary School,,SOM,Galgaduud,ADADO,,46.62551,6.13812
+SOM-000287,Somalia - Education Facilities.288,Alfajri Primary School,,SOM,Galgaduud,ABUDWAQ,,46.37659,6.22159
+SOM-000099,Somalia - Education Facilities.100,Horu Fadhi,,SOM,Togdheer,BUHODLE,,46.31713,8.25135
+SOM-000102,Somalia - Education Facilities.103,Coodanle,,SOM,Togdheer,BUHODLE,,46.48099,8.32779
+SOM-000095,Somalia - Education Facilities.96,Adan Suleyman,,SOM,Togdheer,BURAO,,45.90811,8.37342
+SOM-000123,Somalia - Education Facilities.124,Duruqsi,,SOM,Togdheer,BURAO,,45.47139,8.51715
+SOM-000096,Somalia - Education Facilities.97,Qorlugud,,SOM,Togdheer,BUHODLE,,46.22359,8.55228
+SOM-000121,Somalia - Education Facilities.122,Haji Saleh,,SOM,Togdheer,ODWAYNE,,45.23699,8.59396
+SOM-000125,Somalia - Education Facilities.126,Shansha Cade,,SOM,Togdheer,BURAO,,45.95331,8.65475
+SOM-000126,Somalia - Education Facilities.127,Saleebaan Cabdi Cumar,,SOM,Togdheer,BURAO,,45.89273,8.80054
+SOM-000097,Somalia - Education Facilities.98,Balli Alanle,,SOM,Togdheer,BURAO,,46.08188,9.0
+SOM-000100,Somalia - Education Facilities.101,Dandan,,SOM,Togdheer,BURAO,,45.92953,9.0
+SOM-000111,Somalia - Education Facilities.112,Ali Essa,,SOM,Togdheer,BURAO,,45.50379,9.0
+SOM-000084,Somalia - Education Facilities.85,G/Adag,,SOM,Togdheer,BURAO,,45.86733,9.0
+SOM-000124,Somalia - Education Facilities.125,Qoryaale,,SOM,Togdheer,BURAO,,45.97054,9.07047
+SOM-000109,Somalia - Education Facilities.110,Togder,,SOM,Togdheer,BURAO,,45.53747,9.52475
+SOM-000103,Somalia - Education Facilities.104,Mohamoud Ahmed Ali,,SOM,Togdheer,BURAO,,45.53747,9.52745
+SOM-000105,Somalia - Education Facilities.106,21 November,,SOM,Togdheer,BURAO,,45.53747,9.52749
+SOM-000107,Somalia - Education Facilities.108,Qoyta,,SOM,Togdheer,BURAO,,45.44188,9.68394
+SOM-000110,Somalia - Education Facilities.111,Kal Bare,,SOM,Togdheer,BURAO,,45.57134,9.90523
+SOM-000108,Somalia - Education Facilities.109,Fiqi Ayuub,,SOM,Togdheer,BURAO,,46.0264,9.93681
+SOM-000077,Somalia - Education Facilities.78,Dararweyne,,SOM,Togdheer,SHEIKH,,45.52736,10.0
+SOM-000106,Somalia - Education Facilities.107,Horn of Africa,,SOM,Togdheer,SHEIKH,,45.53749,10.0
+SOM-000055,Somalia - Education Facilities.56,Dhexe Arabsiyo,,SOM,Togdheer,BERBERA,,45.75967,10.0
+SOM-000104,Somalia - Education Facilities.105,Osman Abdi Ali,,SOM,Togdheer,SHEIKH,,45.53747,10.0
+SOM-000115,Somalia - Education Facilities.116,Eil Xume elementary,,SOM,Togdheer,ODWAYNE,,45.1802,9.4014
+SOM-000119,Somalia - Education Facilities.120,Khatumo,,SOM,Togdheer,SHEIKH,,45.02832,9.66563
+SOM-000029,Somalia - Education Facilities.30,Adadley,,SOM,Woqooyi Galbeed,HARGEISA,,44.69325,9.76639
+SOM-000067,Somalia - Education Facilities.68,Dacarbudhug,,SOM,Woqooyi Galbeed,BERBERA,,44.52798,9.86016
+SOM-000074,Somalia - Education Facilities.75,Imam Shafie,,SOM,Togdheer,SHEIKH,,45.0,10.0
+SOM-000122,Somalia - Education Facilities.123,Gatitaly,,SOM,Woqooyi Galbeed,BERBERA,,44.86412,10.0
+SOM-000076,Somalia - Education Facilities.77,Deri-Godleh,,SOM,Woqooyi Galbeed,BERBERA,,44.84912,10.16635
+SOM-000075,Somalia - Education Facilities.76,Laas-Ciidleh,,SOM,Woqooyi Galbeed,BERBERA,,45.0,10.17
+SOM-000058,Somalia - Education Facilities.59,Imam -Shafie,,SOM,Woqooyi Galbeed,GABILEY,,43.62551,9.7237
+SOM-000034,Somalia - Education Facilities.35,Maluug,,SOM,Woqooyi Galbeed,HARGEISA,,44.29095,9.75199
+SOM-000071,Somalia - Education Facilities.72,Jaleelo,,SOM,Woqooyi Galbeed,HARGEISA,,44.29095,9.76199
+SOM-000066,Somalia - Education Facilities.67,Xunbo weyne,,SOM,Woqooyi Galbeed,HARGEISA,,44.28941,9.7995
+SOM-000037,Somalia - Education Facilities.38,Dhagax W,,SOM,Woqooyi Galbeed,HARGEISA,,44.01361,9.84139
+SOM-000072,Somalia - Education Facilities.73,Alaalad,,SOM,Woqooyi Galbeed,HARGEISA,,44.33382,9.84336
+SOM-000049,Somalia - Education Facilities.50,H/Dhexe Agabar,,SOM,Woqooyi Galbeed,GABILEY,,43.91871,9.92485
+SOM-000047,Somalia - Education Facilities.48,L/Tiinka,,SOM,Woqooyi Galbeed,GABILEY,,43.64222,10.0
+SOM-000062,Somalia - Education Facilities.63,Umal Al Qura,,SOM,Woqooyi Galbeed,GABILEY,,43.62551,10.0
+SOM-000059,Somalia - Education Facilities.60,H/Dhexe Ijara,,SOM,Woqooyi Galbeed,GABILEY,,43.62801,10.0
+SOM-000273,Somalia - Education Facilities.274,Sheikh Hamud,,SOM,Bay,BERDALE,,43.1,3.214
+SOM-000328,Somalia - Education Facilities.329,Yurkud,,SOM,Gedo,LUUQ,,42.76914,3.52038
+SOM-000256,Somalia - Education Facilities.257,Wagid,,SOM,Bakool,WAJID,,43.24,3.8
+SOM-000257,Somalia - Education Facilities.258,Garsaley,,SOM,Bakool,WAJID,,43.232,3.999
+SOM-000259,Somalia - Education Facilities.260,Bur-Dhuhunle,,SOM,Bakool,WAJID,,43.24,4.05
+SOM-000258,Somalia - Education Facilities.259,Burcadey,,SOM,Bakool,WAJID,,43.24,4.066
+SOM-000255,Somalia - Education Facilities.256,Rabdurre,,SOM,Bakool,RABDURE,,43.16,4.25
+SOM-000260,Somalia - Education Facilities.261,Yeed,,SOM,Bakool,RABDURE,,43.044,4.55
+SOM-000044,Somalia - Education Facilities.45,ILma daddo,,SOM,Woqooyi Galbeed,GABILEY,,43.47,9.56833
+SOM-000051,Somalia - Education Facilities.52,Hoose Mahdi Ali(Togwajaale),,SOM,Woqooyi Galbeed,GABILEY,,43.33583,9.59972
+SOM-000040,Somalia - Education Facilities.41,Sh.Moolde,,SOM,Woqooyi Galbeed,HARGEISA,,43.85472,9.29722
+SOM-000038,Somalia - Education Facilities.39,F/Weyne,,SOM,Woqooyi Galbeed,HARGEISA,,43.67083,9.34333
+SOM-000033,Somalia - Education Facilities.34,Dirfacle,,SOM,Woqooyi Galbeed,BALIGUBADLE,,44.03353,9.40917
+SOM-000039,Somalia - Education Facilities.40,Garabis,,SOM,Woqooyi Galbeed,HARGEISA,,43.95469,9.43965
+SOM-000041,Somalia - Education Facilities.42,Gadh yogol,,SOM,Woqooyi Galbeed,HARGEISA,,43.86041,9.49273
+SOM-000070,Somalia - Education Facilities.71,Xaraf,,SOM,Woqooyi Galbeed,HARGEISA,,43.99299,9.54409
+SOM-000064,Somalia - Education Facilities.65,Ma'alin Daud,,SOM,Woqooyi Galbeed,HARGEISA,,44.06678,9.55975
+SOM-000065,Somalia - Education Facilities.66,Nural Huda,,SOM,Woqooyi Galbeed,HARGEISA,,44.06675,9.55975
+SOM-000043,Somalia - Education Facilities.44,Hoose Taysa.,,SOM,Woqooyi Galbeed,HARGEISA,,44.0,9.57182
+SOM-000050,Somalia - Education Facilities.51,Boodhlay,,SOM,Woqooyi Galbeed,GABILEY,,43.59448,9.5847
+SOM-000069,Somalia - Education Facilities.70,Abaarso,,SOM,Woqooyi Galbeed,HARGEISA,,43.88048,9.60173
+SOM-000042,Somalia - Education Facilities.43,Lafta/Boqor,,SOM,Woqooyi Galbeed,GABILEY,,43.55853,9.61571
+SOM-000060,Somalia - Education Facilities.61,Caro-Guduudan,,SOM,Woqooyi Galbeed,GABILEY,,43.68183,9.61981
+SOM-000035,Somalia - Education Facilities.36,B/Khadar,,SOM,Woqooyi Galbeed,HARGEISA,,44.02874,9.66194
+SOM-000052,Somalia - Education Facilities.53,Hoose Arabsiyo,,SOM,Woqooyi Galbeed,GABILEY,,43.75967,9.67695
+SOM-000053,Somalia - Education Facilities.54,New Gabileh,,SOM,Woqooyi Galbeed,GABILEY,,43.6255,9.70231
+SOM-000054,Somalia - Education Facilities.55,Al-Hoda,,SOM,Woqooyi Galbeed,GABILEY,,43.62551,9.70231
+SOM-000045,Somalia - Education Facilities.46,Gogol -Wanaag,,SOM,Woqooyi Galbeed,GABILEY,,43.78261,9.71858
+SOM-000068,Somalia - Education Facilities.69,Darar Weyne,,SOM,Woqooyi Galbeed,HARGEISA,,44.22306,9.71959
+SOM-000056,Somalia - Education Facilities.57,H/Dh  Kala Baydh,,SOM,Woqooyi Galbeed,GABILEY,,43.47667,9.68167
+SOM-000048,Somalia - Education Facilities.49,Galooley,,SOM,Woqooyi Galbeed,GABILEY,,43.40295,9.70667
+SOM-000017,Somalia - Education Facilities.18,Dilla,,SOM,Awdal,BORAMA,,43.31222,9.81639
+SOM-000061,Somalia - Education Facilities.62,Eil-Bardaleh,,SOM,Woqooyi Galbeed,GABILEY,,43.475,9.82444
+SOM-000003,Somalia - Education Facilities.4,Alaale,,SOM,Awdal,BORAMA,,43.18335,9.92893
+SOM-000011,Somalia - Education Facilities.12,Ubaya Binu Kacba,,SOM,Awdal,BORAMA,,43.2275,9.92893
+SOM-000009,Somalia - Education Facilities.10,Sh.Ali Jawhar,,SOM,Awdal,BORAMA,,43.2293,9.92893
+SOM-000013,Somalia - Education Facilities.14,Sh.Mooge/Qalooc,,SOM,Awdal,BAKI,,43.29028,10.0
+SOM-000010,Somalia - Education Facilities.11,Sh.Ahmed,,SOM,Awdal,BORAMA,,43.2275,10.0
+SOM-000005,Somalia - Education Facilities.6,Kalmo,,SOM,Awdal,BORAMA,,43.18335,10.0
+SOM-000007,Somalia - Education Facilities.8,Goraya Awl,,SOM,Awdal,BORAMA,,43.22778,10.0
+SOM-000006,Somalia - Education Facilities.7,Tuli lower,,SOM,Awdal,BAKI,,43.31222,10.0
+SOM-000016,Somalia - Education Facilities.17,Jara-Horatu,,SOM,Awdal,BAKI,,43.3225,10.0
+SOM-000000,Somalia - Education Facilities.1,Ruqy,,SOM,Awdal,BAKI,,43.43222,10.0
+SOM-000004,Somalia - Education Facilities.5,Al Nuur,,SOM,Awdal,BORAMA,,43.2293,10.0
+SOM-000046,Somalia - Education Facilities.47,Tog Wajaale Upper,,SOM,Awdal,BAKI,,43.33583,10.0
+SOM-000012,Somalia - Education Facilities.13,Maraley,,SOM,Awdal,BORAMA,,43.04,10.03278
+SOM-000008,Somalia - Education Facilities.9,Qunujeed,,SOM,Awdal,BORAMA,,43.00917,10.09167
+SOM-000014,Somalia - Education Facilities.15,Boon,,SOM,Awdal,BORAMA,,43.08799,10.19391
+SOM-000036,Somalia - Education Facilities.37,G/Deeble,,SOM,Woqooyi Galbeed,HARGEISA,,43.97273,10.0
+SOM-000057,Somalia - Education Facilities.58,Al Cirfaan,,SOM,Woqooyi Galbeed,GABILEY,,43.75967,10.0
+SOM-000063,Somalia - Education Facilities.64,M.Mogeh,,SOM,Woqooyi Galbeed,HARGEISA,,44.06678,10.0
+SOM-000018,Somalia - Education Facilities.19,Garbo Dadar,,SOM,Awdal,LUGHAYA,,43.63499,10.23733
+SOM-000001,Somalia - Education Facilities.2,Sh.Mahamud Ahmed,,SOM,Awdal,LUGHAYA,,43.48869,10.26689
+SOM-000019,Somalia - Education Facilities.20,Gar Gaara,,SOM,Awdal,LUGHAYA,,43.80758,10.31193
+SOM-000015,Somalia - Education Facilities.16,Jeed-Diqsi,,SOM,Awdal,LUGHAYA,,44.11734,10.55247
+SOM-000022,Somalia - Education Facilities.23,Lughaya,,SOM,Awdal,LUGHAYA,,43.94053,10.68326
+SOM-000028,Somalia - Education Facilities.29,Hariirad,,SOM,Awdal,ZEILA,,42.83667,10.32472
+SOM-000026,Somalia - Education Facilities.27,Fiqi Adan,,SOM,Awdal,ZEILA,,43.19222,10.37194
+SOM-000021,Somalia - Education Facilities.22,Fard laguxidh,,SOM,Awdal,LUGHAYA,,43.44972,10.40917
+SOM-000023,Somalia - Education Facilities.24,A/kadir,,SOM,Awdal,ZEILA,,42.89198,10.51028
+SOM-000020,Somalia - Education Facilities.21,Geerisa,,SOM,Awdal,LUGHAYA,,43.42935,10.6099
+SOM-000025,Somalia - Education Facilities.26,Tokhoshi,,SOM,Awdal,ZEILA,,43.0,11.0
+SOM-000027,Somalia - Education Facilities.28,Zeila,,SOM,Awdal,ZEILA,,43.47282,11.35455
+SOM-000024,Somalia - Education Facilities.25,Lawyado,,SOM,Awdal,ZEILA,,43.25945,11.45917
+SOM-000301,Somalia - Education Facilities.302,El Bur Primary School,,SOM,Galgaduud,EL BUR,,46.6139,4.68441
+SOM-000306,Somalia - Education Facilities.307,El Kohle Primary School,,SOM,Galgaduud,ELGARAS,,46.52099,4.84886
+SOM-000303,Somalia - Education Facilities.304,Al Bakra Primary School,,SOM,Galgaduud,ELGARAS,,46.61739,5.0
+SOM-000330,Somalia - Education Facilities.331,Mataban Primary School,,SOM,Hiiraan,MATABAN,,45.52284,5.19937
+SOM-000292,Somalia - Education Facilities.293,Adra Guriel Primary School,,SOM,Galgaduud,GURIEL,,45.87932,5.30909
+SOM-000296,Somalia - Education Facilities.297,El-Dere Primary School,,SOM,Galgaduud,DUSAMREB,,46.1899,5.36729
+SOM-000294,Somalia - Education Facilities.295,H.M.A Liibaan Primary School,,SOM,Galgaduud,DUSAMREB,,46.38465,5.53594
+SOM-000293,Somalia - Education Facilities.294,Gadon Primary School,,SOM,Galgaduud,DUSAMREB,,46.68071,5.68935
+SOM-000295,Somalia - Education Facilities.296,Mareergur Primary School,,SOM,Galgaduud,DUSAMREB,,46.50949,5.74902
+SOM-000288,Somalia - Education Facilities.289,Godinlabe Primary School,,SOM,Galgaduud,ADADO,,46.6317,5.8974
+SOM-000299,Somalia - Education Facilities.300,El Der Primary School,,SOM,Galgaduud,EL DHERE,,47.18031,3.84909
+SOM-000297,Somalia - Education Facilities.298,Ali Yabal Primary School,,SOM,Galgaduud,EL DHERE,,47.08439,3.97188
+SOM-000298,Somalia - Education Facilities.299,Wahweyn Primary School,,SOM,Galgaduud,EL DHERE,,47.4982,4.003
+SOM-000309,Somalia - Education Facilities.310,Omar Binulkhidaab Primary School,,SOM,Galgaduud,GALHAREERI,,47.14533,4.53037
+SOM-000310,Somalia - Education Facilities.311,Garabla Primary School,,SOM,Galgaduud,GALHAREERI,,47.16232,4.67611
+SOM-000289,Somalia - Education Facilities.290,Bahdo Primary School,,SOM,Galgaduud,ADADO,,47.22586,5.78878
+SOM-000206,Somalia - Education Facilities.207,Orphanage,,SOM,Mudug,GALKAYU SOUTH,,47.4,6.7
+SOM-000205,Somalia - Education Facilities.206,I - Nawawi,,SOM,Mudug,GALKAYU SOUTH,,47.43,6.7
+SOM-000209,Somalia - Education Facilities.210,Ein Shams,,SOM,Mudug,GALKAYU SOUTH,,47.0,6.7
+SOM-000201,Somalia - Education Facilities.202,Imaamu Shafici,,SOM,Mudug,GALKAYU SOUTH,,47.43,6.76
+SOM-000208,Somalia - Education Facilities.209,Imaam Nawawi,,SOM,Mudug,GALKAYU SOUTH,,47.43061,6.76
+SOM-000200,Somalia - Education Facilities.201,Galkaio,,SOM,Mudug,GALKAYU SOUTH,,47.0,6.76924
+SOM-000199,Somalia - Education Facilities.200,Yamayska,,SOM,Mudug,GALKAYU NORTH,,47.43061,6.76924
+SOM-000203,Somalia - Education Facilities.204,I/Nawawi Branch 3,,SOM,Mudug,GALKAYU NORTH,,47.5,7.0
+SOM-000202,Somalia - Education Facilities.203,Beoler,,SOM,Mudug,GOLDOGOB,,47.0,7.0
+SOM-000204,Somalia - Education Facilities.205,B/Wein,,SOM,Mudug,JARIBAN,,48.0,7.0
+SOM-000207,Somalia - Education Facilities.208,Bursalah,,SOM,Mudug,GOLDOGOB,,47.24,7.17
+SOM-000210,Somalia - Education Facilities.211,Jariiban,,SOM,Mudug,JARIBAN,,48.853,7.21308
+SOM-000219,Somalia - Education Facilities.220,Burtinle,,SOM,Nugaal,BURTINLE,,47.83679,7.647
+SOM-000217,Somalia - Education Facilities.218,Nasteh Women Center,,SOM,Nugaal,BURTINLE,,47.83679,7.64727
+SOM-000227,Somalia - Education Facilities.228,Awrulus,,SOM,Nugaal,BURTINLE,,47.99,7.76667
+SOM-000218,Somalia - Education Facilities.219,Al - Muntada,,SOM,Nugaal,BURTINLE,,48.04326,7.87
+SOM-000216,Somalia - Education Facilities.217,Jalam,,SOM,Nugaal,BURTINLE,,48.04,7.87
+SOM-000224,Somalia - Education Facilities.225,Qarxis,,SOM,Nugaal,GAROWE,,48.1,7.98
+SOM-000225,Somalia - Education Facilities.226,Rebent,,SOM,Nugaal,GAROWE,,48.48,8.0
+SOM-000232,Somalia - Education Facilities.233,Orphanage,,SOM,Nugaal,GAROWE,,48.4827,8.0
+SOM-000228,Somalia - Education Facilities.229,Waaberi,,SOM,Nugaal,GAROWE,,48.0,8.0
+SOM-000226,Somalia - Education Facilities.227,Yombays,,SOM,Nugaal,GAROWE,,49.0,8.0175
+SOM-000235,Somalia - Education Facilities.236,Al - Waxa,,SOM,Sool,LAS ANOD,,48.0,8.4
+SOM-000230,Somalia - Education Facilities.231,Darwiish,,SOM,Nugaal,GAROWE,,48.48,8.4
+SOM-000211,Somalia - Education Facilities.212,Garacad,,SOM,Mudug,JARIBAN,,49.3265,6.94326
+SOM-000221,Somalia - Education Facilities.222,Godob,,SOM,Nugaal,EYL,,49.52,7.66
+SOM-000220,Somalia - Education Facilities.221,Dhegenle,,SOM,Nugaal,EYL,,49.4,7.8
+SOM-000214,Somalia - Education Facilities.215,Baq Baq,,SOM,Nugaal,EYL,,49.48833,7.82861
+SOM-000223,Somalia - Education Facilities.224,Badey,,SOM,Nugaal,EYL,,49.8,7.97
+SOM-000215,Somalia - Education Facilities.216,Uusgure,,SOM,Bari,DANGOROYO,,49.71997,8.8
+SOM-000155,Somalia - Education Facilities.156,Dhudo & Intermediate,,SOM,Bari,BENDER BAYLA,,50.20712,9.0325
+SOM-000170,Somalia - Education Facilities.171,Jidad,,SOM,Bari,GARDO,,49.58,9.4
+SOM-000174,Somalia - Education Facilities.175,Libah-har.,,SOM,Bari,GARDO,,49.396,9.48
+SOM-000234,Somalia - Education Facilities.235,Kaalo Women Centre,,SOM,Sool,LAS ANOD,,48.0,8.4071
+SOM-000233,Somalia - Education Facilities.234,Shekh Hamud,,SOM,Nugaal,GAROWE,,48.4827,8.4071
+SOM-000231,Somalia - Education Facilities.232,Intermediate Garowe,,SOM,Nugaal,GAROWE,,48.48,8.4071
+SOM-000222,Somalia - Education Facilities.223,H/ Bahalle,,SOM,Nugaal,GAROWE,,48.6,8.5
+SOM-000229,Somalia - Education Facilities.230,Sinujif,,SOM,Nugaal,GAROWE,,48.98689,8.53419
+SOM-000213,Somalia - Education Facilities.214,Ceel-buli,,SOM,Nugaal,GAROWE,,49.0,8.56194
+SOM-000212,Somalia - Education Facilities.213,Xaasi Kheur,,SOM,Nugaal,DANGOROYO,,49.0,8.99
+SOM-000171,Somalia - Education Facilities.172,Libow,,SOM,Bari,GARDO,,49.18,9.14
+SOM-000176,Somalia - Education Facilities.177,Al - Muntada,,SOM,Bari,GARDO,,49.08,9.5
+SOM-000184,Somalia - Education Facilities.185,Al -Hanan Orphanages,,SOM,Bari,GARDO,,49.08,9.506
+SOM-000183,Somalia - Education Facilities.184,Imam Nawawi Qardo,,SOM,Bari,BENDER BAYLA,,49.8,9.506
+SOM-000180,Somalia - Education Facilities.181,Ardi sone,,SOM,Bari,GARDO,,49.22,9.53
+SOM-000157,Somalia - Education Facilities.158,Humbays,,SOM,Bari,BENDER BAYLA,,49.89,9.6
+SOM-000153,Somalia - Education Facilities.154,Qodah,,SOM,Bari,BENDER BAYLA,,49.82389,9.645
+SOM-000182,Somalia - Education Facilities.183,Upper Ambar,,SOM,Bari,GARDO,,49.48,9.67
+SOM-000173,Somalia - Education Facilities.174,Lower - Anbar,,SOM,Bari,GARDO,,49.55,9.74
+SOM-000185,Somalia - Education Facilities.186,Al- Mustagbal,,SOM,Bari,GARDO,,49.55,9.745
+SOM-000178,Somalia - Education Facilities.179,Hodman,,SOM,Bari,GARDO,,49.55,9.74584
+SOM-000177,Somalia - Education Facilities.178,Gud- ad,,SOM,Bari,GARDO,,49.19646,9.75
+SOM-000186,Somalia - Education Facilities.187,Al-Imama Shafici,,SOM,Bari,GARDO,,49.55,9.754
+SOM-000092,Somalia - Education Facilities.93,Figab,,SOM,Sanaag,EL AFWEYN,,47.0324,9.6329
+SOM-000179,Somalia - Education Facilities.180,Eley,,SOM,Bari,GARDO,,49.1595,9.793
+SOM-000175,Somalia - Education Facilities.176,Sherbi,,SOM,Bari,WACIYA,,49.09063,9.86306
+SOM-000087,Somalia - Education Facilities.88,ILad-Garood,,SOM,Sanaag,EL AFWEYN,,47.22167,9.93027
+SOM-000172,Somalia - Education Facilities.173,Hida,,SOM,Bari,WACIYA,,49.053,9.95
+SOM-000168,Somalia - Education Facilities.169,Lasa - Dawalo,,SOM,Sanaag,WACIYA,,49.0,10.0
+SOM-000078,Somalia - Education Facilities.79,C/Afweyn Primary & Intermediate,,SOM,Sanaag,EL AFWEYN,,47.21678,10.0
+SOM-000090,Somalia - Education Facilities.91,Yufle,,SOM,Sanaag,EL AFWEYN,,47.11575,10.22122
+SOM-000089,Somalia - Education Facilities.90,Goob,,SOM,Sanaag,ERIGAVO,,47.0,10.34222
+SOM-000081,Somalia - Education Facilities.82,Lafole,,SOM,Sanaag,ERIGAVO,,47.0221,10.3648
+SOM-000196,Somalia - Education Facilities.197,Rako,,SOM,Bari,RAKO,,49.72,9.78
+SOM-000181,Somalia - Education Facilities.182,Habal - reer,,SOM,Bari,GARDO,,49.3,9.8
+SOM-000193,Somalia - Education Facilities.194,Dudhoyo,,SOM,Bari,RAKO,,49.94,9.885
+SOM-000188,Somalia - Education Facilities.189,Xiriiro,,SOM,Bari,ISKUSHUBAN,,50.25,9.97
+SOM-000139,Somalia - Education Facilities.140,Xijijle,,SOM,Bari,ISKUSHUBAN,,50.0,10.0
+SOM-000154,Somalia - Education Facilities.155,Meygag,,SOM,Bari,RAKO,,49.92056,10.0
+SOM-000190,Somalia - Education Facilities.191,Iskushuban,,SOM,Bari,ISKUSHUBAN,,50.22,10.28
+SOM-000189,Somalia - Education Facilities.190,Meladen,,SOM,Bari,ISKUSHUBAN,,49.8,10.434
+SOM-000091,Somalia - Education Facilities.92,Dallo Primary & Intermediate,,SOM,Sanaag,ERIGAVO,,47.02154,10.3719
+SOM-000080,Somalia - Education Facilities.81,Surad,,SOM,Sanaag,ERIGAVO,,47.21503,10.37224
+SOM-000085,Somalia - Education Facilities.86,Xabow,,SOM,Sanaag,ERIGAVO,,47.30526,10.38585
+SOM-000082,Somalia - Education Facilities.83,Marawade,,SOM,Sanaag,ERIGAVO,,47.0,10.4227
+SOM-000083,Somalia - Education Facilities.84,Kulmiye,,SOM,Sanaag,ERIGAVO,,47.35101,10.45221
+SOM-000088,Somalia - Education Facilities.89,G/Biyo Cas,,SOM,Sanaag,ERIGAVO,,46.95408,10.59003
+SOM-000162,Somalia - Education Facilities.163,El-Dahir,,SOM,Bari,BOSSASO,,49.03747,10.6348
+SOM-000079,Somalia - Education Facilities.80,Jiidali,,SOM,Sanaag,ERIGAVO,,47.66663,10.70059
+SOM-000086,Somalia - Education Facilities.87,Xamas,,SOM,Sanaag,ERIGAVO,,47.52887,10.7836
+SOM-000093,Somalia - Education Facilities.94,Xiis,,SOM,Sanaag,ERIGAVO,,46.91845,10.8969
+SOM-000187,Somalia - Education Facilities.188,Gargore,,SOM,Bari,ISKUSHUBAN,,50.69333,10.49
+SOM-000195,Somalia - Education Facilities.196,Timirshe,,SOM,Bari,ISKUSHUBAN,,50.42,10.56
+SOM-000191,Somalia - Education Facilities.192,Xandha,,SOM,Bari,HAFUN,,51.13,10.65
+SOM-000197,Somalia - Education Facilities.198,Ufain,,SOM,Bari,UFEYN,,50.0,10.65
+SOM-000129,Somalia - Education Facilities.130,Dasaan,,SOM,Bari,QANDALA,,50.58793,10.73124
+SOM-000136,Somalia - Education Facilities.137,Balidhidin,,SOM,Bari,QANDALA,,50.0,10.8
+SOM-000163,Somalia - Education Facilities.164,Kala - Bayr,,SOM,Bari,BOSSASO,,49.25611,10.84556
+SOM-000198,Somalia - Education Facilities.199,Tasjiic,,SOM,Bari,BOSSASO,,49.45667,10.865
+SOM-000150,Somalia - Education Facilities.151,Taageer,,SOM,Bari,BARGAAL,,50.9,10.94889
+SOM-000094,Somalia - Education Facilities.95,Maydh,,SOM,Sanaag,ERIGAVO,,47.09496,10.98149
+SOM-000138,Somalia - Education Facilities.139,Dhadaar,,SOM,Bari,BOSSASO,,49.0,11.0
+SOM-000164,Somalia - Education Facilities.165,Galgala,,SOM,Bari,BOSSASO,,49.0,11.19
+SOM-000166,Somalia - Education Facilities.167,Hormuud,,SOM,Bari,BOSSASO,,49.18,11.2
+SOM-000159,Somalia - Education Facilities.160,Humuure,,SOM,Bari,BOSSASO,,49.18,11.28
+SOM-000169,Somalia - Education Facilities.170,Halane,,SOM,Bari,BOSSASO,,49.18,11.28366
+SOM-000158,Somalia - Education Facilities.159,Kuin,,SOM,Bari,BOSSASO,,49.18063,11.28366
+SOM-000135,Somalia - Education Facilities.136,Beeliwacatay,,SOM,Bari,QANDALA,,50.39,11.0
+SOM-000133,Somalia - Education Facilities.134,Musse Jibril Moh e'd,,SOM,Bari,QANDALA,,50.4,11.0
+SOM-000131,Somalia - Education Facilities.132,15 May,,SOM,Bari,QANDALA,,49.87,11.0
+SOM-000167,Somalia - Education Facilities.168,Shafici,,SOM,Bari,BOSSASO,,49.18063,11.0
+SOM-000137,Somalia - Education Facilities.138,Hamure,,SOM,Bari,QANDALA,,50.5,11.0
+SOM-000151,Somalia - Education Facilities.152,Baargael,,SOM,Bari,BARGAAL,,51.077,11.28
+SOM-000161,Somalia - Education Facilities.162,15 May,,SOM,Bari,BOSSASO,,49.18063,11.28
+SOM-000160,Somalia - Education Facilities.161,Al- Rowda,,SOM,Bari,BOSSASO,,49.18063,11.2836
+SOM-000130,Somalia - Education Facilities.131,Karin Eilgal,,SOM,Bari,QANDALA,,50.0,11.28839
+SOM-000134,Somalia - Education Facilities.135,Eilgal,,SOM,Bari,QANDALA,,50.0,11.37
+SOM-000132,Somalia - Education Facilities.133,Ali Fahie Geedi,,SOM,Bari,QANDALA,,50.0,11.47
+SOM-000128,Somalia - Education Facilities.129,Buruc,,SOM,Bari,BOSSASO,,49.68235,11.47327
+SOM-000145,Somalia - Education Facilities.146,Hoogaad,,SOM,Bari,ALULA,,51.05,11.53
+SOM-000149,Somalia - Education Facilities.150,Geesaleay,,SOM,Bari,ALULA,,50.5,11.7
+SOM-000141,Somalia - Education Facilities.142,Saynwayn,,SOM,Bari,ALULA,,51.19,11.7
+SOM-000147,Somalia - Education Facilities.148,Saynyar,,SOM,Bari,ALULA,,51.2,11.7
+SOM-000144,Somalia - Education Facilities.145,Ceel laas,,SOM,Bari,ALULA,,51.18,11.7
+SOM-000140,Somalia - Education Facilities.141,Kulmiye,,SOM,Bari,ALULA,,51.21,11.77
+SOM-000146,Somalia - Education Facilities.147,Bareda,,SOM,Bari,ALULA,,51.0,11.8
+SOM-000148,Somalia - Education Facilities.149,Alula,,SOM,Bari,ALULA,,50.7,11.9
