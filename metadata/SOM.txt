@@ -1,3 +1,5 @@
 /Users/heatherbaier/Documents/geo_git/data/SOM/Somalia - Education Facilities
     https://energydata.info/dataset/somalia-education-facilities1
     https://data.humdata.org/dataset/somalia-schools
+School Master List, August 2022.xlsx
+    https://data.humdata.org/dataset/somalia-education-facilities
