@@ -1,0 +1,167 @@
+geo_id,deped_id,school_name,address,adm0,adm1,adm2,adm3,longitude,latitude
+MUS-000000,,Droopnath Ramphul SSS Girls,Calebasses,MUS,Pamplemousses,,,57.5630079,-20.1140763
+MUS-000001,,Goodlands SSS Boys,Goodlands,MUS,RiviÃ¨re du Rempart,,,57.635228,-20.0281514
+MUS-000002,,Sharma Jugdambi SSS Girls,Goodlands,MUS,RiviÃ¨re du Rempart,,,57.6437277,-20.0338344
+MUS-000003,,Adolphe De Plevitz SSS Boys,Grand Baie,MUS,RiviÃ¨re du Rempart,,,57.5795618,-20.0204268
+MUS-000004,,Beekrumsing Ramlallah SSS Boys,Mapou,MUS,RiviÃ¨re du Rempart,,,57.6086707,-20.0776915
+MUS-000005,,Pailles SSS Girls,Pailles,MUS,Moka,,,57.4942365,-20.1893538
+MUS-000006,,Pamplemousses SSS Girls,Pamplemousses,MUS,Pamplemousses,,,57.5722097,-20.1018155
+MUS-000007,,Rabindranath Tagore SSS Boys and Girls,Pamplemousses,MUS,Pamplemousses,,,57.5736194,-20.1262463
+MUS-000008,,Piton SC Boys,Piton,MUS,Pamplemousses,,,57.6331032,-20.0981592
+MUS-000009,,Frank Richard SSS Girls,Pte aux Sables,MUS,Black River,,,57.4667928,-20.1721822
+MUS-000010,,GMD Atchia SC Girls,Port Louis,MUS,Port Louis,,,57.5123253,-20.1715337
+MUS-000011,,A H G Mohamed Issac SSS ex Port Louis SSS Girls,Port Louis,MUS,Port Louis,,,57.5130861,-20.1723488
+MUS-000012,,Port Louis North SSS Boys,Port Louis,MUS,Port Louis,,,57.5325771,-20.1548693
+MUS-000013,,Renganaden Seeneevassen SSS Girls,Port Louis,MUS,Port Louis,,,57.5054559,-20.1751339
+MUS-000014,,Royal College Port-Louis,Port Louis,MUS,Port Louis,,,57.4862032,-20.1649281
+MUS-000015,,Sir Abdool Razack Mohamed SSS Boys,Port Louis,MUS,Port Louis,,,57.505759,-20.1669895
+MUS-000016,,Dr James Burty David SSS Boys,Bell Village,MUS,Port Louis,,,57.4837648,-20.1747416
+MUS-000017,,Ramsoondur Prayag SSS Boys,Riviere du Rempart,MUS,RiviÃ¨re du Rempart,,,57.686677,-20.1119259
+MUS-000018,,Simadree Virahsawmy SSS Girls,Riviere du Rempart,MUS,RiviÃ¨re du Rempart,,,57.6876539,-20.1132596
+MUS-000019,,Professor Hassan Raffa SSS Boys,Terre Rouge,MUS,Pamplemousses,,,57.5425673,-20.1300894
+MUS-000020,,Terre Rouge SSS Boys,Terre Rouge,MUS,Pamplemousses,,,57.5427496,-20.1304017
+MUS-000021,,Lady Sushil Ramgoolam SSS Girls,Triolet,MUS,Pamplemousses,,,57.5484837,-20.0653039
+MUS-000022,,Triolet SSS Boys,Triolet,MUS,Pamplemousses,,,57.5484678,-20.0639403
+MUS-000023,,Beau Bassin SSS Girls,Beau Bassin,MUS,Plaines Wilhems,,,57.4700832,-20.2147842
+MUS-000024,,John Kennedy College Boys,Beau Bassin,MUS,Plaines Wilhems,,,57.474394,-20.2186831
+MUS-000025,,Marcel Cabon SSS Boys,Beau Bassin,MUS,Plaines Wilhems,,,57.4596596,-20.224012
+MUS-000026,,Bel Air SSS Girls,Bel Air Riviere Seche,MUS,Flacq,,,57.7443759,-20.2609356
+MUS-000027,,Bon Accueil SC Girls,Bon Accueil,MUS,Flacq,,,57.6758797,-20.1748051
+MUS-000028,,Camp De Masque SC Boys,Camp de Masque,MUS,Flacq,,,57.6798592,-20.2315601
+MUS-000029,,Mahatma Gandhi SS Flacq Boys and Girls,Central Flacq,MUS,Flacq,,,57.7234459,-20.1864603
+MUS-000030,,Sir Leckraz Teelock SSS Boys,Central Flacq,MUS,Flacq,,,57.7223826,-20.1869018
+MUS-000031,,Rajcoomar Gujadhur SSS Girls,Central Flacq,MUS,Flacq,,,57.7250431,-20.1938508
+MUS-000032,,Manillal Doctor SSS Girls,Lalmatie,MUS,Flacq,,,57.6733816,-20.1953477
+MUS-000033,,Mahatma Gandhi Institute SS Boys and Girls,Moka,MUS,Moka,,,57.5026857,-20.2271633
+MUS-000034,,Quartier Militaire SSS Girls,Quartier Militaire,MUS,Moka,,,57.6035976,-20.2489253
+MUS-000035,,Shrimati Indira Gandhi SSS Boys,Quartier Militaire,MUS,Moka,,,57.5915658,-20.2479345
+MUS-000036,,Ebene SSS Boys,Rose Hill,MUS,Plaines Wilhems,,,57.4821734,-20.2400261
+MUS-000037,,ebene SSS Girls,Rose Hill,MUS,Plaines Wilhems,,,57.4795316,-20.2384304
+MUS-000038,,Queen Elizabeth College Girls,Rose Hill,MUS,Plaines Wilhems,,,57.47793,-20.2378324
+MUS-000039,,Sebastopol SSS Boys,Sebastopol,MUS,Flacq,,,57.691505,-20.2849019
+MUS-000040,,Royal College Curepipe Boys,Curepipe,MUS,Plaines Wilhems,,,57.5233788,-20.3181425
+MUS-000041,,Dunputh Lallah SSS Girls,Curepipe,MUS,Plaines Wilhems,,,57.5210261,-20.3071257
+MUS-000042,,Floreal SSS Boys,Floreal,MUS,Plaines Wilhems,,,57.5128484,-20.3129009
+MUS-000043,,Forest Side Boys SSS,Forest Side,MUS,Plaines Wilhems,,,57.5385918,-20.3242569
+MUS-000044,,Forest Side Girls SSS,Forest Side,MUS,Plaines Wilhems,,,57.5381597,-20.3221196
+MUS-000045,,Emmanuel Anquetil SSS Boys,Mahebourg,MUS,Grand Port,,,57.7099339,-20.4134349
+MUS-000046,,Mahatma Gandhi SS Boys and Girls,Nouvelle France,MUS,Grand Port,,,57.5697072,-20.3854784
+MUS-000047,,France Boyer de la Giroday SSS Girls,Plaine Magnien,MUS,Grand Port,,,57.6589581,-20.4338294
+MUS-000048,,Riviere des Anguilles SC Girls,Riviere des Anguilles,MUS,Savanne,,,57.5633651,-20.4902507
+MUS-000049,,Sookdeo Bissoondoyal SC Boys,Rose Belle,MUS,Grand Port,,,57.602475,-20.3985701
+MUS-000050,,Swami Vivekananda SSS Girls,Souillac,MUS,Savanne,,,57.5228169,-20.5158477
+MUS-000051,,Saint Aubin SSS Boys,St Aubin,MUS,Savanne,,,57.5504556,-20.4949389
+MUS-000052,,Mootoocoomaren Sangeelee SSS Boys,Surinam,MUS,Savanne,,,57.4947488,-20.5109021
+MUS-000053,,Bambous SSS Boys,Bambous,MUS,Black River,,,57.4186586,-20.2584819
+MUS-000054,,Swami Sivananda SSS Girls,Bambous,MUS,Black River,,,57.416981,-20.258528
+MUS-000055,,Dr Regis Chaperon SSS Boys,Belle Rose,MUS,Plaines Wilhems,,,57.4822769,-20.2485592
+MUS-000056,,Belle Rose SSS Girls,Ebene,MUS,Plaines Wilhems,,,57.4821734,-20.2459466
+MUS-000057,,La Gaulette State SSS Boys and Girls,Case Noyale,MUS,Black River,,,57.3664095,-20.4173159
+MUS-000058,,Phoenix SSS Boys,Phoenix,MUS,Plaines Wilhems,,,57.495237,-20.2830301
+MUS-000059,,Sir Abdool Raman Osman SC Boys,Phoenix,MUS,Plaines Wilhems,,,57.4957889,-20.2818255
+MUS-000060,,Gaetan Raynal SC Girls,Quatre Bornes,MUS,Plaines Wilhems,,,57.4801401,-20.2590936
+MUS-000061,,Quatre Bornes SSS Girls,Quatre Bornes,MUS,Plaines Wilhems,,,57.4776182,-20.2654543
+MUS-000062,,Palma SSS Boys,Quatre Bornes,MUS,Black River,,,57.4452262,-20.2835095
+MUS-000063,,Sodnac SSS Girls,Quatre Bornes,MUS,Plaines Wilhems,,,57.4947059,-20.2731926
+MUS-000064,,Dr Maurice Cure SC Girls,Vacoas,MUS,Plaines Wilhems,,,57.4947279,-20.2970679
+MUS-000065,,Mahatma Gandhi SS Solferino Boys and Girls,Vacoas,MUS,Plaines Wilhems,,,57.4791099,-20.2853529
+MUS-000066,,Seewa Bappoo SSS Girls,Vacoas,MUS,Plaines Wilhems,,,57.4967819,-20.2959713
+MUS-000067,,Vacoas SSS Boys,Vacoas,MUS,Plaines Wilhems,,,57.4785915,-20.3151421
+MUS-000068,,Bhujoharry College Boys and Girls,Pointe aux Sables,MUS,Black River,,,57.4665114,-20.1757151
+MUS-000069,,College BPS Fatima Boys and Girls,Goodlands,MUS,RiviÃ¨re du Rempart,,,57.6542232,-20.0488392
+MUS-000070,,Cosmopolitan College Girls,Plaine Des Papayes,MUS,Pamplemousses,,,57.5807928,-20.0626915
+MUS-000071,,Cosmopolitan College Boys,Plaine Des Papayes,MUS,Pamplemousses,,,57.5799079,-20.0621814
+MUS-000072,,D A V College Boys and Girls,Morcellement St Andre,MUS,Pamplemousses,,,57.5615923,-20.0831881
+MUS-000073,,Dr Jugroo Seegobin DAV College Boys and Girls,Port Louis,MUS,Port Louis,,,57.5091408,-20.170355
+MUS-000074,,Friendship College Girls,Goodlands,MUS,RiviÃ¨re du Rempart,,,57.6493946,-20.0435487
+MUS-000075,,Frienship College Boys,Goodlands,MUS,RiviÃ¨re du Rempart,,,57.6504572,-20.0424486
+MUS-000076,,International College Boys and Girls,Triolet,MUS,Pamplemousses,,,57.5509971,-20.0647085
+MUS-000077,,Islamic Cultural College Boys and Girls,Vallee des Pretres,MUS,Port Louis,,,57.5308081,-20.1548342
+MUS-000078,,Labourdonnais College Boys and Girls,Vallee des Pretres,MUS,Port Louis,,,57.528888,-20.1531761
+MUS-000079,,London College Boys and Girls,Port Louis,MUS,Port Louis,,,57.5079868,-20.1586204
+MUS-000080,,Loreto College Port Louis Girls,Port Louis,MUS,Port Louis,,,57.5078548,-20.1641341
+MUS-000081,,Medco A Bhujoharry Secondary School Girls,Port Louis,MUS,Port Louis,,,57.5053893,-20.171456
+MUS-000082,,Muslim Girls College Girls,Port Louis,MUS,Port Louis,,,57.5067403,-20.1637189
+MUS-000083,,Soondar Munrakhun College Boys and Girls,Long Mountain,MUS,Pamplemousses,,,57.5732625,-20.15513
+MUS-000084,,St Bartholomew s College Boys and Girls,Port Louis,MUS,Port Louis,,,57.5021034,-20.1679888
+MUS-000085,,Universal College Boys and Girls,Riviere du Rempart,MUS,RiviÃ¨re du Rempart,,,57.6920199,-20.1049743
+MUS-000086,,College Pere Laval Boys,Sainte Croix,MUS,Port Louis,,,57.5308081,-20.1489128
+MUS-000087,,Alpha College Boys and Girls,Port Louis,MUS,Port Louis,,,57.504548,-20.166262
+MUS-000088,,College Ideal Boys and Girls,Riviere du Rempart,MUS,RiviÃ¨re du Rempart,,,57.691528,-20.105896
+MUS-000089,,Islamic Cultural College Port Louis Boys,Port Louis,MUS,Port Louis,,,57.5117432,-20.1598084
+MUS-000090,,Madad ul Islam College Girls,Port Louis,MUS,Port Louis,,,57.512099,-20.1601533
+MUS-000091,,MEDCO Cassis Secondary School Girls,Cassis,MUS,Port Louis,,,57.4876548,-20.1640338
+MUS-000092,,Merton College Boys and Girls,Pamplemousses,MUS,Pamplemousses,,,57.5768165,-20.1089474
+MUS-000093,,IISS Port Louis High School Boys and Girls,Vallee des Pretres,MUS,Port Louis,,,57.5353622,-20.149785
+MUS-000094,,City College Boys and Girls,Port Louis,MUS,Port Louis,,,57.508719,-20.165181
+MUS-000095,,Northfields International High School Boys and Girls,Mapou,MUS,RiviÃ¨re du Rempart,,,57.614052,-20.071337
+MUS-000096,,OCEP The Open College Boys and Girls,Port Louis,MUS,Port Louis,,,57.5003097,-20.1733099
+MUS-000097,,Ecole du Nord Boys and Girls,Mapou,MUS,RiviÃ¨re du Rempart,,,57.6126405,-20.0716883
+MUS-000098,,Lighthouse Secondary School,Calebasses,MUS,Pamplemousses,,,57.5546278,-20.1080047
+MUS-000099,,New Concept College Boys and Girls,Port Louis,MUS,Port Louis,,,57.506273,-20.168073
+MUS-000100,,College BPS Girls,Beau Bassin,MUS,Plaines Wilhems,,,57.4665178,-20.2280187
+MUS-000101,,College De La Confiance Boys,Beau Bassin,MUS,Plaines Wilhems,,,57.4614885,-20.2197953
+MUS-000102,,Darwin College Boys and Girls,Central Flacq,MUS,Flacq,,,57.7178922,-20.1936916
+MUS-000103,,Loreto College Rose Hill Girls,Rose Hill,MUS,Plaines Wilhems,,,57.4753935,-20.2402285
+MUS-000104,,Loreto College St Pierre Girls,Saint Pierre,MUS,Moka,,,57.5349283,-20.2233417
+MUS-000105,,Mayflower College Boys and Girls,Brisee Verdiere,MUS,Flacq,,,57.6608993,-20.1769126
+MUS-000106,,Modern College Boys and Girls,Central Flacq,MUS,Flacq,,,57.7257941,-20.1933249
+MUS-000107,,New Devton College Boys and Girls,Beau Bassin,MUS,Plaines Wilhems,,,57.4644053,-20.2305111
+MUS-000108,,New Educational College Boys and Girls,Bel Air Riviere Seche,MUS,Flacq,,,57.7580774,-20.2583674
+MUS-000109,,New Eton College Boys,Rose Hill,MUS,Plaines Wilhems,,,57.472184,-20.2429743
+MUS-000110,,Patten College Girls,Rose Hill,MUS,Plaines Wilhems,,,57.4749897,-20.2467669
+MUS-000111,,Prof B Bissoondoyal College Boys and Girls,Central Flacq,MUS,Flacq,,,57.7241511,-20.1936431
+MUS-000112,,St Andrew s School Boys and Girls,Rose Hill,MUS,Plaines Wilhems,,,57.4670362,-20.2391568
+MUS-000113,,St Mary s College Boys,Rose Hill,MUS,Plaines Wilhems,,,57.4693966,-20.2400678
+MUS-000114,,Royal Holloway College Boys and Girls,Montagne Blanche,MUS,Moka,,,57.6553411,-20.2831766
+MUS-000115,,Lycee de Beau Bassin Girls,Beau Bassin,MUS,Plaines Wilhems,,,57.4656522,-20.2303736
+MUS-000116,,Nelson College Boys and Girls,Saint Pierre,MUS,Moka,,,57.5337441,-20.2201283
+MUS-000117,,Bhujoharry College Quartier Militaire Boys and Girls,Quartier Militaire,MUS,Moka,,,57.5979971,-20.2478584
+MUS-000118,,Beckenham College Boys and Girls,Rose Hill,MUS,Plaines Wilhems,,,57.4747691,-20.2479697
+MUS-000119,,Ecole du Centre Pierre Poivre Boys and Girls,Saint Pierre,MUS,Moka,,,57.5224944,-20.2266496
+MUS-000120,,Le Bocage International School Boys and Girls,Moka,MUS,Moka,,,57.5049847,-20.2149736
+MUS-000121,,Lycee des Mascareignes Cie le Lyceen,Saint Pierre,MUS,Moka,,,57.524617,-20.2270879
+MUS-000122,,Full Day Sumputh Secondary School Boys and Girls,Rose Hill,MUS,Plaines Wilhems,,,57.474331,-20.2409872
+MUS-000123,,Sanatan College,Moka,MUS,Moka,,,57.5008187,-20.23675
+MUS-000124,,Reets High School,St Julien D Hotman,MUS,Moka,,,57.6278547,-20.2343743
+MUS-000125,,Curepipe College Boys,Curepipe,MUS,Plaines Wilhems,,,57.523529,-20.3114289
+MUS-000126,,Doha Secondary School Boys and Girls,Curepipe,MUS,Plaines Wilhems,,,57.5310874,-20.2963738
+MUS-000127,,Hamilton College Boys,Mahebourg,MUS,Grand Port,,,57.7095795,-20.4083348
+MUS-000128,,Hamilton College Girls,Mahebourg,MUS,Grand Port,,,57.704441,-20.4096632
+MUS-000129,,Hindu Girls  College Girls,Curepipe,MUS,Plaines Wilhems,,,57.5197528,-20.3079302
+MUS-000130,,Imperial College Boys,Forest Side,MUS,Plaines Wilhems,,,57.5308081,-20.3229732
+MUS-000131,,Keats College Boys and Girls,Chemin Grenier,MUS,Savanne,,,57.4635923,-20.4954238
+MUS-000132,,Loreto College Curepipe Girls,Curepipe,MUS,Plaines Wilhems,,,57.5232768,-20.3212971
+MUS-000133,,Loreto College Mahebourg Girls,Mahebourg,MUS,Grand Port,,,57.7099341,-20.4163286
+MUS-000134,,Loreto College Bambous Virieux Boys and Girls,Bambous Virieux,MUS,,,,57.7635221,-20.350397
+MUS-000135,,Mauritius College Boys,Curepipe,MUS,Plaines Wilhems,,,57.5245965,-20.3138366
+MUS-000136,,Mauritius College Girls,Curepipe,MUS,Plaines Wilhems,,,57.5251346,-20.3127421
+MUS-000137,,Notre Dame College Girls,Curepipe,MUS,Plaines Wilhems,,,57.5252361,-20.3093954
+MUS-000138,,Presidency College Boys,Curepipe,MUS,Plaines Wilhems,,,57.5248823,-20.3108864
+MUS-000139,,St Joseph s College Boys,Curepipe,MUS,Plaines Wilhems,,,57.5230251,-20.3203727
+MUS-000140,,Doha College Souillac,Souillac,MUS,Savanne,,,57.5247824,-20.517954
+MUS-000141,,Renascence College Boys and Girls,Curepipe,MUS,Plaines Wilhems,,,57.530265,-20.320565
+MUS-000142,,Windsor College Boys,New Grove,MUS,Grand Port,,,57.6125807,-20.4083631
+MUS-000143,,Full Day School Samputh Secondary School,Curepipe,MUS,Plaines Wilhems,,,57.5274724,-20.3211944
+MUS-000144,,Lycee Labourdonnais Boys and Girls,Forest Side,MUS,Plaines Wilhems,,,57.529347,-20.3262138
+MUS-000145,,Mauricia Institute,Floreal,MUS,Plaines Wilhems,,,57.5145227,-20.313641
+MUS-000146,,OCEP The Open College Boys and Girls,Forest Side,MUS,Plaines Wilhems,,,57.536334,-20.323118
+MUS-000147,,Daar ul Maarif Secondary School Boys and Girls,Eau Coulee,MUS,Plaines Wilhems,,,57.5275566,-20.3055681
+MUS-000148,,DAV College,Rose Belle,MUS,Grand Port,,,57.5983173,-20.3972945
+MUS-000149,,Adventist College Boys and Girls,Phoenix,MUS,Plaines Wilhems,,,57.4997677,-20.2825675
+MUS-000150,,Aleemiah College Boys and Girls,Phoenix,MUS,Plaines Wilhems,,,57.5095829,-20.2820505
+MUS-000151,,College Du St Esprit Boys,Quatre Bornes,MUS,Plaines Wilhems,,,57.4701509,-20.2664803
+MUS-000152,,Eden College Boys,Quatre Bornes,MUS,Plaines Wilhems,,,57.478838,-20.2480955
+MUS-000153,,Eden College Girls,Quatre Bornes,MUS,Plaines Wilhems,,,57.4794329,-20.2457905
+MUS-000154,,Le Lycee Mauricien,Phoenix,MUS,Plaines Wilhems,,,57.5046622,-20.2847459
+MUS-000155,,Loreto College Quatre Bornes Girls,Quatre Bornes,MUS,Plaines Wilhems,,,57.4742752,-20.2644768
+MUS-000156,,N Saddul College Boys and Girls,Vacoas,MUS,Plaines Wilhems,,,57.4858241,-20.2999196
+MUS-000157,,Patten College Boys,Quatre Bornes,MUS,Plaines Wilhems,,,57.4783712,-20.2461428
+MUS-000158,,St Helenas College ,Vacoas,MUS,Plaines Wilhems,,,57.4811903,-20.3112725
+MUS-000159,,St Marys West College,Petite Riviere,MUS,Black River,,,57.4504887,-20.1941938
+MUS-000160,,Islamic Cultural College Belle Rose Boys,Belle Rose,MUS,Plaines Wilhems,,,57.4851621,-20.251807
+MUS-000161,,College Ste Marie Boys and Girls,Quatre Bornes,MUS,Black River,,,57.4480026,-20.2817451
+MUS-000162,,St Nicholas Grammar School Secondary Boys and Girls,Phoenix,MUS,Plaines Wilhems,,,57.4995743,-20.2838763
+MUS-000163,,Morning Star School Boys and Girls,Trianon,MUS,Plaines Wilhems,,,57.502526,-20.251301
+MUS-000164,,Westcoast International Secondary School,Cascavelle,MUS,Black River,,,57.399187,-20.277798
+MUS-000165,,Orchard Academic Secondary School,Hermitage Triolet,MUS,Pamplemousses,,,57.5505469,-20.0648679
