@@ -8,3 +8,5 @@ MEN_MATRICULA_EN_EDUCACION_EN_PREESCOLAR__B_SICA_Y_MEDIA_2010_A_2017.csv
     https://www.datos.gov.co/Educaci-n/neiva-true/ccd8-guae
     Contains the statistical enrollment of Basic and Secondary Preschool Education in Colombia since 2010.
 
+instituciones-educativas-oficiales-y-no-oficiales-colombia.csv
+    https://data.humdata.org/dataset/centros-educativos-2020
