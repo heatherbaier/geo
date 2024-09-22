@@ -6,7 +6,18 @@ data/COL/MEN_MATRICULA_EN_EDUCACION_EN_PREESCOLAR__B_SICA_Y_MEDIA_2010_A_2017.cs
 archive
 *.idea*
 
+files_for_db/shps/
+
 data/bgd/bgd_poi_educationfacilities_lged
 data/IDN/IDN_school_facilities
 data/KGZ/kgz_edufac_unicef_shp
 files_for_db/shps/
+
+data/bgd/bgd_poi_educationfacilities_lged
+data/IDN/IDN_school_facilities
+data/KGZ/kgz_edufac_unicef_shp
+
+scripts/geo/IDN/geoBoundaries-IDN-ADM2.geojson
+scripts/geo/IDN/temp.zip
+scripts/geo/IDN/geoBoundaries-IDN-ADM2.shp
+
