@@ -5,3 +5,5 @@
     By Departments, municipality, educational center, levels, grades, ages Statistics Approved, failed, Dropouts, Transfers
 coordenadasporcentroeducativo_siplie_23marzo2020.xlsx
     https://data.humdata.org/dataset/centros-educativos-de-honduras
+35_Matricula_inicial_por_grados_2011.xlsx
+    http://estadisticas.se.gob.hn/see/archivos_descargables.php
