@@ -21,18 +21,28 @@ data.rename(columns={'Q2_1NumberofStudentsTotalNow': 'total_student_enrollment',
                      'Q2_4NumberOfStaff2Now': 'total_teachers'}, inplace=True)
 
 # gender of teachers isn't specified, so set those columns as None
+data["deped_id"] = None
 data["total_teacher_male"] = None
 data["total_teacher_female"] = None
 
 # select relevant columns
 data = data[["geo_id",
              "year",
+             "deped_id",
              "total_teacher_male",
              "total_teacher_female",
              "total_teachers",
              "total_student_male",
              "total_student_female",
              "total_student_enrollment"]]
+
+print(data.shape)
+
+data = data.dropna(subset = "geo_id")
+
+print(data.head())
+
+print(data.shape)
 
 # save to csv
 data.to_csv("../../files_for_db/personnel/lby_personnel.csv", index = False)
