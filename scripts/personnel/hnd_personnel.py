@@ -17,7 +17,7 @@ data_2011.columns = ["deped_id", "total_student_female", "total_student_male", "
 data_2011["year"] = 2011
 
 # read in 2013 data
-data_2013 = pd.read_excel("90_201311_USINIEH_Matricula_Inicial_2013_SEE_por_Grado.xlsx", header=None)
+data_2013 = pd.read_excel("../../data/HND/90_201311_USINIEH_Matricula_Inicial_2013_SEE_por_Grado.xlsx", header=None)
 data_2013.columns = data_2013.iloc[1]
 data_2013 = data_2013[2:]
 
@@ -49,6 +49,12 @@ data["total_teachers"] = None
 # reorder columns
 data = data[["geo_id", "year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers",
              "total_student_male", "total_student_female", "total_student_enrollment"]]
+
+data = data.dropna(subset = "geo_id")
+
+print(data.head())
+
+print(data.shape)
 
 # save data
 data.to_csv("../../files_for_db/personnel/hnd_personnel.csv", index = False)
