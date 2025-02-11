@@ -18,6 +18,15 @@ ids = ids[["geo_id", "deped_id"]]
 
 # import raw resources data
 data = pd.read_csv("../../data/LBY/reach_lby_nationalschoolsassessment_complete_db_reliable__not_reliable_18oct2012.csv", low_memory=False)
+data = data.rename(columns = {"QI_eSchoolID": "deped_id"})
+
+# print(data.head())
+# print(data.shape)
+# print(pd.merge(data, ids, on = "deped_id").shape)
+
+# data = pd.merge(data, ids, on = "deped_id")
+
+# agag
 
 # check if each resource is present and ensure that it wasn't damaged
 data["electricity"] = np.where((data["Q4_6Electricity"] > 0) & (data["Q4_4_2Damage1"].isnull()), 1, 0)
@@ -30,18 +39,23 @@ data.rename(columns={'QI_eSchoolID': 'deped_id'}, inplace=True)
 data = pd.merge(data, ids, on = "deped_id")
 
 # for resources not present in the data, set as None
+data["year"] = 2012
 data["internet"] = None
 data["computers"] = None
 data["disability_infrastructure"] = None
+data["ss_sanitation_facilities"] = None
 
 # select necessary columns
 data = data[["geo_id",
+             "year",
+             "deped_id",
+			 "water",
              "electricity",
              "internet",
              "computers",
              "disability_infrastructure",
-             "water",
              "sanitation_facilities",
+			 "ss_sanitation_facilities",
              "handwashing_facilities"]]
 
 # save as csv
