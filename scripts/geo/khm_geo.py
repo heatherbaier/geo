@@ -6,81 +6,26 @@ from utils import *
 
 # Fetch and read the datasets
 DATA_PATH = str(os.path.abspath(os.path.join(__file__ ,"../../.."))) + "/data/KHM/"
-schools2012 = gpd.read_file(DATA_PATH + "school_of_cambodia (2012)/school_of_cambodia.shp")
-schools2014 = gpd.read_file(DATA_PATH + "Basic information of school (2014)/basic_information_of_school_2014.shp")
-sec10_12 = gpd.read_file(DATA_PATH + "lycee-g10-12/Lycee G10-12.shp")
-sec7_12 = gpd.read_file(DATA_PATH + "lycee-g7-12/Lycee G7-12.shp")
-
-# Add dependency ID's to each dataset
-# 2014 schools
-deped_id_ls = ["basic_information_of_school_2014" + f".{idx}" for idx in range(1,schools2014.shape[0]+1)]
-schools2014["deped_id"] = deped_id_ls
-
-# 2012 schools
-deped_id_ls = ["school_of_cambodia" + f".{idx}" for idx in range(1,schools2012.shape[0]+1)]
-schools2012["deped_id"] = deped_id_ls
-
-# Secondary schools 7-12
-deped_id_ls = ["Lycee G7-12" + f".{idx}" for idx in range(1,sec7_12.shape[0]+1)]
-sec7_12["deped_id"] = deped_id_ls
-
-# Secondary schools 10-12
-deped_id_ls = ["Lycee G10-12" + f".{idx}" for idx in range(1,sec10_12.shape[0]+1)]
-sec10_12["deped_id"] = deped_id_ls
-
-# Combine secondary schools
-# sec_schools = sec7_12.append(sec10_12, ignore_index=True)
-
-sec_schools = pd.concat([sec7_12, sec10_12], ignore_index=True)
+khm_schools = gpd.read_file(DATA_PATH + "Basic information of school (2014)/basic_information_of_school_2014.shp")
+khm_schools = khm_schools.to_crs("epsg:4326")
 
 
-# Update CRS and create lat/long for all schools
-
-# Update CRS for 2014 schools
-# info2014.crs
-schools2014 = schools2014.set_crs("EPSG:32648") 
-schools2014 = schools2014.to_crs("EPSG:4326")
-# Create lat/long columns for 2014 schools
-schools2014["longitude"] = schools2014.geometry.x
-schools2014["latitude"] = schools2014.geometry.y
-
-# Update CRS for 2012 schools
-# schools2012.crs
-schools2012 = schools2012.set_crs("EPSG:32648") 
-schools2012 = schools2012.to_crs("EPSG:4326")
-# # Create lat/long columns for 2012 schools
-schools2012["longitude"] = schools2012.geometry.x
-schools2012["latitude"] = schools2012.geometry.y
-
-# Update CRS for secondary schools
-# sec_schools.crs
-sec_schools = sec_schools.set_crs("EPSG:32648") 
-sec_schools = sec_schools.to_crs("EPSG:4326")
-# Create lat/long columns for secondary schools
-sec_schools["longitude"] = sec_schools.geometry.x
-sec_schools["latitude"] = sec_schools.geometry.y
-
-# Join all schools
-schools2014 = schools2014[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE","longitude","latitude","deped_id"]]
-schools2012 = schools2012[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE","longitude","latitude","deped_id"]]
-sec_schools = sec_schools[["PROVINCE","COMMUNE","DISTRICT","SCHOOL_NAM","VILLAGE","longitude","latitude","deped_id"]]
-
-# khm_schools = schools2014.append(schools2012, ignore_index=True)
-# khm_schools = khm_schools.append(sec_schools, ignore_index=True)
+khm_schools["longitude"] = khm_schools.geometry.x
+khm_schools["latitude"] = khm_schools.geometry.y
+khm_schools = khm_schools[["SCHOOL_COD", "SCHOOL_NAM", "longitude", "latitude"]]
+khm_schools.columns = ["deped_id", "school_name", "longitude", "latitude"]
 
 
-khm_schools = pd.concat([schools2014, schools2012], ignore_index=True)
-khm_schools = pd.concat([khm_schools, sec_schools], ignore_index=True)
+print(khm_schools.head())
 
 
-# Generate GEO ID's
+# # Generate GEO ID's
 khm_schools['geo_id'] = pd.Series(range(0,len(khm_schools)+1)).apply(lambda x: 'KHM-{0:0>6}'.format(x))
-# Add address variable
+# # Add address variable
 khm_schools["address"] = None
-# Rename column names
-khm_schools.rename(columns = {'SCHOOL_NAM':'school_name'}, inplace = True)
 
-# Add ADM level variables
+
+# # Add ADM level variables
 longs = khm_schools["longitude"].values
 lats = khm_schools["latitude"].values
 cols = ["geo_id", "deped_id", "school_name", "address","adm0"]
@@ -118,6 +63,10 @@ gdf = gpd.GeoDataFrame(
         crs = 'EPSG:4326', # or: crs = pyproj.CRS.from_user_input(4326)
     )
 )
+
+print(khm_schools.head())
+
+print(gdf.head())
 
 if not os.path.exists(PATH + "/files_for_db/shps/khm/"):
     os.mkdir(PATH + "/files_for_db/shps/khm/")
