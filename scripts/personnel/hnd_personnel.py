@@ -1,60 +1,62 @@
 import pandas as pd
 
-# import GEO IDs file
+
 ids = pd.read_csv("../../files_for_db/geo/hnd_geo.csv")
+id_dict = dict(zip(ids["deped_id"], ids["geo_id"]))
 
-# limit files to just IDs
-ids = ids[["geo_id", "deped_id"]]
+print(ids.head())
 
-# read in 2011 data
-data_2011 = pd.read_excel("../../data/HND/35_Matricula_inicial_por_grados_2011.xlsx")
+columns = ["year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers", "total_student_male", "total_student_female", "total_student_enrollment"]
 
-# select and rename relevant columns
-data_2011 = data_2011[["Codigo Centro", "Valor Femenino", "Valor Masculino", "Total"]]
-data_2011.columns = ["deped_id", "total_student_female", "total_student_male", "total_student_enrollment"]
 
-# add column for year
-data_2011["year"] = 2011
+def create_cols(df):
+    for col in columns:
+        if col not in df.columns:
+            df[col] = -99
+    df = df[columns]
+    return df
 
-# read in 2013 data
-data_2013 = pd.read_excel("../../data/HND/90_201311_USINIEH_Matricula_Inicial_2013_SEE_por_Grado.xlsx", header=None)
-data_2013.columns = data_2013.iloc[1]
-data_2013 = data_2013[2:]
 
-# group together students of different ages
-data_2013 = data_2013.groupby(lambda x:x, axis=1).sum()
+# 2010
+data2010 = pd.read_csv("../../data/HND/12_Estadistica_inicial_2010_porNivelSubNivel.csv")
+data2010 = data2010[['deped_id', 'total_teacher_female', 'total_teacher_male',
+       'total_student_female', 'total_student_male']].fillna(0)
+data2010["total_student_enrollment"] = data2010['total_student_female'] + data2010['total_student_male']
+data2010["total_teachers"] = data2010['total_teacher_female'] + data2010['total_teacher_male']
+data2010["year"] = 2010
+data2010 = create_cols(data2010)
+print(data2010.head())
 
-# select and rename relevant columns
-data_2013 = data_2013[["Código", "Femenino", "Masculino"]]
-data_2013.columns = ["deped_id", "total_student_female", "total_student_male"]
 
-# add column for year
-data_2013["year"] = 2013
+# 2011
+data2011 = pd.read_csv("../../data/HND/35_Matricula_inicial_por_grados_2011.csv").rename(columns = {"Codigo Centro": "deped_id"})
+data2011["year"] = 2011
+data2011["deped_id"] = data2011["deped_id"].fillna(0).astype(int)
+data2011 = data2011[["year", 'deped_id', "Valor Femenino", "Valor Masculino", "Total"]]
+data2011.columns = ["year", "deped_id", "total_student_female", "total_student_male", "total_student_enrollment"]
+data2011 = pd.DataFrame(data2011.groupby(["deped_id"]).aggregate("sum")).reset_index()#.rename(columns = {"total": "total_student_enrollment"})
+data2011["year"] = 2011
+data2011 = create_cols(data2011)
+print(data2011.head())
 
-# create column for total student count
-data_2013["total_student_enrollment"] = data_2013["total_student_female"] + data_2013["total_student_male"]
 
-# concatenate 2011 and 2013 data
-data = pd.concat([data_2011, data_2013], ignore_index = True)
+# 2013
+data2013 = pd.read_csv("../../data/HND/79_201308_USINIEH_Matricula_Inicial_2013_No_Oficial (2).csv").rename(columns = {"Codigo": "deped_id"}).fillna(0)
+data2013["deped_id"] = data2013["deped_id"].fillna(0).astype(int)
+data2013["total"] = data2013["total"].str.replace(",", "").fillna(0).astype(int)
+data2013 = data2013[["deped_id", 'total']]
+data2013 = pd.DataFrame(data2013.groupby(["deped_id"]).aggregate("sum")).reset_index().rename(columns = {"total": "total_student_enrollment"})
+data2013["year"] = 2013
+data2013 = create_cols(data2013)
+print(data2013.head())
 
-# merge personnel data with IDs
-# I kept entries without geoids, if you don't want this then just remove the how = "left" argument
-data = pd.merge(data, ids, on = "deped_id", how = "left")
 
-# add null columns for teacher counts
-data["total_teacher_male"] = None
-data["total_teacher_female"] = None
-data["total_teachers"] = None
+result = pd.concat([data2010, data2011, data2013], ignore_index=True)
+result = result[result["deped_id"] != 0]
+result["geo_id"] = result["deped_id"].map(id_dict)
+result = result[~result["geo_id"].isna()]
+result = result[["geo_id", "year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers", "total_student_male", "total_student_female", "total_student_enrollment"]]
+print(result.head())
 
-# reorder columns
-data = data[["geo_id", "year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers",
-             "total_student_male", "total_student_female", "total_student_enrollment"]]
 
-data = data.dropna(subset = "geo_id")
-
-print(data.head())
-
-print(data.shape)
-
-# save data
-data.to_csv("../../files_for_db/personnel/hnd_personnel.csv", index = False)
+result.to_csv("../../files_for_db/personnel/hnd_personnel.csv", index = False)
