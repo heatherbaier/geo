@@ -7,15 +7,15 @@ from utils import *
 
 
 # import all data
-gua_1314 = pd.read_excel("../../data/GUA/establecimientos_2013-2014.xlsx")
+gua_1314 = pd.read_excel("../../data/GTM/establecimientos_2013-2014.xlsx")
 print("1")
-gua_1516 = pd.read_excel("../../data/GUA/establecimientos_2015-2016.xlsx")
+gua_1516 = pd.read_excel("../../data/GTM/establecimientos_2015-2016.xlsx")
 print("2")
-gua_1718 = pd.read_excel("../../data/GUA/establecimientos_2017-2018.xlsx")
+gua_1718 = pd.read_excel("../../data/GTM/establecimientos_2017-2018.xlsx")
 print("3")
-gua_1920 = pd.read_excel("../../data/GUA/establecimientos_2019-2020.xlsx")
+gua_1920 = pd.read_excel("../../data/GTM/establecimientos_2019-2020.xlsx")
 print("4")
-gua_2122 = pd.read_excel("../../data/GUA/establecimientos_2021-2022.xlsx")
+gua_2122 = pd.read_excel("../../data/GTM/establecimientos_2021-2022.xlsx")
 print("5")
 
 # combine into one dataframe
@@ -31,9 +31,16 @@ gua_all.reset_index(inplace=True)
 gua_all = gua_all[["Departamento", "Municipio", "CodigoEst", "NombreEstablecimiento", "direccion", "Latitud", "Longitud"]]
 gua_all.columns = ["adm1_temp", "adm2_temp", "deped_id", "school_name", "address", "latitude", "longitude"]
 
+
+gua_all = gua_all[gua_all["latitude"].notna()]
+gua_all = gua_all[gua_all["longitude"].notna()]
+
 # create geo_ids
 gua_all.reset_index(inplace=True)
 gua_all["geo_id"] = gua_all['index'].apply(lambda x: 'GTM-{0:0>6}'.format(x))
+
+
+
 
 # add adm0
 gua_all["adm0"] = "GTM"
@@ -68,7 +75,7 @@ gua_all["address"] = gua_all["address"].str.title()
 gua_all = gua_all[["geo_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3", "longitude", "latitude"]]
 
 # create csv
-gua_all.to_csv("../../files_for_db/geo/gua_geo.csv", index=False)
+gua_all.to_csv("../../files_for_db/geo/gtm_geo.csv", index=False)
 
 
 # create shp files
@@ -80,7 +87,7 @@ gdf = gpd.GeoDataFrame(
         crs = 'EPSG:4326', # or: crs = pyproj.CRS.from_user_input(4326)
     )
 )
-if not os.path.exists("../../files_for_db/shps/gua/"):
-    os.mkdir("../../files_for_db/shps/gua/")
-gdf.to_file("../../files_for_db/shps/gua/gua.shp", index = False)
-shutil.make_archive("../../files_for_db/shps/gua", 'zip', "../../files_for_db/shps/gua")
+if not os.path.exists("../../files_for_db/shps/gtm/"):
+    os.mkdir("../../files_for_db/shps/gtm/")
+gdf.to_file("../../files_for_db/shps/gtm/gtm.shp", index = False)
+shutil.make_archive("../../files_for_db/shps/gtm", 'zip', "../../files_for_db/shps/gtm")

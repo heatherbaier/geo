@@ -1,6 +1,6 @@
 import geopandas as gpd
 import pandas as pd
-import shutil
+import numpy as np
 import os
 
 
@@ -40,7 +40,7 @@ khm_schools = khm_schools.to_crs("epsg:4326")
 khm_schools = khm_schools[["SCHOOL_COD", "SWATER"]].rename(columns = {"SCHOOL_COD": "deped_id", "SWATER": "water"})
 
 
-khm_schools["water"] = khm_schools["water"].astype(int)
+khm_schools["water"] = khm_schools["water"].astype('Int64')
 
 
 
@@ -52,13 +52,13 @@ khm_schools["year"] = 2014
 
 
 # add columns with no values
-khm_schools["internet"] = -99
-khm_schools["electricity"] = -99
-khm_schools["computers"] = -99
-khm_schools["handwashing_facilities"] = -99
-khm_schools["sanitation_facilities"] = -99
-khm_schools["ss_sanitation_facilities"] = -99
-khm_schools["disability_infrastructure"] = -99
+khm_schools["internet"] = np.nan
+khm_schools["electricity"] = np.nan
+khm_schools["computers"] = np.nan
+khm_schools["handwashing_facilities"] = np.nan
+khm_schools["sanitation_facilities"] = np.nan
+khm_schools["ss_sanitation_facilities"] = np.nan
+khm_schools["disability_infrastructure"] = np.nan
 
 khm_schools = pd.merge(khm_schools, ids[["geo_id", "deped_id"]], on = "deped_id")
 
@@ -67,6 +67,21 @@ khm_schools = khm_schools[["geo_id", "year", "deped_id", "water", "internet", "e
 print(khm_schools['internet'].value_counts())
 
 print(khm_schools.head())
+
+# replace all instances of True in the dataframe with 1 and all instances of False with 0 as integers
+khm_schools = khm_schools.replace({True: 1, False: 0})
+
+# convert all columns to integers
+khm_schools["year"] = khm_schools["year"].fillna(np.nan).astype('Int64')
+khm_schools["water"] = khm_schools["water"].fillna(np.nan).astype('Int64')
+khm_schools["electricity"] = khm_schools["electricity"].fillna(np.nan).astype('Int64')
+khm_schools["internet"] = khm_schools["internet"].fillna(np.nan).astype('Int64')
+khm_schools["computers"] = khm_schools["computers"].fillna(np.nan).astype('Int64')
+khm_schools["disability_infrastructure"] = khm_schools["disability_infrastructure"].fillna(np.nan).astype('Int64')
+khm_schools["sanitation_facilities"] = khm_schools["sanitation_facilities"].fillna(np.nan).astype('Int64')
+khm_schools["ss_sanitation_facilities"] = khm_schools["ss_sanitation_facilities"].fillna(np.nan).astype('Int64')
+khm_schools["handwashing_facilities"] = khm_schools["handwashing_facilities"].fillna(np.nan).astype('Int64')
+
 
 # # export
 khm_schools.to_csv("../../files_for_db/resources/khm_resources.csv", index = False)

@@ -16,6 +16,8 @@ data["Longitud"] = data["Longitud"].apply(lambda x: None if x<-90 else x)
 data = data[["Departamento", "Municipio", "CodigoCentro", "NombreCentro", "DireccionCentro", "Latitud", "Longitud"]]
 data.columns = ["adm1_temp", "adm2_temp", "deped_id", "school_name", "address", "latitude", "longitude"]
 
+data = data.drop_duplicates(subset=["deped_id"], keep="first")
+
 # create geo_ids
 data.reset_index(inplace=True)
 data["geo_id"] = data['index'].apply(lambda x: 'HND-{0:0>6}'.format(x))

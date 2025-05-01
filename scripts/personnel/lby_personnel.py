@@ -14,6 +14,14 @@ data["year"] = 2012
 data.rename(columns={'QI_eSchoolID': 'deped_id'}, inplace=True)
 data = pd.merge(data, ids, on = "deped_id")
 
+
+
+print(data.head())
+
+
+# daga
+
+
 # rename relevant columns
 data.rename(columns={'Q2_1NumberofStudentsTotalNow': 'total_student_enrollment',
                      'Q2_1NumberofStudentsBoysNow' : 'total_student_male',
@@ -21,7 +29,7 @@ data.rename(columns={'Q2_1NumberofStudentsTotalNow': 'total_student_enrollment',
                      'Q2_4NumberOfStaff2Now': 'total_teachers'}, inplace=True)
 
 # gender of teachers isn't specified, so set those columns as None
-data["deped_id"] = None
+# data["deped_id"] = None
 data["total_teacher_male"] = None
 data["total_teacher_female"] = None
 

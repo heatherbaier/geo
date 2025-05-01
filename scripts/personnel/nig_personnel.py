@@ -14,9 +14,13 @@ data.columns = ["school_name", "total_teachers", "total_student_enrollment",
 
 data["year"] = data["year"].astype(str).str[0:4]
 
-data = pd.merge(data, ids, on = "deped_id")
+data = pd.merge(data, ids, on = "deped_id", how = "right")
 
 data = data[["geo_id", "year", "deped_id", "total_teacher_male", "total_teacher_female", "total_teachers",
              "total_student_male", "total_student_female", "total_student_enrollment"]]
+
+# print(len(data["geo_id"].unique()))
+
+# print("HERE 2: ", sum(data["year"].isna()))
 
 data.to_csv("../../files_for_db/personnel/nig_personnel.csv", index = False)

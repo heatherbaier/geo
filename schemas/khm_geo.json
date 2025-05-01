@@ -1,0 +1,74 @@
+{
+    "$schema": "https://specs.frictionlessdata.io/table-schema.json",
+    "name": "khm_geo",
+    "title": "Cambodia - Geospatial Table",
+    "description": "Unique school IDs, names, admin codes, and WGS84 coordinates for all Cambodian schools.",
+    "version": "1.0.0",
+    "licenses": [
+      {
+        "name": "CC‐BY‐4.0",
+        "title": "Creative Commons Attribution 4.0",
+        "path": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cambodia Ministry of Education Youth and Sports, OCHA, Open Development Cambodia",
+        "path": "https://data.opendevelopmentcambodia.net/dataset/school-of-cambodia-2012"
+      }
+    ],
+    "homepage": "https://github.com/Global-Education-Observatory/geo-dataset/blob/master/files_for_db/geo/khm_geo.csv",
+    "created": "2025-04-29",
+    "modified": "2025-04-29",
+    "primaryKey": "geo_id",
+    "fields": [
+      {
+        "name": "geo_id",
+        "type": "string",
+        "description": "GEO-internal unique identifier (ISO-xxxxxx)",
+        "constraints": { "required": true }
+      },
+      {
+        "name": "deped_id",
+        "type": "string",
+        "description": "Official Ministry of Education school code"
+      },
+      {
+        "name": "school_name",
+        "type": "string",
+        "description": "Name of the school"
+      },
+      {
+        "name": "adm0_id",
+        "type": "string",
+        "description": "Country ISO3 code"
+      },
+      {
+        "name": "adm1_id",
+        "type": "string",
+        "description": "First‐level administrative unit (e.g. department)"
+      },
+      {
+        "name": "adm2_id",
+        "type": "string",
+        "description": "Second‐level administrative unit"
+      },
+      {
+        "name": "adm3_id",
+        "type": "string",
+        "description": "Third‐level administrative unit"
+      },
+      {
+        "name": "longitude",
+        "type": "number",
+        "description": "Longitude (WGS84, EPSG:4326)",
+        "constraints": { "pattern": "^-?\\d+\\.\\d+$" }
+      },
+      {
+        "name": "latitude",
+        "type": "number",
+        "description": "Latitude (WGS84, EPSG:4326)",
+        "constraints": { "pattern": "^-?\\d+\\.\\d+$" }
+      }
+    ]
+  }

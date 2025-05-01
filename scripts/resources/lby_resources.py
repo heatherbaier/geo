@@ -58,5 +58,22 @@ data = data[["geo_id",
 			 "ss_sanitation_facilities",
              "handwashing_facilities"]]
 
+# replace all instances of True in the dataframe with 1 and all instances of False with 0 as integers
+data = data.replace({True: 1, False: 0})
+
+# convert all columns to integers
+data["year"] = data["year"].fillna(np.nan).astype('Int64')
+data["water"] = data["water"].fillna(np.nan).astype('Int64')
+data["electricity"] = data["electricity"].fillna(np.nan).astype('Int64')
+data["internet"] = data["internet"].fillna(np.nan).astype('Int64')
+data["computers"] = data["computers"].fillna(np.nan).astype('Int64')
+data["disability_infrastructure"] = data["disability_infrastructure"].fillna(np.nan).astype('Int64')
+data["sanitation_facilities"] = data["sanitation_facilities"].fillna(np.nan).astype('Int64')
+data["ss_sanitation_facilities"] = data["ss_sanitation_facilities"].fillna(np.nan).astype('Int64')
+data["handwashing_facilities"] = data["handwashing_facilities"].fillna(np.nan).astype('Int64')
+
+
+
+
 # save as csv
 data.to_csv("../../files_for_db/resources/lby_resources.csv", index = False)
