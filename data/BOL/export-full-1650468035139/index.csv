@@ -1,2 +1,3 @@
-"schema";"uuid";"id";"type";"isHarvested";"title";"abstract"
-"iso19139";"5fac6233-54d6-451f-9cba-0c8dfa4d2159";"209";"METADATA";"n";"Locales educativos del Estado Plurinacional de Bolivia, 2008";"Este mapa muestra los Locales Educativos ( escuelas, colegios y  centros educativos ) georeferenciados representados por puntos. Esta información fue recopilada y construida en base a planos preimpresos con ayuda de los Directores Distritales de Educación a nivel nacional y el Instituto Nacional de Estadística(INE). Para este trabajo no se llegó a la etapa de validación de datos y por tanto ésta información debe ser considerada como referencial. La versión que se presenta corresponde al levantamiento de la gestión 2008 al 95%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:63adda9e3eda5b2abf160299c2dbc1d7a9f97440809589455af38c04c74357cb
+size 738
