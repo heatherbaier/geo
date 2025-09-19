@@ -23,3 +23,9 @@ REPITENTES_EN_ESCUELAS_2014-2022.xlsx
 REPITENTES_EN_COLEGIOS_2014-2022.xlsx
     https://www.mep.go.cr/indicadores_edu/autotabulaciones.html
     Repeaters in schools 2014-2022
+
+cri_schools
+    https://sigmep.maps.arcgis.com/home/index.html
+    https://sigmep.maps.arcgis.com/home/item.html?id=ca44f94983c840b49aaf44900e2b8981&view=list&sortOrder=desc&sortField=defaultFSOrder#data
+    https://sigmep.maps.arcgis.com/apps/mapviewer/index.html?panel=gallery&suggestField=true&layers=ca44f94983c840b49aaf44900e2b8981
+    added this URL into QGIS as an AcrGIS Feature layer: https://services1.arcgis.com/aWQmxJWy7lM2Qqmo/arcgis/rest/services/CE_Publicos_CR/FeatureServer

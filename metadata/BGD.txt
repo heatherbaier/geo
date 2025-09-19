@@ -1,3 +1,10 @@
 bgd_poi_educationfacilities_lged
     https://data.humdata.org/dataset/bangladesh-education-facilities-by-lged
     Find data at Drive link: https://drive.google.com/drive/folders/1j3_qoAbQRGj1Zvi1b6erKekjRebqZ3UG?usp=sharing
+
+
+https://data.gov.bd/dataset?topics=education
+
+
+/Users/heatherbaier/Documents/geo_git/data/BGD/data-resource_2018_02_05_Student_By_Age (1).xls
+    https://data.gov.bd/dataset/students-information-bangladesh

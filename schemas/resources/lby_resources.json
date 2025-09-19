@@ -1,0 +1,38 @@
+{
+    "$schema": "https://specs.frictionlessdata.io/table-schema.json",
+    "name": "lby_resources",
+    "title": "Libya — Resource Table",
+    "description": "Availability of school-level infrastructure resources including electricity, water, sanitation, and technology.",
+    "version": "1.0.0",
+    "licenses": [
+      {
+        "name": "CC‐BY‐4.0",
+        "title": "Creative Commons Attribution 4.0",
+        "path": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "REACH Initiative",
+        "path": "https://data.humdata.org/dataset/reach-libya-national-schools-assessment-2012"
+      }
+    ],
+    "homepage": "https://github.com/Global-Education-Observatory/geo-dataset/blob/master/files_for_db/resources/lby_resources.csv",
+    "created": "2025-04-29",
+    "modified": "2025-04-29",
+    "primaryKey": ["geo_id", "year"],
+    "fields": [
+      { "name": "geo_id", "type": "string", "description": "Unique GEO school identifier", "constraints": { "required": true } },
+      { "name": "deped_id", "type": "string", "description": "Official Ministry of Education school code" },
+      { "name": "year", "type": "integer", "description": "Year of record" },
+      { "name": "water", "type": "integer", "description": "Availability of water (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "internet", "type": "integer", "description": "Availability of internet (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "electricity", "type": "integer", "description": "Availability of electricity (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "computers", "type": "integer", "description": "Availability of computers (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "disability_infrastructure", "type": "integer", "description": "Availability of inclusive infrastructure (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "sanitation_facilities", "type": "integer", "description": "Availability of single-sex basic sanitation facilities (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "ss_sanitation_facilities", "type": "integer", "description": "Availability of single-sex toilets (1 = yes, 0 = no, NULL = missing)" },
+      { "name": "handwashing_facilities", "type": "integer", "description": "Availability of basic handwashing facilities (1 = yes, 0 = no, NULL = missing)" }
+    ]
+  }
+  

@@ -1,0 +1,4 @@
+Mexico:
+	https://www.datos.gob.mx/dataset/informacion_infraestructura_fisica_educativa
+	https://www.datos.gob.mx/dataset/catalogo_centros_trabajo_sep
+	https://www.datos.gob.mx/dataset/registro_alumnado_personal_docente_educacion_basica_media_superior_formato_911

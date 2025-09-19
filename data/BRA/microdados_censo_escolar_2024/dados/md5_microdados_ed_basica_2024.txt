@@ -1,0 +1,2 @@
+04D691FE6D8D744DE65F21ED65068AD6 *microdados_ed_basica_2024.csv
+3A534DF0EF7B0C46C474206DEC572369 *suplemento_cursos_tecnicos_2024.csv
