@@ -1,0 +1,47 @@
+country: BLZ
+table_name: blz_level
+description: >
+  School-level classification for Belize, aligning Ministry of Education "Level_" categories
+  (Preschool, Primary, Secondary, Vocational) with ISCED 2011 levels 0–3. Tertiary and
+  Adult/Continuing programs are excluded from GEO because they are outside the scope of
+  compulsory/basic education.
+source: >
+  Belize Ministry of Education EMIS school list (Level_ column).
+  Mapping to ISCED based on UIS ISCED 2011 definitions and Belize education system descriptions.
+update_frequency: annual
+selection_criteria: >
+  Included: Preschool (ISCED 0), Primary (ISCED 1), Secondary (ISCED 3), Vocational (ISCED 3 - vocational track).
+  Excluded: Tertiary (ISCED 5–8) and Adult and Continuing (non-formal education).
+columns:
+  - column_name: geo_id
+    description: Foreign key to geo table.
+    type: string
+    source: geo table
+    creation_method: Direct join.
+
+  - column_name: school_level
+    description: Primary ISCED classification of the school.
+    type: categorical [pre_primary, primary, upper_secondary, excluded, unknown]
+    source: Level_ column
+    creation_method: |
+      if Level_ == "Preschool" → pre_primary (ISCED 0)
+      if Level_ == "Primary" → primary (ISCED 1)
+      if Level_ == "Secondary" → upper_secondary (ISCED 3)
+      if Level_ == "Vocational" → upper_secondary (ISCED 3, vocational)
+      if Level_ == "Tertiary" or "Adult and Continuing" → excluded
+      else → unknown
+    notes: Tertiary and adult programs removed from final GEO table.
+
+  - column_name: school_level_detail
+    description: Reserved for schools serving multiple ISCED levels.
+    type: string
+    source: Derived from Level_
+    creation_method: Null for Belize since schools are single-level in EMIS.
+    notes: Populated only in countries where schools cover multiple levels.
+
+  - column_name: is_technical
+    description: Boolean flag for vocational/technical schools.
+    type: boolean
+    source: Level_ column
+    creation_method: True if Level_ == "Vocational", else False.
+    notes: Allows separating vocational track schools from academic upper secondary.

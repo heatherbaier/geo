@@ -1,0 +1,3 @@
+/home/hbaier/Desktop/geo/data/LAO/lao_school_2014_primary
+/home/hbaier/Desktop/geo/data/LAO/lao_school_info_2014
+    https://data.laos.opendevelopmentmekong.net/dataset/school-information-in-lao-pdr-2014

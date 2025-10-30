@@ -1,0 +1,53 @@
+country: BHR
+table_name: school_levels
+description: >
+  School-level classification for Bahrain, aligning local stages (Kindergarten,
+  Primary, Intermediate, Secondary, Technical) with ISCED 2011 levels 0–3.
+  Includes a detail field for
+  schools serving multiple ISCED levels (e.g., primary + intermediate).
+source: >
+  Bahrain Ministry of Education data, supported by TIMSS/PIRLS 2019 country profile,
+  Scholaro Education System description, and UIS ISCED 2011 definitions.
+update_frequency: annual
+columns:
+  - column_name: school_id
+    description: Foreign key to geo table.
+    type: string
+    source: geo table
+    creation_method: Direct join.
+
+  - column_name: school_level
+    description: Primary classification of the school by ISCED level.
+    type: categorical [pre_primary, primary, lower_secondary, upper_secondary, mixed, unknown]
+    source: Derived from NAME field
+    creation_method: |
+      if "kindergarten" in name → pre_primary (ISCED 0)
+      if "primary" and "intermediate" → mixed (covers ISCED 1 + 2)
+      elif "primary" → primary (ISCED 1)
+      elif "intermediate" → lower_secondary (ISCED 2)
+      elif "secondary" → upper_secondary (ISCED 3)
+      else → unknown
+    notes: Regex-based name parsing; see school_level_detail for combined-level info.
+
+  - column_name: school_level_detail
+    description: Comma-separated list of all ISCED levels served (if mixed).
+    type: string
+    source: Derived from NAME field
+    creation_method: Populated only for multi-level schools (e.g., "primary,lower_secondary").
+    notes: Null for single-level schools.
+
+  - column_name: is_technical
+    description: Boolean indicating if the school is vocational/technical.
+    type: boolean
+    source: Derived from NAME field
+    creation_method: True if NAME contains "technical" or "vocational".
+    notes: Allows separating academic and vocational tracks.
+
+  - column_name: classification_confidence
+    description: Confidence rating for school level classification.
+    type: categorical [high, medium, low]
+    source: Derived
+    creation_method: >
+      High if keyword match exact; medium if multiple keywords/mixed level;
+      low if set manually or cannot be disambiguated.
+    notes: Useful for filtering out uncertain cases.

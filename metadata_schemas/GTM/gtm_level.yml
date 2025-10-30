@@ -1,0 +1,40 @@
+country: GTM
+table_name: school_levels
+description: >
+  School-level classification for Guatemala, aligning Ministry of Education (MINEDUC)
+  "Level_" categories with ISCED 2011 levels 0–3. Includes pre-primary through upper
+  secondary (Diversificado). Also flags whether a school is a cooperative school.
+source: >
+  MINEDUC EMIS school list (Level_ and Sector columns), MINEDUC "Estructura del Sistema Educativo",
+  and UIS ISCED 2011 country mappings.
+update_frequency: annual
+selection_criteria: >
+  Included: Inicial (ISCED 0), Preprimaria (ISCED 0), Primaria (ISCED 1),
+  Básico (ISCED 2), Diversificado (ISCED 3 - academic and technical programs).
+  Excluded: Primaria de Adultos (adult primary education).
+columns:
+  - column_name: geo_id
+    description: Foreign key to geo table.
+    type: string
+    source: geo table
+    creation_method: Direct join.
+
+  - column_name: school_level
+    description: ISCED-aligned school level classification.
+    type: categorical [pre_primary, primary, lower_secondary, upper_secondary, excluded, unknown]
+    source: Level_ column from EMIS
+    creation_method: |
+      if Level_ == "INICIAL" or "PREPRIMARIA" → pre_primary (ISCED 0)
+      if Level_ == "PRIMARIA" → primary (ISCED 1)
+      if Level_ == "BASICO" → lower_secondary (ISCED 2)
+      if Level_ == "DIVERSIFICADO" → upper_secondary (ISCED 3)
+      if Level_ == "PRIMARIA DE ADULTOS" → excluded
+      else → unknown
+    notes: Diversificado programs include academic and technical tracks per MINEDUC guidelines.
+
+  - column_name: is_cooperative
+    description: Boolean indicating if the school is a cooperative school.
+    type: boolean
+    source: Sector column from EMIS
+    creation_method: True if Sector == "COOPERATIVA", else False.
+    notes: Allows users to separate cooperative schools from fully public or cooperative schools.

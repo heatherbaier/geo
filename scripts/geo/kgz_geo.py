@@ -13,6 +13,13 @@ kgz_ef.columns = ["address", "longitude", "latitude", "school_name","deped_id"]
 kgz_ef = kgz_ef[kgz_ef["longitude"] != 0]
 kgz_ef = kgz_ef[kgz_ef["latitude"] != 0]
 
+
+
+
+
+
+
+
 # Generate GEO ID's
 kgz_ef = kgz_ef.reset_index()
 kgz_ef['geo_id'] = kgz_ef['index'].apply(lambda x: 'KGZ-{0:0>6}'.format(x))

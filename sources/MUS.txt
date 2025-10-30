@@ -1,0 +1,8 @@
+data/MUS/List Primary Schools_reworked_2.csv
+    https://data.govmu.org/dkan/?q=dataset/location-primary-school-mauritius
+
+data/MUS/Locations of Secondary Schools in Mauritius_0.csv
+    https://data.govmu.org/dkan/?q=dataset/locations-secondary-schools-mauritius
+
+data/MUS/DataSet.csv
+    https://data.govmu.org/dkan/?q=dataset/location-primary-school-rodrigues-and-agalega

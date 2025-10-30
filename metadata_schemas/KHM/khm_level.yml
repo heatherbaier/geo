@@ -1,0 +1,30 @@
+country: KHM
+table_name: school_levels
+description: >
+  School-level classification for Cambodia, aligning EMIS school type categories with
+  ISCED 2011 levels 0–3.
+source: >
+  Cambodia Ministry of Education, Youth and Sport (MoEYS) EMIS school list (school type column),
+  UIS ISCED 2011 country mapping.
+update_frequency: annual
+selection_criteria: >
+  Included: Pre-school (ISCED 0), Primary (ISCED 1), College (ISCED 2),
+  Lycee G7-12 (mixed ISCED 2+3), Lycee G10-12 (ISCED 3).
+columns:
+  - column_name: geo_id
+    description: Foreign key to geo table.
+    type: string
+    source: geo table
+    creation_method: Direct join.
+
+  - column_name: school_level
+    description: ISCED-aligned school level classification.
+    type: categorical [pre_primary, primary, lower_secondary, upper_secondary, mixed]
+    source: school_type column from EMIS
+    creation_method: |
+      if school_type == "Pre school" → pre_primary (ISCED 0)
+      if school_type == "Primary" → primary (ISCED 1)
+      if school_type == "College" → lower_secondary (ISCED 2)
+      if school_type == "Lycee G7-12" → mixed (covers ISCED 2+3)
+      if school_type == "Lycee G10-12" → upper_secondary (ISCED 3)
+    notes: Lycee G7-12 is classified as mixed to reflect combined lower+upper secondary programs.

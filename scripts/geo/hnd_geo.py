@@ -18,66 +18,15 @@ data.columns = ["adm1_temp", "adm2_temp", "deped_id", "school_name", "address", 
 
 data = data.drop_duplicates(subset=["deped_id"], keep="first")
 
-# create geo_ids
-data.reset_index(inplace=True)
-data["geo_id"] = data['index'].apply(lambda x: 'HND-{0:0>6}'.format(x))
+iso = "HND"
 
-# create adm0
-data["adm0"] = "HND"
+# df = df.reset_index()
+data['geo_id'] = ['HND-{0:0>6}'.format(i) for i in range(1, len(data) + 1)]
 
-# add other adms
-longs = data["longitude"].values
-lats = data["latitude"].values
-cols = ["index", "adm1_temp", "adm2_temp", "deped_id", "school_name", "address", "latitude", "longitude", "geo_id", "adm0"]
-for adm in range(1, 4):
-    try:
-        cols += ["adm" + str(adm)]
-        downloadGB("HND", str(adm), ".")
-        shp = gpd.read_file(getGBpath("HND", f"ADM{str(adm)}", "."))
-        shp = shp.set_crs("EPSG:4326")
-        data = gpd.GeoDataFrame(data, geometry = gpd.points_from_xy(data.longitude, data.latitude))
-
-        data = data.set_crs("EPSG:4326")
-        shp = shp.set_crs("EPSG:4326")
-
-        if adm == 1:
-            data = gpd.clip(data, shp)
-            longs = data["longitude"].values
-            lats = data["latitude"].values
-
-        data = gpd.tools.sjoin(data, shp, how = "left").rename(columns = {"shapeName": "adm" + str(adm)})[cols]
-        data["longitude"] = longs
-        data["latitude"] = lats
-
-        print(data.head())
-    except Exception as e:
-        data["adm" + str(adm)] = None
-        print(e)
-
-# compare to adms in the dataset and use adms originally in dataset if no lat/long
-data["adm1"] = data["adm1"].fillna((data["adm1_temp"]).str.title())
-data["adm2"] = data["adm2"].fillna((data["adm2_temp"]).str.title())
-
-# reformat columns
-data["school_name"] = data["school_name"].str.title()
-data["address"] = data["address"].str.title()
-
-# select and reorder columns
-data = data[["geo_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3", "longitude", "latitude"]]
-
-# export as csv
-data.to_csv("../../files_for_db/geo/hnd_geo.csv", index=False)
-
-# create shp files
-gdf = gpd.GeoDataFrame(
-    data,
-    geometry = gpd.points_from_xy(
-        x = data.longitude,
-        y = data.latitude,
-        crs = 'EPSG:4326', # or: crs = pyproj.CRS.from_user_input(4326)
-    )
+gdf = process_geo_file(
+    df = data,
+    iso = iso,
+    gb_path = "../../gb",
+    # csv_out="/Users/heatherbaier/Documents/geo_git/files_for_db/geo/bhr_geo.csv",
+    # shp_out="/Users/heatherbaier/Documents/geo_git/files_for_db/shps/bhr"
 )
-if not os.path.exists("../../files_for_db/shps/hnd/"):
-    os.mkdir("../../files_for_db/shps/hnd/")
-gdf.to_file("../../files_for_db/shps/hnd/hnd.shp", index = False)
-shutil.make_archive("../../files_for_db/shps/hnd", 'zip', "../../files_for_db/shps/hnd")

@@ -8,6 +8,12 @@ from utils import *
 
 # Clean coordinates
 bol_ef = gpd.read_file("/Users/heatherbaier/Documents/geo_git/data/BOL/EstabEducativos/EstabEducativos.shp")
+
+print()
+
+
+
+
 bol_ef = bol_ef[["gml_id", "ESTABLECIM", "POINT_X", "POINT_Y"]]
 bol_ef.columns = ["deped_id", "school_name", "longitude", "latitude"]
 bol_ef = bol_ef[bol_ef["longitude"] != 0]

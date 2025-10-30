@@ -1,0 +1,48 @@
+country: HND
+table_name: school_levels
+description: >
+  School-level classification for Honduras, parsing reported "Nivel" values
+  (which may list multiple levels separated by slashes) into ISCED 2011-aligned
+  levels. Flags whether a school offers adult education programs.
+source: >
+  Honduras Ministry of Education (SEDUC) EMIS school list (Nivel column),
+  UIS ISCED 2011 mapping, and Honduras education system structure (grades 1–9 Básica,
+  grades 10–12 Media).
+update_frequency: annual
+selection_criteria: >
+  Included: Pre-Básica-Jardines and Pre-Básica-CCPREB (ISCED 0), Básica (ISCED 1+2),
+  Media (ISCED 3). 
+  All schools with adult education modalities (Básica - Adultos) were kept, but an
+  "offers_adult_program" flag was added for transparency.
+columns:
+  - column_name: geo_id
+    description: Foreign key to geo table.
+    type: string
+    source: geo table
+    creation_method: Direct join.
+
+  - column_name: school_level
+    description: ISCED-aligned school level classification.
+    type: categorical [pre_primary, primary, lower_secondary, upper_secondary, mixed, unknown]
+    source: Nivel column from EMIS
+    creation_method: |
+      if contains "Pre-Básica" or "CCPREB" → pre_primary (ISCED 0)
+      if contains "Básica" (any variant) → primary + lower_secondary (ISCED 1+2)
+      if contains "Media" → upper_secondary (ISCED 3)
+      if multiple levels present → mixed
+      else → unknown
+    notes: Combination schools classified as "mixed" to indicate they serve multiple levels.
+
+  - column_name: school_level_detail
+    description: Comma-separated list of all ISCED levels served by the school.
+    type: string
+    source: Derived from Nivel
+    creation_method: Populated for combination schools to specify which levels they serve.
+    notes: Null for schools serving only one level.
+
+  - column_name: offers_adult_program
+    description: Boolean indicating whether the school offers adult basic education programs.
+    type: boolean
+    source: Nivel column
+    creation_method: True if "Adultos" present in Nivel value, else False.
+    notes: Does not exclude the school from GEO; provided for analytic flexibility.

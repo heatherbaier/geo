@@ -1,0 +1,7 @@
+establecimientos_20221020.csv
+    https://datos.mec.gov.py/data/establecimientos
+pry_coords.csv
+    generated using QGIS tools on the establecimientos_20221020.csv file
+
+/Users/heatherbaier/Documents/geo_git/data/PRY/instituciones_2012.csv
+    https://www.datos.gov.py/dataset/datos-espec%C3%ADficos-de-instituciones-educativas/resource/acbfcd23-8264-4db2-89e2-3d11e697324f#{view-graph:{graphOptions:{hooks:{processOffset:{},bindEvents:{}}}},graphOptions:{hooks:{processOffset:{},bindEvents:{}}}}
