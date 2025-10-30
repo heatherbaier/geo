@@ -1,9 +1,0 @@
-pri-performing-all.csv
-    https://africaopendata.org/dataset/education-dashboard/resource/199db4b3-0068-4d6d-b7e8-c055cac83be5
-Primary Enrolment by Age and Sex,2021.csv
-Secondary Enrolment by Age and Sex, 2021.csv
-    https://www.tamisemi.go.tz/singleministers/basic-education-data-2021
-    year: 2020-2021
-Consolidated_Primary_EnrolmentbyGrade_PTR_2022_PSLE2021.csv
-Consolidated_Secondary_EnrolmentbyGrade_PTR_CSEE2021, 2022.csv
-    https://www.tamisemi.go.tz/singleministers/basic-education-data-2022

@@ -1,6 +1,0 @@
-data/TUN/gps_etablissements_scolaires.xls
-    https://catalog.data.gov.tn/fr/dataset/liste-des-coordonnees-gps-relatives-aux-etablissements-scolaires/resource/ff93e73a-1b67-4f63-bc9a-0ad4f4043789
-
-data/TUN/liste_redoublant_eleves.xls
-    Number of repeaters According to public educational establishments.
-    https://catalog.data.gov.tn/fr/dataset/nombre-de-repeteurs-selon-les-etablissements-d-enseignement-publics

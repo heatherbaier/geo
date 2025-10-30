@@ -1,2 +1,0 @@
-schoolsandtheircoordinates2020.xlsx
-    https://data.humdata.org/dataset/zimbabwe-education-facilities-in-zimbabwe

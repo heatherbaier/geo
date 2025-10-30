@@ -7,6 +7,7 @@ archive
 *.idea*
 
 files_for_db/shps/
+data/BOL/scrape/
 
 data/bgd/bgd_poi_educationfacilities_lged
 data/IDN/IDN_school_facilities
