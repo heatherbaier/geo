@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("/Users/heatherbaier/Documents/geo/files_for_db/geo/bhr_geo.csv")
+df = pd.read_csv("../../files_for_db/geo/bhr_geo.csv")
 print(df.shape)
 df.head()
 
@@ -42,10 +42,12 @@ df[["school_level", "school_level_detail", "is_technical"]] = df.apply(classify_
 df["school_level"].value_counts()
 df
 
-columns = ["geo_id", "deped_id", "school_level", "school_level_detail"]
+columns = ["oedc_id", "deped_id", "school_level", "school_level_detail", "is_technical"]
 
 df = df[columns]
 
+df["deped_id"] = df["deped_id"].astype(int)
+
 print(df.head())
 
-df.to_csv("/Users/heatherbaier/Documents/geo/files_for_db/level/bhr_level.csv", index = False)
+df.to_csv("../../files_for_db/level/bhr_level.csv", index = False)

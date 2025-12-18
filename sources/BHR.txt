@@ -1,2 +1,4 @@
 bahrain_school_locations.csv
     https://www.data.gov.bh/explore/dataset/educational-institutions/table/
+geographical...
+    https://www.data.gov.bh/explore/dataset/geographical-locations-of-public-schools/export/?disjunctive.governorate&sort=-n&location=10,26.23084,50.84782&basemap=jawg.transports

@@ -117,7 +117,7 @@ def process_geo_file(df, iso, gb_path="../../gb", csv_out=None, shp_out=None):
     longs, lats = gdf["longitude"].values, gdf["latitude"].values
 
     # --- ADM1-ADM3 geocoding ---
-    cols = ["geo_id", "deped_id", "school_name", "adm0", "address"]
+    cols = ["oedc_id", "deped_id", "school_name", "adm0", "address"]
     for adm in range(1, 4):
         try:
             cols += [f"adm{adm}"]
@@ -132,7 +132,7 @@ def process_geo_file(df, iso, gb_path="../../gb", csv_out=None, shp_out=None):
             print(f"[WARN] ADM{adm} join failed: {e}")
 
     # Reorder columns
-    gdf = gdf[["geo_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3", "longitude", "latitude"]]
+    gdf = gdf[["oedc_id", "deped_id", "school_name", "address", "adm0", "adm1", "adm2", "adm3", "longitude", "latitude"]]
 
     # --- Save CSV ---
     if csv_out:

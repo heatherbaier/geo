@@ -8,7 +8,7 @@ from utils import *
 
 
 df = gpd.read_file("../../data/BLZ/schools.geojson")
-df = df[df["Sector"].isin(['Government Aided', 'Government', 'Govern+J617ment Aided'])]
+df = df[df["Sector"].isin(['Government Aided', 'Government', 'Government Aided'])]
 df = df[df["Level_"].isin(['Primary', 'Preschool', 'Secondary', "Vocational"])]
 
 
@@ -25,7 +25,7 @@ df = df[df["longitude"] != 0]
 df = df[df["latitude"] != 0]
 
 # df = df.reset_index()
-df['geo_id'] = ['BLZ-{0:0>6}'.format(i) for i in range(1, len(df) + 1)]
+df['oedc_id'] = ['BLZ-{0:0>6}'.format(i) for i in range(1, len(df) + 1)]
 
 
 gdf = process_geo_file(

@@ -1,0 +1,2 @@
+fb9dadd607cfb568f360d0dd88d32e85 *microdados_ed_basica_2023.csv
+83f6e4a8958838395bb7acec5badeb6f *suplemento_cursos_tecnicos_2023.csv

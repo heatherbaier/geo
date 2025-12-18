@@ -1,20 +1,24 @@
 country: BHR
 table_name: school_levels
-description: >
-  School-level classification for Bahrain, aligning local stages (Kindergarten,
-  Primary, Intermediate, Secondary, Technical) with ISCED 2011 levels 0–3.
-  Includes a detail field for
-  schools serving multiple ISCED levels (e.g., primary + intermediate).
-source: >
-  Bahrain Ministry of Education data, supported by TIMSS/PIRLS 2019 country profile,
-  Scholaro Education System description, and UIS ISCED 2011 definitions.
-update_frequency: annual
+description: School-level classification for Bahrain, aligning local stages (Primary, Intermediate, Secondary) with ISCED 2011 levels 1–3. Includes a detail field for schools serving multiple ISCED levels (e.g., primary + intermediate).
+source: Bahrain Information & eGovernment Authority
+source_link: https://www.data.gov.bh/explore/dataset/geographical-locations-of-public-schools/information/?disjunctive.governorate&sort=-n
+last_updated_by_source: 12/7/2025
+last_updated_by_oedc: 12/17/2025
+
 columns:
-  - column_name: school_id
+  - column_name: oedc_id
     description: Foreign key to geo table.
     type: string
     source: geo table
-    creation_method: Direct join.
+    creation_method: Direct join to geo table.
+
+  - column_name: deped_id
+    description: Unique Ministry of Education identifier for each school.
+    type: string
+    source: geo table - Inherited from Bahrain Information & eGovernment Authority
+    creation_method: n/a
+    notes: From column "N" - may not be an explict school ID.    
 
   - column_name: school_level
     description: Primary classification of the school by ISCED level.
@@ -42,12 +46,3 @@ columns:
     source: Derived from NAME field
     creation_method: True if NAME contains "technical" or "vocational".
     notes: Allows separating academic and vocational tracks.
-
-  - column_name: classification_confidence
-    description: Confidence rating for school level classification.
-    type: categorical [high, medium, low]
-    source: Derived
-    creation_method: >
-      High if keyword match exact; medium if multiple keywords/mixed level;
-      low if set manually or cannot be disambiguated.
-    notes: Useful for filtering out uncertain cases.

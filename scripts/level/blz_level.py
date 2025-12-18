@@ -51,7 +51,7 @@ df[["school_level", "school_level_detail", "is_technical", "classification_confi
     df.apply(classify_belize_school, axis=1)
 )
 
-df = df[["geo_id", "deped_id", "school_level", "school_level_detail", "is_technical"]]
+df = df[["oedc_id", "deped_id", "school_level", "school_level_detail", "is_technical"]]
 
 print(df.head())
 

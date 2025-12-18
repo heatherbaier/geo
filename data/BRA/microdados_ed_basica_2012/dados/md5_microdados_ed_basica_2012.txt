@@ -1,0 +1,1 @@
+0ac85328a1030bdc16eb60fa8aad79a2 *microdados_ed_basica_2012.csv

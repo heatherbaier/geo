@@ -7,29 +7,32 @@ import os
 from utils import *
 
 
-bhr_ef = pd.read_csv("../../data/BHR/bahrain_school_locations.csv")
-bhr_ef = bhr_ef[bhr_ef["SUBTYPE EN"].isin(["KINDERGARTEN", "PUBLIC SCHOOLS - BOYS", "PUBLIC SCHOOLS - GIRLS"])]
-bhr_ef = bhr_ef[~bhr_ef["NAME"].str.contains("VOCATIONAL")]
-bhr_ef = bhr_ef[['NAME', "#", "POINT_X_Longitude", "POINT_Y_Latitude"]]
-bhr_ef = bhr_ef.drop_duplicates(subset = ["POINT_X_Longitude", "POINT_Y_Latitude"])
+bhr_ef = pd.read_csv("../../data/BHR/geographical-locations-of-public-schools.csv")
+# bhr_ef = bhr_ef[bhr_ef["Subtype"].isin(["KINDERGARTEN", "PUBLIC SCHOOLS - BOYS", "PUBLIC SCHOOLS - GIRLS"])]
+# bhr_ef = bhr_ef[~bhr_ef["NAME"].str.contains("VOCATIONAL")]
+bhr_ef = bhr_ef[['Name', "N", "X  Longitude", "Y  Latitude"]]
+bhr_ef = bhr_ef.drop_duplicates(subset = ["X  Longitude", "Y  Latitude"])
 bhr_ef = bhr_ef.reset_index()
 
 # messy, fix!!
-bhr_ef = bhr_ef[["#", "NAME", "POINT_X_Longitude", "POINT_Y_Latitude"]].rename(columns = {"#": "deped_id", "NAME": "school_name", "POINT_X_Longitude": "longitude", "POINT_Y_Latitude": "latitude"})
+bhr_ef = bhr_ef[["N", "Name", "X  Longitude", "Y  Latitude"]].rename(columns = {"N": "deped_id", "Name": "school_name", "X  Longitude": "longitude", "Y  Latitude": "latitude"})
 
 bhr_ef = bhr_ef[bhr_ef["longitude"] != 0]
 bhr_ef = bhr_ef[bhr_ef["latitude"] != 0]
 
-bhr_ef['geo_id'] = ['BHR-{0:0>6}'.format(i) for i in range(1, len(bhr_ef) + 1)]
+bhr_ef['oedc_id'] = ['BHR-{0:0>6}'.format(i) for i in range(1, len(bhr_ef) + 1)]
 
 # bhr_ef = bhr_ef.drop(["index"], axis = 1)
 
 bhr_ef["address"] = None
 bhr_ef["adm0"] = "BHR"
 
+print(bhr_ef.head())
 
 iso = "BHR"
 # bhr_ef["adm0"] = iso
+
+# adgsags
 
 
 # df = df.reset_index()
@@ -58,7 +61,7 @@ gdf = process_geo_file(
 # print(bhr_ef.head())
 
 # # Geocode to ADM levels
-# cols = ["geo_id", "deped_id", "school_name", "adm0", "address"]
+# cols = ["oedc_id", "deped_id", "school_name", "adm0", "address"]
 # for adm in range(1, 4):
 
 #     try:
@@ -78,7 +81,7 @@ gdf = process_geo_file(
 #         bhr_ef["adm" + str(adm)] = None
 #         print(e)
 
-# bhr_ef = bhr_ef[["geo_id","deped_id","school_name","address","adm0","adm1","adm2","adm3","longitude","latitude"]]
+# bhr_ef = bhr_ef[["oedc_id","deped_id","school_name","address","adm0","adm1","adm2","adm3","longitude","latitude"]]
 
 # bhr_ef.to_csv("/Users/heatherbaier/Documents/geo_git/files_for_db/geo/bhr_geo.csv", index = False)
 
